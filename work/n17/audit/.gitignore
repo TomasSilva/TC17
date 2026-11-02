@@ -1,0 +1,19 @@
+# Large or regenerable outputs of the audit, and the raw files packed into results/.  Every ignored file is
+# listed with its size, line count and SHA-256 in manifest_excluded.tsv.
+/cores/lattices_*.jsonl
+/dim2gen/*_ch.jsonl
+/ext/in/
+/ext/out/
+/ext/out2/
+/ext/retry/att_*.jsonl
+/ext/retry2/att_*.jsonl
+/indep/out/
+/asscreen/*.status
+/partA/out/
+/n8zero/p5c_4[34]3[33][23].jsonl
+/cover/f[0-9].lp
+/cover/f[0-9].out
+/lat/part_[a-z][a-z]
+/ext/in2/
+/ext/retry/rec_*.jsonl
+/ext/retry2/rec_*.jsonl
