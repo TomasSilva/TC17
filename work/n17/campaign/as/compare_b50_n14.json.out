@@ -1,0 +1,1 @@
+{"n": 64180, "table": {"AS EMPTY / ours NONREAL": 63422, "AS REAL / ours REAL": 735, "AS cost>1 / ours NONREAL": 17, "AS cost>1 / ours REAL": 6}, "disagreements": 0, "missing_ours": 0} undecided_filter_only: 12

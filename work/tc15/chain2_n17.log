@@ -1,0 +1,7 @@
+Thu Oct  8 16:49:22 -03 2026 stage 1 done: FINAL n17: worker output 1502990971 states (1502990971 output), per class [1495909996, 1016814025]; master separately (81644s)
+Fri Oct  9 03:13:26 -03 2026 pipeline done:     2001 chunks
+Fri Oct  9 03:13:27 -03 2026 class 0 (d1=7):    22943 lattices to Macaulay2
+Fri Oct  9 03:24:50 -03 2026 M2 class 0 done: 22943 lattices, realisable: 0 components, MIXED: 0, errors: 0
+Fri Oct  9 03:24:50 -03 2026 class 1 (d1=8):    14620 lattices to Macaulay2
+Fri Oct  9 03:32:02 -03 2026 M2 class 1 done: 14620 lattices, realisable: 0 components, MIXED: 0, errors: 0
+CHAIN DONE

@@ -1,0 +1,2 @@
+{"idx": "b50:1553/816", "comp": 0, "kind": "family", "n": 14, "param_ok": true, "generic": [], "status": "OK", "gnodes": 1, "special_factors": 25, "special_points": 89, "special_noshape": 0, "special_degenerate": 0, "sstats": {"nodes": 95, "phipruned": 5}, "special": [], "time": 19.8, "src": "core", "cap": 3, "wall": 19.85}
+{"ALLDONE": "part_ag"}

@@ -1,0 +1,51 @@
+2 NONREAL allbad1
+7 DEFER res-nonconst | NONREAL nf
+12 NONREAL gcd1
+17 NONREAL const
+22 DEFER nvar>=3
+27 DEFER nvar>=3
+32 DEFER nvar>=3
+37 DEFER commonfactor | NONREAL nf
+42 DEFER res-nonconst | NONREAL nf
+47 DEFER commonfactor | DEFER commonfactor2
+52 DEFER commonfactor | NONREAL nf
+57 DEFER res-nonconst | NONREAL nf
+62 DEFER commonfactor | NONREAL nf
+67 DEFER commonfactor | NONREAL res2
+72 DEFER commonfactor | NONREAL nf
+77 DEFER commonfactor | NONREAL nf
+82 DEFER commonfactor | NONREAL res2
+87 DEFER nvar>=3
+92 DEFER commonfactor | NONREAL res2
+97 DEFER commonfactor | NONREAL nf
+102 DEFER commonfactor | NONREAL nf
+107 DEFER nvar>=3
+112 DEFER res-nonconst | NONREAL nf
+117 DEFER res-nonconst | NONREAL nf
+122 DEFER commonfactor | NONREAL nf
+127 DEFER res-nonconst | NONREAL nf
+132 DEFER nvar>=3
+137 DEFER nvar>=3
+142 DEFER res-nonconst | NONREAL nf
+147 DEFER commonfactor | NONREAL res2
+152 DEFER commonfactor | NONREAL nf
+157 DEFER commonfactor | NONREAL nf
+162 DEFER res-nonconst | NONREAL nf
+167 DEFER commonfactor | NONREAL nf
+172 DEFER commonfactor | NONREAL nf
+177 DEFER commonfactor | NONREAL nf
+182 DEFER nvar>=3
+187 DEFER commonfactor | NONREAL nf
+192 DEFER nvar>=3
+197 DEFER nvar>=3
+202 DEFER commonfactor | NONREAL nf
+207 DEFER nvar>=3
+212 DEFER nvar>=3
+217 DEFER nvar>=3
+222 NONREAL allbad1
+227 DEFER res-nonconst | NONREAL nf
+232 NONREAL zerobad
+237 DEFER commonfactor | NONREAL nf
+242 DEFER commonfactor | NONREAL nf
+247 DEFER commonfactor | NONREAL nf
+ALLDONE

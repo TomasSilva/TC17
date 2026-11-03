@@ -1,0 +1,3 @@
+{"idx": "b50:1553/801", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 1}, "found": [], "src": "core", "cap": 3, "wall": 0.01}
+{"idx": "b51:41078/1771", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 5, "phipruned": 4}, "found": [], "src": "core", "cap": 2, "wall": 0.01}
+{"ALLDONE": "part_aw"}

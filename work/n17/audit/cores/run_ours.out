@@ -1,0 +1,16 @@
+== a49 bigblocks Wed Oct 21 23:45:45 -03 2026
+FINAL a49: 296 big-block configurations, 296 states (0s)
+FINAL a49 part 0: 99 configs, 72782 raw solutions, 53708 distinct lattices (13s)
+FINAL a49 part 1: 99 configs, 88770 raw solutions, 52631 distinct lattices (16s)
+FINAL a49 part 2: 98 configs, 74001 raw solutions, 47833 distinct lattices (13s)
+== a50 bigblocks Wed Oct 21 23:46:02 -03 2026
+FINAL a50: 295 big-block configurations, 295 states (0s)
+FINAL a50 part 0: 99 configs, 349537 raw solutions, 239732 distinct lattices (57s)
+FINAL a50 part 1: 98 configs, 480766 raw solutions, 298309 distinct lattices (76s)
+FINAL a50 part 2: 98 configs, 322121 raw solutions, 199982 distinct lattices (51s)
+== a51 bigblocks Wed Oct 21 23:47:18 -03 2026
+FINAL a51: 291 big-block configurations, 291 states (0s)
+FINAL a51 part 0: 97 configs, 1796447 raw solutions, 995339 distinct lattices (267s)
+FINAL a51 part 1: 97 configs, 921286 raw solutions, 556579 distinct lattices (157s)
+FINAL a51 part 2: 97 configs, 2002946 raw solutions, 1364421 distinct lattices (284s)
+ALL DONE Wed Oct 21 23:52:02 -03 2026

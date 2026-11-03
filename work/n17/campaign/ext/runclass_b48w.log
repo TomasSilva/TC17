@@ -1,0 +1,7 @@
+22:43:01 records 249 REAL 85 other (timeout/error) 0
+22:43:01 n=13 rigid 80, dim1 5, dim>=2 0
+22:43:05 n=13 rigid done
+22:43:05 n=13 rigid components: 80 expected, 80 finished
+22:44:37 n=13 family components: 5 expected, 5 finished
+22:44:37 n=13 families done; 0 family records sent to the lattice-level step (slow or failed)
+22:44:37 done; lattice files: 20

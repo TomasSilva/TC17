@@ -1,0 +1,106 @@
+{"idx": "b48:46", "comp": 0, "family": true, "dim": 1}
+{"idx": "b48:46", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:0", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:0", "comp": 0, "slice_nodes": {"0": 1, "1": 15, "2": 8}}
+{"idx": "b49:630", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:630", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:1320", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:1320", "comp": 0, "slice_nodes": {"0": 1, "1": 2}}
+{"idx": "b49:21", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:21", "comp": 0, "slice_nodes": {"0": 1, "1": 8, "2": 3}}
+{"idx": "b49:51", "comp": 0, "family": true, "dim": 2}
+{"idx": "b49:51", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:171", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:171", "comp": 0, "slice_nodes": {"0": 1, "1": 9, "2": 5}}
+{"idx": "b49:351", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:351", "comp": 0, "slice_nodes": {"0": 1, "1": 5, "2": 6}}
+{"idx": "b49:1401", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:1401", "comp": 0, "slice_nodes": {"0": 1, "1": 1}}
+{"idx": "b49:2501", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:2501", "comp": 0, "slice_nodes": {"0": 1, "1": 3}}
+{"idx": "b49:9241", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:9241", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:42", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:42", "comp": 0, "slice_nodes": {"0": 1, "1": 3}}
+{"idx": "b49:172", "comp": 0, "family": true, "dim": 2}
+{"idx": "b49:172", "comp": 0, "slice_nodes": {"0": 1, "1": 6}}
+{"idx": "b49:23", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:23", "comp": 0, "slice_nodes": {"0": 1, "1": 5}}
+{"idx": "b49:53", "comp": 0, "family": true, "dim": 2}
+{"idx": "b49:53", "comp": 0, "slice_nodes": {"0": 1, "1": 2, "2": 1}}
+{"idx": "b49:153", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:153", "comp": 0, "slice_nodes": {"0": 1, "1": 5, "2": 2}}
+{"idx": "b49:323", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:323", "comp": 0, "slice_nodes": {"0": 1, "1": 2}}
+{"idx": "b49:314", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:314", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b48:81", "comp": 0, "family": true, "dim": 1}
+{"idx": "b48:81", "comp": 0, "slice_nodes": {"0": 1, "1": 4, "2": 2}}
+{"idx": "b48:223", "comp": 0, "family": true, "dim": 1}
+{"idx": "b48:223", "comp": 0, "slice_nodes": {"0": 1, "1": 4}}
+{"idx": "b49:20", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:20", "comp": 0, "slice_nodes": {"0": 1, "1": 5}}
+{"idx": "b49:50", "comp": 0, "family": true, "dim": 2}
+{"idx": "b49:50", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:170", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:170", "comp": 0, "slice_nodes": {"0": 1, "1": 8, "2": 6}}
+{"idx": "b49:340", "comp": 0, "family": true, "dim": 2}
+{"idx": "b49:340", "comp": 0, "slice_nodes": {"0": 1, "1": 10, "2": 6}}
+{"idx": "b49:1250", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:1250", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:31", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:31", "comp": 0, "slice_nodes": {"0": 1, "1": 7, "2": 1}}
+{"idx": "b49:91", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:91", "comp": 0, "slice_nodes": {"0": 1, "1": 7, "2": 10}}
+{"idx": "b49:22", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:22", "comp": 0, "slice_nodes": {"0": 1, "1": 8, "2": 1}}
+{"idx": "b49:52", "comp": 0, "family": true, "dim": 2}
+{"idx": "b49:52", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:74922", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:74922", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:3", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:3", "comp": 0, "slice_nodes": {"0": 1, "1": 7, "2": 12, "3": 1}}
+{"idx": "b49:33", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:33", "comp": 0, "slice_nodes": {"0": 1, "1": 9, "2": 1}}
+{"idx": "b49:163", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:163", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:44", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:44", "comp": 0, "slice_nodes": {"0": 1, "1": 9, "2": 1}}
+{"idx": "b49:3114", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:3114", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:29474", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:29474", "comp": 0, "slice_nodes": {"0": 1, "1": 3}}
+{"idx": "b49:55", "comp": 0, "family": true, "dim": 2}
+{"idx": "b49:55", "comp": 0, "slice_nodes": {"0": 1, "1": 1}}
+{"idx": "b49:145", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:145", "comp": 0, "slice_nodes": {"0": 1, "1": 4, "2": 2}}
+{"idx": "b49:705", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:705", "comp": 0, "slice_nodes": {"0": 1, "1": 2}}
+{"idx": "b48:2", "comp": 0, "family": true, "dim": 1}
+{"idx": "b48:2", "comp": 0, "slice_nodes": {"0": 1, "1": 12}}
+{"idx": "b48:44", "comp": 0, "family": true, "dim": 1}
+{"idx": "b48:44", "comp": 0, "slice_nodes": {"0": 1, "1": 2, "2": 1}}
+{"idx": "b49:30", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:30", "comp": 0, "slice_nodes": {"0": 1, "1": 3}}
+{"idx": "b49:350", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:350", "comp": 0, "slice_nodes": {"0": 1, "1": 6, "2": 4}}
+{"idx": "b49:41", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:41", "comp": 0, "slice_nodes": {"0": 1, "1": 11, "2": 1}}
+{"idx": "b49:321", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:321", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:32", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:32", "comp": 0, "slice_nodes": {"0": 1, "1": 8, "2": 2}}
+{"idx": "b49:2202", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:2202", "comp": 0, "slice_nodes": {"0": 1, "1": 3}}
+{"idx": "b49:43", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:43", "comp": 0, "slice_nodes": {"0": 1, "1": 7}}
+{"idx": "b49:353", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:353", "comp": 0, "slice_nodes": {"0": 1, "1": 11, "2": 5}}
+{"idx": "b49:24", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:24", "comp": 0, "slice_nodes": {"0": 1, "1": 8}}
+{"idx": "b49:54", "comp": 0, "family": true, "dim": 2}
+{"idx": "b49:54", "comp": 0, "slice_nodes": {"0": 1}}
+{"idx": "b49:25", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:25", "comp": 0, "slice_nodes": {"0": 1, "1": 1}}
+{"idx": "b49:335", "comp": 0, "family": true, "dim": 1}
+{"idx": "b49:335", "comp": 0, "slice_nodes": {"0": 1, "1": 17, "2": 8}}

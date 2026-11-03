@@ -1,0 +1,28 @@
+LATTICE 5 components 3 good 0 dims {} zerobad 0
+LATTICE 15 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 25 components 5 good 0 dims {} zerobad 0
+LATTICE 35 components 1 good 0 dims {} zerobad 0
+LATTICE 45 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 55 components 3 good 0 dims {} zerobad 0
+LATTICE 65 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 75 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 85 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 95 components 1 good 0 dims {} zerobad 0
+LATTICE 105 NONREAL
+LATTICE 115 components 1 good 0 dims {} zerobad 0
+LATTICE 125 components 1 good 0 dims {} zerobad 0
+LATTICE 135 components 3 good 0 dims {} zerobad 0
+LATTICE 145 components 2 good 0 dims {} zerobad 0
+LATTICE 155 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 165 components 1 good 0 dims {} zerobad 0
+LATTICE 175 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 185 components 1 good 0 dims {} zerobad 0
+DONE
+ALLDONE

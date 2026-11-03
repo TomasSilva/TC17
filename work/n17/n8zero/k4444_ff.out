@@ -1,0 +1,24 @@
+0 DEFER res-nonconst | NONREAL nf
+1 DEFER nvar>=3
+2 NONREAL allbad1
+3 DEFER nvar>=3
+4 DEFER res-nonconst | NONREAL nf
+5 DEFER nvar>=3
+6 DEFER nvar>=3
+7 DEFER nvar>=3
+8 DEFER nvar>=3
+9 NONREAL allbad1
+10 DEFER nvar>=3
+11 DEFER nvar>=3
+12 NONREAL gcd1
+13 DEFER nvar>=3
+14 DEFER nvar>=3
+15 DEFER nvar>=3
+16 DEFER res-nonconst | NONREAL nf
+17 DEFER nvar>=3
+18 NONREAL allbad1
+19 NONREAL allbad1
+20 DEFER nvar>=3
+21 DEFER nvar>=3
+22 NONREAL zerobad
+ALLDONE

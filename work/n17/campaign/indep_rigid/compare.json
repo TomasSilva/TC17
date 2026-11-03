@@ -1,0 +1,13 @@
+{
+ "exact_components": 99575,
+ "numeric_components": 99575,
+ "compared": 99575,
+ "differing": 0,
+ "examples": [],
+ "lattice_mismatch": 0,
+ "errors": 0,
+ "ambiguous": 0,
+ "numeric_only_components": 0,
+ "distinct_lattices_exact": 16,
+ "distinct_lattices_numeric": 16
+}

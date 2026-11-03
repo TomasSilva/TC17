@@ -1,0 +1,4 @@
+20000 {'NONREAL res2': 19931, 'NONREAL nf': 69} (74s)
+40000 {'NONREAL res2': 39836, 'NONREAL nf': 161, 'DEFER real2 deg1': 3} (147s)
+60000 {'NONREAL res2': 59760, 'NONREAL nf': 236, 'DEFER real2 deg1': 4} (221s)
+DONE 65802 {'NONREAL res2': 65538, 'NONREAL nf': 260, 'DEFER real2 deg1': 4} (241s)

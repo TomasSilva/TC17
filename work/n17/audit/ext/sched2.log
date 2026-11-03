@@ -1,0 +1,734 @@
+21 23:55:58 start: 367 jobs, 367 to do
+21 23:55:58 start in/rig_000.jsonl rigid
+21 23:55:58 start in/rig_001.jsonl rigid
+21 23:57:01 end in/rig_000.jsonl rc 0
+21 23:57:01 start in/rig_002.jsonl rigid
+21 23:57:04 end in/rig_001.jsonl rc 0
+21 23:57:04 start in/rig_003.jsonl rigid
+21 23:58:04 end in/rig_002.jsonl rc 0
+21 23:58:04 start in/rig_004.jsonl rigid
+21 23:58:13 end in/rig_003.jsonl rc 0
+21 23:58:13 start in/rig_005.jsonl rigid
+21 23:59:07 end in/rig_004.jsonl rc 0
+21 23:59:07 start in/rig_006.jsonl rigid
+21 23:59:16 end in/rig_005.jsonl rc 0
+21 23:59:16 start in/rig_007.jsonl rigid
+22 00:00:13 end in/rig_006.jsonl rc 0
+22 00:00:13 start in/rig_008.jsonl rigid
+22 00:00:31 end in/rig_007.jsonl rc 0
+22 00:00:31 start in/rig_009.jsonl rigid
+22 00:01:16 end in/rig_008.jsonl rc 0
+22 00:01:16 start in/rig_010.jsonl rigid
+22 00:01:37 end in/rig_009.jsonl rc 0
+22 00:01:37 start in/rig_011.jsonl rigid
+22 00:02:23 end in/rig_010.jsonl rc 0
+22 00:02:23 start in/rig_012.jsonl rigid
+22 00:02:50 end in/rig_011.jsonl rc 0
+22 00:02:50 start in/rig_013.jsonl rigid
+22 00:03:29 end in/rig_012.jsonl rc 0
+22 00:03:29 start in/rig_014.jsonl rigid
+22 00:03:53 end in/rig_013.jsonl rc 0
+22 00:03:53 start in/rig_015.jsonl rigid
+22 00:04:35 end in/rig_014.jsonl rc 0
+22 00:04:35 start in/rig_016.jsonl rigid
+22 00:05:02 end in/rig_015.jsonl rc 0
+22 00:05:02 start in/rig_017.jsonl rigid
+22 00:05:38 end in/rig_016.jsonl rc 0
+22 00:05:38 start in/rig_018.jsonl rigid
+22 00:06:08 end in/rig_017.jsonl rc 0
+22 00:06:08 start in/rig_019.jsonl rigid
+22 00:06:47 end in/rig_018.jsonl rc 0
+22 00:06:47 start in/rig_020.jsonl rigid
+22 00:07:14 end in/rig_019.jsonl rc 0
+22 00:07:14 start in/rig_021.jsonl rigid
+22 00:07:56 end in/rig_020.jsonl rc 0
+22 00:07:56 start in/rig_022.jsonl rigid
+22 00:08:23 end in/rig_021.jsonl rc 0
+22 00:08:23 start in/rig_023.jsonl rigid
+22 00:09:06 end in/rig_022.jsonl rc 0
+22 00:09:06 start in/rig_024.jsonl rigid
+22 00:09:33 end in/rig_023.jsonl rc 0
+22 00:09:33 start in/rig_025.jsonl rigid
+22 00:10:15 end in/rig_024.jsonl rc 0
+22 00:10:15 start in/rig_026.jsonl rigid
+22 00:10:36 end in/rig_025.jsonl rc 0
+22 00:10:36 start in/rig_027.jsonl rigid
+22 00:11:18 end in/rig_026.jsonl rc 0
+22 00:11:18 start in/rig_028.jsonl rigid
+22 00:11:48 end in/rig_027.jsonl rc 0
+22 00:11:48 start in/rig_029.jsonl rigid
+22 00:12:33 end in/rig_028.jsonl rc 0
+22 00:12:33 start in/rig_030.jsonl rigid
+22 00:12:57 end in/rig_029.jsonl rc 0
+22 00:12:57 start in/rig_031.jsonl rigid
+22 00:13:36 end in/rig_030.jsonl rc 0
+22 00:13:36 start in/rig_032.jsonl rigid
+22 00:14:00 end in/rig_031.jsonl rc 0
+22 00:14:00 start in/rig_033.jsonl rigid
+22 00:14:33 end in/rig_032.jsonl rc 0
+22 00:14:33 start in/rig_034.jsonl rigid
+22 00:15:03 end in/rig_033.jsonl rc 0
+22 00:15:03 start in/rig_035.jsonl rigid
+22 00:15:43 end in/rig_034.jsonl rc 0
+22 00:15:43 start in/rig_036.jsonl rigid
+22 00:16:13 end in/rig_035.jsonl rc 0
+22 00:16:13 start in/rig_037.jsonl rigid
+22 00:16:22 start in/rig_038.jsonl rigid
+22 00:16:58 end in/rig_036.jsonl rc 0
+22 00:16:58 start in/rig_039.jsonl rigid
+22 00:17:31 end in/rig_037.jsonl rc 0
+22 00:17:31 start in/rig_040.jsonl rigid
+22 00:17:43 end in/rig_038.jsonl rc 0
+22 00:17:43 start in/rig_041.jsonl rigid
+22 00:18:19 end in/rig_039.jsonl rc 0
+22 00:18:19 start in/rig_042.jsonl rigid
+22 00:18:49 end in/rig_040.jsonl rc 0
+22 00:18:49 start in/rig_043.jsonl rigid
+22 00:18:58 end in/rig_041.jsonl rc 0
+22 00:18:58 start in/rig_044.jsonl rigid
+22 00:19:28 end in/rig_042.jsonl rc 0
+22 00:19:28 start in/rig_045.jsonl rigid
+22 00:20:04 end in/rig_043.jsonl rc 0
+22 00:20:04 start in/rig_046.jsonl rigid
+22 00:20:10 end in/rig_044.jsonl rc 0
+22 00:20:10 start in/rig_047.jsonl rigid
+22 00:20:34 end in/rig_045.jsonl rc 0
+22 00:20:34 start in/rig_048.jsonl rigid
+22 00:21:10 end in/rig_046.jsonl rc 0
+22 00:21:10 start in/rig_049.jsonl rigid
+22 00:21:19 end in/rig_047.jsonl rc 0
+22 00:21:19 start in/rig_050.jsonl rigid
+22 00:21:37 end in/rig_048.jsonl rc 0
+22 00:21:37 start in/rig_051.jsonl rigid
+22 00:22:26 end in/rig_049.jsonl rc 0
+22 00:22:26 start in/rig_052.jsonl rigid
+22 00:22:41 end in/rig_050.jsonl rc 0
+22 00:22:41 start in/rig_053.jsonl rigid
+22 00:22:53 end in/rig_051.jsonl rc 0
+22 00:22:53 start in/rig_054.jsonl rigid
+22 00:23:07 start: 312 jobs, 312 to do
+22 00:23:07 start in/rig_055.jsonl rigid
+22 00:23:07 start in/rig_056.jsonl rigid
+22 00:23:07 start in/rig_057.jsonl rigid
+22 00:23:07 start in/rig_058.jsonl rigid
+22 00:24:29 end in/rig_056.jsonl rc 0
+22 00:24:29 start in/rig_059.jsonl rigid
+22 00:24:32 end in/rig_055.jsonl rc 0
+22 00:24:32 end in/rig_057.jsonl rc 0
+22 00:24:32 end in/rig_058.jsonl rc 0
+22 00:24:32 start in/rig_060.jsonl rigid
+22 00:24:32 start in/rig_061.jsonl rigid
+22 00:24:32 start in/rig_062.jsonl rigid
+22 00:25:41 end in/rig_059.jsonl rc 0
+22 00:25:41 end in/rig_061.jsonl rc 0
+22 00:25:41 start in/rig_063.jsonl rigid
+22 00:25:41 start in/rig_064.jsonl rigid
+22 00:25:44 end in/rig_060.jsonl rc 0
+22 00:25:44 start in/rig_065.jsonl rigid
+22 00:25:47 end in/rig_062.jsonl rc 0
+22 00:25:47 start in/rig_066.jsonl rigid
+22 00:26:53 end in/rig_063.jsonl rc 0
+22 00:26:53 end in/rig_064.jsonl rc 0
+22 00:26:53 start in/fam_000.jsonl family
+22 00:26:53 start in/fam_001.jsonl family
+22 00:26:59 end in/rig_065.jsonl rc 0
+22 00:26:59 start in/fam_002.jsonl family
+22 00:27:02 end in/rig_066.jsonl rc 0
+22 00:27:02 start in/fam_003.jsonl family
+22 00:32:48 end in/fam_000.jsonl rc 0
+22 00:32:48 start in/fam_004.jsonl family
+22 00:33:57 end in/fam_001.jsonl rc 0
+22 00:33:57 end in/fam_002.jsonl rc 0
+22 00:33:57 start in/fam_005.jsonl family
+22 00:33:57 start in/fam_006.jsonl family
+22 00:34:51 end in/fam_003.jsonl rc 0
+22 00:34:51 start in/fam_007.jsonl family
+22 00:37:24 end in/fam_006.jsonl rc 0
+22 00:37:24 start in/fam_008.jsonl family
+22 00:39:43 end in/fam_005.jsonl rc 0
+22 00:39:43 start in/fam_009.jsonl family
+22 00:40:25 end in/fam_007.jsonl rc 0
+22 00:40:25 start in/fam_010.jsonl family
+22 00:41:40 end in/fam_004.jsonl rc 0
+22 00:41:40 start in/fam_011.jsonl family
+22 00:47:17 end in/fam_011.jsonl rc 0
+22 00:47:17 start in/fam_012.jsonl family
+22 00:50:26 end in/fam_009.jsonl rc 0
+22 00:50:26 start in/fam_013.jsonl family
+22 00:52:38 end in/fam_008.jsonl rc 0
+22 00:52:38 start in/fam_014.jsonl family
+22 00:57:03 end in/fam_010.jsonl rc 0
+22 00:57:03 start in/fam_015.jsonl family
+22 00:57:12 end in/fam_012.jsonl rc 0
+22 00:57:12 start in/fam_016.jsonl family
+22 01:00:31 end in/fam_014.jsonl rc 0
+22 01:00:31 start in/fam_017.jsonl family
+22 01:02:10 end in/fam_016.jsonl rc 0
+22 01:02:10 start in/fam_018.jsonl family
+22 01:04:13 end in/fam_013.jsonl rc 0
+22 01:04:13 start in/fam_019.jsonl family
+22 01:06:19 end in/fam_018.jsonl rc 0
+22 01:06:19 start in/fam_020.jsonl family
+22 01:09:47 end in/fam_017.jsonl rc 0
+22 01:09:47 start in/fam_021.jsonl family
+22 01:10:47 end in/fam_019.jsonl rc 0
+22 01:10:47 start in/fam_022.jsonl family
+22 01:10:50 end in/fam_015.jsonl rc 0
+22 01:10:50 start in/fam_023.jsonl family
+22 01:17:54 end in/fam_021.jsonl rc 0
+22 01:17:54 start in/fam_024.jsonl family
+22 01:18:33 end in/fam_023.jsonl rc 0
+22 01:18:33 start in/fam_025.jsonl family
+22 01:21:34 end in/fam_020.jsonl rc 0
+22 01:21:34 start in/fam_026.jsonl family
+22 01:26:29 end in/fam_022.jsonl rc 0
+22 01:26:29 start in/fam_027.jsonl family
+22 01:27:26 end in/fam_026.jsonl rc 0
+22 01:27:26 start in/fam_028.jsonl family
+22 01:28:05 end in/fam_024.jsonl rc 0
+22 01:28:05 start in/fam_029.jsonl family
+22 01:33:18 end in/fam_027.jsonl rc 0
+22 01:33:18 start in/fam_030.jsonl family
+22 01:33:57 end in/fam_025.jsonl rc 0
+22 01:33:57 start in/fam_031.jsonl family
+22 01:36:42 end in/fam_028.jsonl rc 0
+22 01:36:42 start in/fam_032.jsonl family
+22 01:41:46 end in/fam_031.jsonl rc 0
+22 01:41:46 start in/fam_033.jsonl family
+22 01:41:49 end in/fam_029.jsonl rc 0
+22 01:41:49 start in/fam_034.jsonl family
+22 01:43:07 end in/fam_032.jsonl rc 0
+22 01:43:07 start in/fam_035.jsonl family
+22 01:46:29 end in/fam_033.jsonl rc 0
+22 01:46:29 start in/fam_036.jsonl family
+22 01:48:11 end in/fam_030.jsonl rc 0
+22 01:48:11 start in/fam_037.jsonl family
+22 01:48:44 end in/fam_035.jsonl rc 0
+22 01:48:44 start in/fam_038.jsonl family
+22 01:49:14 end in/fam_034.jsonl rc 0
+22 01:49:14 start in/fam_039.jsonl family
+22 01:51:11 end in/fam_036.jsonl rc 0
+22 01:51:11 start in/fam_040.jsonl family
+22 01:52:11 end in/fam_037.jsonl rc 0
+22 01:52:11 start in/fam_041.jsonl family
+22 01:55:12 end in/fam_038.jsonl rc 0
+22 01:55:12 start in/fam_042.jsonl family
+22 01:57:06 end in/fam_039.jsonl rc 0
+22 01:57:06 start in/fam_043.jsonl family
+22 01:58:57 end in/fam_041.jsonl rc 0
+22 01:58:57 start in/fam_044.jsonl family
+22 02:01:00 end in/fam_040.jsonl rc 0
+22 02:01:00 start in/fam_045.jsonl family
+22 02:02:34 end in/fam_042.jsonl rc 0
+22 02:02:34 start in/fam_046.jsonl family
+22 02:04:07 end in/fam_043.jsonl rc 0
+22 02:04:07 start in/fam_047.jsonl family
+22 02:08:23 end in/fam_045.jsonl rc 0
+22 02:08:23 start in/fam_048.jsonl family
+22 02:09:38 end in/fam_047.jsonl rc 0
+22 02:09:38 start in/fam_049.jsonl family
+22 02:11:29 end in/fam_044.jsonl rc 0
+22 02:11:29 start in/fam_050.jsonl family
+22 02:14:44 end in/fam_046.jsonl rc 0
+22 02:14:44 start in/fam_051.jsonl family
+22 02:14:59 end in/fam_050.jsonl rc 0
+22 02:14:59 start in/fam_052.jsonl family
+22 02:15:21 end in/fam_048.jsonl rc 0
+22 02:15:21 start in/fam_053.jsonl family
+22 02:18:45 end in/fam_051.jsonl rc 0
+22 02:18:45 start in/fam_054.jsonl family
+22 02:19:36 end in/fam_053.jsonl rc 0
+22 02:19:36 start in/fam_055.jsonl family
+22 02:22:34 end in/fam_049.jsonl rc 0
+22 02:22:34 end in/fam_052.jsonl rc 0
+22 02:22:34 start in/fam_056.jsonl family
+22 02:22:34 start in/fam_057.jsonl family
+22 02:28:37 end in/fam_055.jsonl rc 0
+22 02:28:37 start in/fam_058.jsonl family
+22 02:28:55 end in/fam_054.jsonl rc 0
+22 02:28:55 start in/fam_059.jsonl family
+22 02:31:20 end in/fam_056.jsonl rc 0
+22 02:31:20 start in/fam_060.jsonl family
+22 02:33:08 end in/fam_057.jsonl rc 0
+22 02:33:08 start in/fam_061.jsonl family
+22 02:35:59 end in/fam_060.jsonl rc 0
+22 02:35:59 start in/fam_062.jsonl family
+22 02:36:54 end in/fam_059.jsonl rc 0
+22 02:36:54 start in/fam_063.jsonl family
+22 02:38:21 end in/fam_058.jsonl rc 0
+22 02:38:21 start in/fam_064.jsonl family
+22 02:42:21 end in/fam_061.jsonl rc 0
+22 02:42:21 start in/fam_065.jsonl family
+22 02:44:46 end in/fam_063.jsonl rc 0
+22 02:44:46 start in/fam_066.jsonl family
+22 02:45:01 end in/fam_062.jsonl rc 0
+22 02:45:01 start in/fam_067.jsonl family
+22 02:46:13 end in/fam_064.jsonl rc 0
+22 02:46:13 start in/fam_068.jsonl family
+22 02:48:19 end in/fam_065.jsonl rc 0
+22 02:48:19 start in/fam_069.jsonl family
+22 02:52:56 end in/fam_067.jsonl rc 0
+22 02:52:56 start in/fam_070.jsonl family
+22 02:55:08 end in/fam_066.jsonl rc 0
+22 02:55:08 start in/fam_071.jsonl family
+22 02:55:23 end in/fam_068.jsonl rc 0
+22 02:55:23 start in/fam_072.jsonl family
+22 03:01:06 end in/fam_070.jsonl rc 0
+22 03:01:06 start in/fam_073.jsonl family
+22 03:02:55 end in/fam_069.jsonl rc 0
+22 03:02:55 start in/fam_074.jsonl family
+22 03:03:31 end in/fam_072.jsonl rc 0
+22 03:03:31 start in/fam_075.jsonl family
+22 03:04:49 end in/fam_071.jsonl rc 0
+22 03:04:49 start in/fam_076.jsonl family
+22 03:08:10 end in/fam_075.jsonl rc 0
+22 03:08:10 start in/fam_077.jsonl family
+22 03:13:38 end in/fam_073.jsonl rc 0
+22 03:13:38 start in/fam_078.jsonl family
+22 03:15:35 end in/fam_077.jsonl rc 0
+22 03:15:35 start in/fam_079.jsonl family
+22 03:16:23 end in/fam_076.jsonl rc 0
+22 03:16:23 start in/fam_080.jsonl family
+22 03:17:45 end in/fam_074.jsonl rc 0
+22 03:17:45 start in/fam_081.jsonl family
+22 03:18:24 end in/fam_078.jsonl rc 0
+22 03:18:24 start in/fam_082.jsonl family
+22 03:21:45 end in/fam_080.jsonl rc 0
+22 03:21:45 start in/fam_083.jsonl family
+22 03:22:12 end in/fam_082.jsonl rc 0
+22 03:22:12 start in/fam_084.jsonl family
+22 03:24:04 end in/fam_081.jsonl rc 0
+22 03:24:04 start in/fam_085.jsonl family
+22 03:26:40 end in/fam_079.jsonl rc 0
+22 03:26:40 start in/fam_086.jsonl family
+22 03:30:53 end in/fam_083.jsonl rc 0
+22 03:30:53 start in/fam_087.jsonl family
+22 03:32:23 end in/fam_086.jsonl rc 0
+22 03:32:23 start in/fam_088.jsonl family
+22 03:32:41 end in/fam_084.jsonl rc 0
+22 03:32:41 start in/fam_089.jsonl family
+22 03:33:44 end in/fam_085.jsonl rc 0
+22 03:33:44 start in/fam_090.jsonl family
+22 03:37:26 end in/fam_087.jsonl rc 0
+22 03:37:26 start in/fam_091.jsonl family
+22 03:39:18 end in/fam_089.jsonl rc 0
+22 03:39:18 start in/fam_092.jsonl family
+22 03:42:15 end in/fam_091.jsonl rc 0
+22 03:42:15 start in/fam_093.jsonl family
+22 03:43:00 end in/fam_088.jsonl rc 0
+22 03:43:00 start in/fam_094.jsonl family
+22 03:44:09 end in/fam_090.jsonl rc 0
+22 03:44:09 start in/fam_095.jsonl family
+22 03:45:42 end in/fam_092.jsonl rc 0
+22 03:45:42 start in/fam_096.jsonl family
+22 03:48:10 end in/fam_093.jsonl rc 0
+22 03:48:10 start in/fam_097.jsonl family
+22 03:50:49 end in/fam_095.jsonl rc 0
+22 03:50:49 start in/fam_098.jsonl family
+22 03:50:58 end in/fam_094.jsonl rc 0
+22 03:50:58 start in/fam_099.jsonl family
+22 03:55:17 end in/fam_096.jsonl rc 0
+22 03:55:17 start in/fam_100.jsonl family
+22 03:58:44 end in/fam_100.jsonl rc 0
+22 03:58:44 start in/fam_101.jsonl family
+22 03:58:56 end in/fam_098.jsonl rc 0
+22 03:58:56 start in/fam_102.jsonl family
+22 03:59:32 end in/fam_097.jsonl rc 0
+22 03:59:32 start in/fam_103.jsonl family
+22 04:02:45 end in/fam_099.jsonl rc 0
+22 04:02:45 start in/fam_104.jsonl family
+22 04:06:12 end in/fam_101.jsonl rc 0
+22 04:06:12 start in/fam_105.jsonl family
+22 04:06:57 end in/fam_102.jsonl rc 0
+22 04:06:57 start in/fam_106.jsonl family
+22 04:09:40 end in/fam_103.jsonl rc 0
+22 04:09:40 start in/fam_107.jsonl family
+22 04:11:37 end in/fam_105.jsonl rc 0
+22 04:11:37 start in/fam_108.jsonl family
+22 04:15:11 end in/fam_108.jsonl rc 0
+22 04:15:11 start in/fam_109.jsonl family
+22 04:15:20 end in/fam_107.jsonl rc 0
+22 04:15:20 start in/fam_110.jsonl family
+22 04:18:41 end in/fam_104.jsonl rc 0
+22 04:18:41 start in/fam_111.jsonl family
+22 04:19:02 end in/fam_110.jsonl rc 0
+22 04:19:02 start in/fam_112.jsonl family
+22 04:20:17 end in/fam_106.jsonl rc 0
+22 04:20:17 start in/fam_113.jsonl family
+22 04:22:45 end in/fam_109.jsonl rc 0
+22 04:22:45 start in/fam_114.jsonl family
+22 04:25:00 end in/fam_112.jsonl rc 0
+22 04:25:00 start in/fam_115.jsonl family
+22 04:28:15 end in/fam_114.jsonl rc 0
+22 04:28:15 start in/fam_116.jsonl family
+22 04:30:07 end in/fam_111.jsonl rc 0
+22 04:30:07 start in/fam_117.jsonl family
+22 04:31:13 end in/fam_115.jsonl rc 0
+22 04:31:13 start in/fam_118.jsonl family
+22 04:33:13 end in/fam_113.jsonl rc 0
+22 04:33:13 start in/fam_119.jsonl family
+22 04:37:20 end in/fam_116.jsonl rc 0
+22 04:37:20 start in/fam_120.jsonl family
+22 04:38:14 end in/fam_117.jsonl rc 0
+22 04:38:14 start in/fam_121.jsonl family
+22 04:39:05 end in/fam_119.jsonl rc 0
+22 04:39:05 start in/fam_122.jsonl family
+22 04:42:38 end in/fam_118.jsonl rc 0
+22 04:42:38 start in/fam_123.jsonl family
+22 04:45:24 end in/fam_121.jsonl rc 0
+22 04:45:24 start in/fam_124.jsonl family
+22 04:48:51 end in/fam_122.jsonl rc 0
+22 04:48:51 start in/fam_125.jsonl family
+22 04:50:34 end in/fam_120.jsonl rc 0
+22 04:50:34 start in/fam_126.jsonl family
+22 04:51:43 end in/fam_124.jsonl rc 0
+22 04:51:43 start in/fam_127.jsonl family
+22 04:54:04 end in/fam_123.jsonl rc 0
+22 04:54:04 start in/fam_128.jsonl family
+22 04:56:34 end in/fam_125.jsonl rc 0
+22 04:56:34 start in/fam_129.jsonl family
+22 05:01:02 end in/fam_127.jsonl rc 0
+22 05:01:02 start in/fam_130.jsonl family
+22 05:03:35 end in/fam_128.jsonl rc 0
+22 05:03:35 start in/fam_131.jsonl family
+22 05:04:24 end in/fam_126.jsonl rc 0
+22 05:04:24 start in/fam_132.jsonl family
+22 05:07:45 end in/fam_129.jsonl rc 0
+22 05:07:45 start in/fam_133.jsonl family
+22 05:09:03 end in/fam_130.jsonl rc 0
+22 05:09:03 start in/fam_134.jsonl family
+22 05:13:55 end in/fam_131.jsonl rc 0
+22 05:13:55 start in/fam_135.jsonl family
+22 05:15:34 end in/fam_132.jsonl rc 0
+22 05:15:34 start in/fam_136.jsonl family
+22 05:15:49 end in/fam_134.jsonl rc 0
+22 05:15:49 start in/fam_137.jsonl family
+22 05:16:04 end in/fam_133.jsonl rc 0
+22 05:16:04 start in/fam_138.jsonl family
+22 05:18:29 end in/fam_135.jsonl rc 0
+22 05:18:29 start in/fam_139.jsonl family
+22 05:21:17 end in/fam_137.jsonl rc 0
+22 05:21:17 start in/fam_140.jsonl family
+22 05:23:44 end in/fam_138.jsonl rc 0
+22 05:23:44 start in/fam_141.jsonl family
+22 05:26:06 end in/fam_136.jsonl rc 0
+22 05:26:06 start in/fam_142.jsonl family
+22 05:29:54 end in/fam_139.jsonl rc 0
+22 05:29:54 start in/fam_143.jsonl family
+22 05:30:27 end in/fam_140.jsonl rc 0
+22 05:30:27 start in/fam_144.jsonl family
+22 05:33:40 end in/fam_142.jsonl rc 0
+22 05:33:40 start in/fam_145.jsonl family
+22 05:33:58 end in/fam_141.jsonl rc 0
+22 05:33:58 start in/fam_146.jsonl family
+22 05:34:10 end in/fam_143.jsonl rc 0
+22 05:34:10 start in/fam_147.jsonl family
+22 05:41:05 end in/fam_145.jsonl rc 0
+22 05:41:05 start in/fam_148.jsonl family
+22 05:44:26 end in/fam_146.jsonl rc 0
+22 05:44:26 start in/fam_149.jsonl family
+22 05:47:02 end in/fam_144.jsonl rc 0
+22 05:47:02 start in/fam_150.jsonl family
+22 05:47:20 end in/fam_147.jsonl rc 0
+22 05:47:20 start in/fam_151.jsonl family
+22 05:47:26 end in/fam_148.jsonl rc 0
+22 05:47:26 start in/fam_152.jsonl family
+22 05:49:42 end in/fam_149.jsonl rc 0
+22 05:49:42 start in/fam_153.jsonl family
+22 05:53:57 end in/fam_151.jsonl rc 0
+22 05:53:57 start in/fam_154.jsonl family
+22 05:55:49 end in/fam_152.jsonl rc 0
+22 05:55:49 start in/fam_155.jsonl family
+22 05:57:07 end in/fam_153.jsonl rc 0
+22 05:57:07 start in/fam_156.jsonl family
+22 05:58:40 end in/fam_154.jsonl rc 0
+22 05:58:40 start in/fam_157.jsonl family
+22 05:59:37 end in/fam_155.jsonl rc 0
+22 05:59:37 start in/fam_158.jsonl family
+22 06:02:41 end in/fam_150.jsonl rc 0
+22 06:02:41 start in/fam_159.jsonl family
+22 06:04:32 end in/fam_156.jsonl rc 0
+22 06:04:32 start in/fam_160.jsonl family
+22 06:06:05 end in/fam_157.jsonl rc 0
+22 06:06:05 start in/fam_161.jsonl family
+22 06:07:05 end in/fam_158.jsonl rc 0
+22 06:07:05 start in/fam_162.jsonl family
+22 06:10:18 end in/fam_159.jsonl rc 0
+22 06:10:18 start in/fam_163.jsonl family
+22 06:10:54 end in/fam_160.jsonl rc 0
+22 06:10:54 start in/fam_164.jsonl family
+22 06:12:30 end in/fam_161.jsonl rc 0
+22 06:12:30 start in/fam_165.jsonl family
+22 06:14:51 end in/fam_164.jsonl rc 0
+22 06:14:51 start in/fam_166.jsonl family
+22 06:20:25 end in/fam_162.jsonl rc 0
+22 06:20:25 start in/fam_167.jsonl family
+22 06:21:50 end in/fam_165.jsonl rc 0
+22 06:21:50 start in/fam_168.jsonl family
+22 06:22:17 end in/fam_166.jsonl rc 0
+22 06:22:17 start in/fam_169.jsonl family
+22 06:23:08 end in/fam_163.jsonl rc 0
+22 06:23:08 start in/fam_170.jsonl family
+22 06:28:54 end in/fam_170.jsonl rc 0
+22 06:28:54 start in/fam_171.jsonl family
+22 06:30:21 end in/fam_169.jsonl rc 0
+22 06:30:21 start in/fam_172.jsonl family
+22 06:32:30 end in/fam_167.jsonl rc 0
+22 06:32:30 start in/fam_173.jsonl family
+22 06:38:58 end in/fam_168.jsonl rc 0
+22 06:38:58 start in/fam_174.jsonl family
+22 06:39:25 end in/fam_172.jsonl rc 0
+22 06:39:25 start in/fam_175.jsonl family
+22 06:41:07 end in/fam_173.jsonl rc 0
+22 06:41:07 start in/fam_176.jsonl family
+22 06:41:52 end in/fam_171.jsonl rc 0
+22 06:41:52 start in/fam_177.jsonl family
+22 06:46:32 end in/fam_175.jsonl rc 0
+22 06:46:32 start in/fam_178.jsonl family
+22 06:48:05 end in/fam_177.jsonl rc 0
+22 06:48:05 start in/fam_179.jsonl family
+22 06:48:50 end in/fam_174.jsonl rc 0
+22 06:48:50 start in/fam_180.jsonl family
+22 06:50:33 end in/fam_178.jsonl rc 0
+22 06:50:33 start in/fam_181.jsonl family
+22 06:56:03 end in/fam_176.jsonl rc 0
+22 06:56:03 start in/fam_182.jsonl family
+22 06:58:37 end in/fam_181.jsonl rc 0
+22 06:58:37 start in/fam_183.jsonl family
+22 07:00:40 end in/fam_180.jsonl rc 0
+22 07:00:40 start in/fam_184.jsonl family
+22 07:03:16 end in/fam_179.jsonl rc 0
+22 07:03:16 start in/fam_185.jsonl family
+22 07:03:22 end in/fam_183.jsonl rc 0
+22 07:03:22 start in/fam_186.jsonl family
+22 07:05:59 end in/fam_182.jsonl rc 0
+22 07:05:59 start in/fam_187.jsonl family
+22 07:07:38 end in/fam_185.jsonl rc 0
+22 07:07:38 start in/fam_188.jsonl family
+22 07:10:02 end in/fam_184.jsonl rc 0
+22 07:10:02 start in/fam_189.jsonl family
+22 07:11:51 end in/fam_186.jsonl rc 0
+22 07:11:51 start in/fam_190.jsonl family
+22 07:18:15 end in/fam_189.jsonl rc 0
+22 07:18:15 start in/fam_191.jsonl family
+22 07:18:30 end in/fam_187.jsonl rc 0
+22 07:18:30 start in/fam_192.jsonl family
+22 07:20:22 end in/fam_188.jsonl rc 0
+22 07:20:22 start in/fam_193.jsonl family
+22 07:22:31 end in/fam_190.jsonl rc 0
+22 07:22:31 start in/fam_194.jsonl family
+22 07:27:26 end in/fam_193.jsonl rc 0
+22 07:27:26 start in/fam_195.jsonl family
+22 07:27:53 end in/fam_191.jsonl rc 0
+22 07:27:53 start in/fam_196.jsonl family
+22 07:28:44 end in/fam_192.jsonl rc 0
+22 07:28:44 end in/fam_194.jsonl rc 0
+22 07:28:44 start in/fam_197.jsonl family
+22 07:28:44 start in/fam_198.jsonl family
+22 07:32:08 end in/fam_195.jsonl rc 0
+22 07:32:08 start in/fam_199.jsonl family
+22 07:34:57 end in/fam_197.jsonl rc 0
+22 07:34:57 start in/fam_200.jsonl family
+22 07:36:06 end in/fam_196.jsonl rc 0
+22 07:36:06 start in/fam_201.jsonl family
+22 07:36:33 end in/fam_199.jsonl rc 0
+22 07:36:33 start in/fam_202.jsonl family
+22 07:37:51 end in/fam_198.jsonl rc 0
+22 07:37:51 start in/fam_203.jsonl family
+22 07:41:43 end in/fam_200.jsonl rc 0
+22 07:41:43 start in/fam_204.jsonl family
+22 07:41:58 end in/fam_201.jsonl rc 0
+22 07:41:58 start in/fam_205.jsonl family
+22 07:42:37 end in/fam_202.jsonl rc 0
+22 07:42:37 start in/fam_206.jsonl family
+22 07:45:19 end in/fam_203.jsonl rc 0
+22 07:45:19 start in/fam_207.jsonl family
+22 07:48:29 end in/fam_204.jsonl rc 0
+22 07:48:29 start in/fam_208.jsonl family
+22 07:50:56 end in/fam_207.jsonl rc 0
+22 07:50:56 start in/fam_209.jsonl family
+22 07:51:53 end in/fam_205.jsonl rc 0
+22 07:51:53 start in/fam_210.jsonl family
+22 07:55:39 end in/fam_208.jsonl rc 0
+22 07:55:39 start in/fam_211.jsonl family
+22 07:57:48 end in/fam_206.jsonl rc 0
+22 07:57:48 start in/fam_212.jsonl family
+22 08:00:27 end in/fam_209.jsonl rc 0
+22 08:00:27 start in/fam_213.jsonl family
+22 08:01:15 end in/fam_210.jsonl rc 0
+22 08:01:15 start in/fam_214.jsonl family
+22 08:06:04 end in/fam_211.jsonl rc 0
+22 08:06:04 start in/fam_215.jsonl family
+22 08:06:52 end in/fam_213.jsonl rc 0
+22 08:06:52 start in/fam_216.jsonl family
+22 08:08:47 end in/fam_212.jsonl rc 0
+22 08:08:47 start in/fam_217.jsonl family
+22 08:09:53 end in/fam_214.jsonl rc 0
+22 08:09:53 start in/fam_218.jsonl family
+22 08:11:17 end in/fam_215.jsonl rc 0
+22 08:11:17 start in/fam_219.jsonl family
+22 08:13:44 end in/fam_218.jsonl rc 0
+22 08:13:44 start in/fam_220.jsonl family
+22 08:16:12 end in/fam_217.jsonl rc 0
+22 08:16:12 start in/fam_221.jsonl family
+22 08:17:09 end in/fam_216.jsonl rc 0
+22 08:17:09 start in/fam_222.jsonl family
+22 08:20:12 end in/fam_220.jsonl rc 0
+22 08:20:12 start in/fam_223.jsonl family
+22 08:21:54 end in/fam_221.jsonl rc 0
+22 08:21:54 start in/fam_224.jsonl family
+22 08:25:10 end in/fam_222.jsonl rc 0
+22 08:25:10 start in/fam_225.jsonl family
+22 08:25:25 end in/fam_219.jsonl rc 0
+22 08:25:25 start in/fam_226.jsonl family
+22 08:26:04 end in/fam_223.jsonl rc 0
+22 08:26:04 start in/fam_227.jsonl family
+22 08:28:52 end in/fam_224.jsonl rc 0
+22 08:28:52 start in/fam_228.jsonl family
+22 08:32:44 end in/fam_227.jsonl rc 0
+22 08:32:44 start in/fam_229.jsonl family
+22 08:34:47 end in/fam_225.jsonl rc 0
+22 08:34:47 start in/fam_230.jsonl family
+22 08:35:02 end in/fam_226.jsonl rc 0
+22 08:35:02 start in/fam_231.jsonl family
+22 08:37:48 end in/fam_230.jsonl rc 0
+22 08:37:48 start in/fam_232.jsonl family
+22 08:39:39 end in/fam_229.jsonl rc 0
+22 08:39:39 start in/fam_233.jsonl family
+22 08:41:27 end in/fam_231.jsonl rc 0
+22 08:41:27 start in/fam_234.jsonl family
+22 08:44:04 end in/fam_232.jsonl rc 0
+22 08:44:04 start in/fam_235.jsonl family
+22 08:47:28 end in/fam_228.jsonl rc 0
+22 08:47:28 start in/fam_236.jsonl family
+22 08:50:01 end in/fam_235.jsonl rc 0
+22 08:50:01 start in/fam_237.jsonl family
+22 08:51:08 end in/fam_234.jsonl rc 0
+22 08:51:08 end in/fam_236.jsonl rc 0
+22 08:51:08 start in/fam_238.jsonl family
+22 08:51:08 start in/fam_239.jsonl family
+22 08:56:32 end in/fam_239.jsonl rc 0
+22 08:56:32 start in/fam_240.jsonl family
+22 08:57:41 end in/fam_237.jsonl rc 0
+22 08:57:41 start in/fam_241.jsonl family
+22 08:58:30 end in/fam_238.jsonl rc 0
+22 08:58:30 start in/fam_242.jsonl family
+22 08:58:36 end in/fam_233.jsonl rc 0
+22 08:58:36 start in/fam_243.jsonl family
+22 09:01:57 end in/fam_243.jsonl rc 0
+22 09:01:57 start in/fam_244.jsonl family
+22 09:04:00 end in/fam_240.jsonl rc 0
+22 09:04:00 start in/fam_245.jsonl family
+22 09:04:30 end in/fam_241.jsonl rc 0
+22 09:04:30 start in/fam_246.jsonl family
+22 09:05:43 end in/fam_242.jsonl rc 0
+22 09:05:43 start in/fam_247.jsonl family
+22 09:10:10 end in/fam_245.jsonl rc 0
+22 09:10:10 start in/fam_248.jsonl family
+22 09:13:56 end in/fam_247.jsonl rc 0
+22 09:13:56 start in/fam_249.jsonl family
+22 09:14:59 end in/fam_244.jsonl rc 0
+22 09:14:59 start in/fam_250.jsonl family
+22 09:17:47 end in/fam_246.jsonl rc 0
+22 09:17:47 start in/fam_251.jsonl family
+22 09:18:05 end in/fam_248.jsonl rc 0
+22 09:18:05 start in/fam_252.jsonl family
+22 09:21:54 end in/fam_250.jsonl rc 0
+22 09:21:54 start in/fam_253.jsonl family
+22 09:24:45 end in/fam_251.jsonl rc 0
+22 09:24:45 start in/fam_254.jsonl family
+22 09:25:09 end in/fam_249.jsonl rc 0
+22 09:25:09 start in/fam_255.jsonl family
+22 09:28:40 end in/fam_253.jsonl rc 0
+22 09:28:40 start in/fam_256.jsonl family
+22 09:28:52 end in/fam_252.jsonl rc 0
+22 09:28:52 start in/fam_257.jsonl family
+22 09:31:19 end in/fam_254.jsonl rc 0
+22 09:31:19 start in/fam_258.jsonl family
+22 09:33:52 end in/fam_257.jsonl rc 0
+22 09:33:52 start in/fam_259.jsonl family
+22 09:35:56 end in/fam_255.jsonl rc 0
+22 09:35:56 start in/fam_260.jsonl family
+22 09:36:08 end in/fam_256.jsonl rc 0
+22 09:36:08 start in/fam_261.jsonl family
+22 09:37:29 end in/fam_258.jsonl rc 0
+22 09:37:29 start in/fam_262.jsonl family
+22 09:41:08 end in/fam_259.jsonl rc 0
+22 09:41:08 start in/fam_263.jsonl family
+22 09:41:36 end in/fam_262.jsonl rc 0
+22 09:41:36 start in/fam_264.jsonl family
+22 09:42:54 end in/fam_260.jsonl rc 0
+22 09:42:54 start in/fam_265.jsonl family
+22 09:46:33 end in/fam_263.jsonl rc 0
+22 09:46:33 start in/fam_266.jsonl family
+22 09:46:57 end in/fam_261.jsonl rc 0
+22 09:46:57 start in/fam_267.jsonl family
+22 09:47:27 end in/fam_265.jsonl rc 0
+22 09:47:27 start in/fam_268.jsonl family
+22 09:48:37 end in/fam_264.jsonl rc 0
+22 09:48:37 start in/fam_269.jsonl family
+22 09:49:52 end in/fam_266.jsonl rc 0
+22 09:49:52 start in/fam_270.jsonl family
+22 09:52:46 end in/fam_268.jsonl rc 0
+22 09:52:46 start in/fam_271.jsonl family
+22 09:53:43 end in/fam_267.jsonl rc 0
+22 09:53:43 start in/fam_272.jsonl family
+22 09:55:58 end in/fam_269.jsonl rc 0
+22 09:55:58 start in/fam_273.jsonl family
+22 09:56:49 end in/fam_271.jsonl rc 0
+22 09:56:49 start in/fam_274.jsonl family
+22 09:59:53 end in/fam_273.jsonl rc 0
+22 09:59:53 start in/fam_275.jsonl family
+22 10:00:05 end in/fam_272.jsonl rc 0
+22 10:00:05 start in/fam_276.jsonl family
+22 10:00:14 end in/fam_270.jsonl rc 0
+22 10:00:14 start in/fam_277.jsonl family
+22 10:05:21 end in/fam_274.jsonl rc 0
+22 10:05:21 start in/fam_278.jsonl family
+22 10:09:42 end in/fam_275.jsonl rc 0
+22 10:09:42 start in/fam_279.jsonl family
+22 10:11:13 end in/fam_276.jsonl rc 0
+22 10:11:13 start in/fam_280.jsonl family
+22 10:11:19 end in/fam_277.jsonl rc 0
+22 10:11:19 start in/fam_281.jsonl family
+22 10:12:07 end in/fam_278.jsonl rc 0
+22 10:12:07 start in/fam_282.jsonl family
+22 10:14:19 end in/fam_279.jsonl rc 0
+22 10:14:19 start in/fam_283.jsonl family
+22 10:16:25 end in/fam_281.jsonl rc 0
+22 10:16:25 start in/fam_284.jsonl family
+22 10:19:38 end in/fam_282.jsonl rc 0
+22 10:19:38 start in/fam_285.jsonl family
+22 10:21:02 end in/fam_283.jsonl rc 0
+22 10:21:02 start in/fam_286.jsonl family
+22 10:21:17 end in/fam_284.jsonl rc 0
+22 10:21:17 start in/fam_287.jsonl family
+22 10:21:23 end in/fam_280.jsonl rc 0
+22 10:21:23 start in/fam_288.jsonl family
+22 10:26:51 end in/fam_288.jsonl rc 0
+22 10:26:51 start in/fam_289.jsonl family
+22 10:27:21 end in/fam_287.jsonl rc 0
+22 10:27:21 start in/fam_290.jsonl family
+22 10:27:30 end in/fam_286.jsonl rc 0
+22 10:27:30 start in/fam_291.jsonl family
+22 10:30:00 end in/fam_285.jsonl rc 0
+22 10:30:00 start in/fam_292.jsonl family
+22 10:31:15 end in/fam_290.jsonl rc 0
+22 10:31:15 start in/fam_293.jsonl family
+22 10:33:40 end in/fam_289.jsonl rc 0
+22 10:33:40 start in/fam_294.jsonl family
+22 10:37:25 end in/fam_293.jsonl rc 0
+22 10:37:25 start in/fam_295.jsonl family
+22 10:38:40 end in/fam_292.jsonl rc 0
+22 10:38:40 start in/fam_296.jsonl family
+22 10:42:11 end in/fam_291.jsonl rc 0
+22 10:42:11 start in/fam_297.jsonl family
+22 10:44:35 end in/fam_295.jsonl rc 0
+22 10:44:35 start in/fam_298.jsonl family
+22 10:44:50 end in/fam_294.jsonl rc 0
+22 10:44:50 start in/fam_299.jsonl family
+22 10:48:57 end in/fam_296.jsonl rc 0
+22 10:52:15 end in/fam_299.jsonl rc 0
+22 10:53:15 end in/fam_298.jsonl rc 0
+22 10:55:13 end in/fam_297.jsonl rc 0
+22 10:55:16 ALL DONE

@@ -1,0 +1,43 @@
+{
+ "level1 surviving delta-assignments": {
+  "got": 2471,
+  "expected": 2471,
+  "ok": true
+ },
+ "Farkas certificates verified exactly": {
+  "got": 2471,
+  "expected": 2471,
+  "ok": true
+ },
+ "Farkas certificates missing": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "propagation check: infeasible": {
+  "got": 2333,
+  "expected": 2435,
+  "ok": false
+ },
+ "propagation check: open (settled by Farkas)": {
+  "got": 138,
+  "expected": 36,
+  "ok": false
+ },
+ "level2 glpsol verdicts": {
+  "INFEASIBLE": 2471
+ },
+ "level2 feasible or undecided": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "validate.py (model evaluated on the 299 lattices with phi_max = 1)": "checked 299 lattices, with violations: 0",
+ "model violations on real lattices": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "_finished": "2026-11-02 20:22:27",
+ "_seconds": 397
+}

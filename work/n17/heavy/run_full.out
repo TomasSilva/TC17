@@ -1,0 +1,9 @@
+./run_full.sh: line 7: 49626 Terminated: 15          ./heavyaug_p 17 6 8 12 56 10 100 1 10 $r 4 6 > /dev/null 2> full_r$r.log
+./run_full.sh: line 7: 49627 Terminated: 15          ./heavyaug_p 17 6 8 12 56 10 100 1 10 $r 4 6 > /dev/null 2> full_r$r.log
+./run_full.sh: line 7: 49628 Terminated: 15          ./heavyaug_p 17 6 8 12 56 10 100 1 10 $r 4 6 > /dev/null 2> full_r$r.log
+./run_full.sh: line 7: 49630 Terminated: 15          ./heavyaug_p 17 6 8 12 56 10 100 1 10 $r 4 6 > /dev/null 2> full_r$r.log
+./run_full.sh: line 7: 49631 Terminated: 15          ./heavyaug_p 17 6 8 12 56 10 100 1 10 $r 4 6 > /dev/null 2> full_r$r.log
+./run_full.sh: line 7: 49632 Terminated: 15          ./heavyaug_p 17 6 8 12 56 10 100 1 10 $r 4 6 > /dev/null 2> full_r$r.log
+./run_full.sh: line 7: 49633 Terminated: 15          ./heavyaug_p 17 6 8 12 56 10 100 1 10 $r 4 6 > /dev/null 2> full_r$r.log
+./run_full.sh: line 7: 49634 Terminated: 15          ./heavyaug_p 17 6 8 12 56 10 100 1 10 $r 4 6 > /dev/null 2> full_r$r.log
+./run_full.sh: line 7: 49635 Terminated: 15          ./heavyaug_p 17 6 8 12 56 10 100 1 10 $r 4 6 > /dev/null 2> full_r$r.log

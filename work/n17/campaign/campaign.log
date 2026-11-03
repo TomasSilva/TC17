@@ -1,0 +1,537 @@
+2026-11-02 20:14:25 ===== campaign start: stages prep (NCPU 10)
+2026-11-02 20:14:25 ===== stage prep start
+2026-11-02 20:14:25   ran (0s, rc 0): cc -O3 -march=native -DWORDSIZE=64 -I/opt/homebrew/include -o heavyaug_p heavyaug_p.c -L/opt/homebrew/lib -lnautyL1
+2026-11-02 20:14:25   ran (0s, rc 0): cc -O3 -march=native -o lsgen3 lsgen3.c
+2026-11-02 20:14:25   [prep] Anghel-Stan code imports: got ok, expected ok OK
+2026-11-02 20:14:25 DONE stage prep (0 s)
+2026-11-02 20:14:25 ===== campaign end
+2026-11-02 20:15:49 ===== campaign start: stages prep cover n8zero cores indep_cores filters as_cores m2 ext_b48 ext_b48w ext_b49 ext_b50 ext_b51 as_children indep_rigid final report (NCPU 10)
+2026-11-02 20:15:49 stage prep already done, skipping
+2026-11-02 20:15:49 ===== stage cover start
+2026-11-02 20:15:52   ran (3s, rc 0): python level1.py
+2026-11-02 20:15:52   [cover] level1 surviving delta-assignments: got 2471, expected 2471 OK
+2026-11-02 20:16:08   farkas: 10 jobs done in 15s, failures 0
+2026-11-02 20:16:08   [cover] Farkas certificates verified exactly: got 2471, expected 2471 OK
+2026-11-02 20:16:08   [cover] Farkas certificates missing: got 0, expected 0 OK
+2026-11-02 20:22:11   propcheck: 10 jobs done in 364s, failures 0
+2026-11-02 20:22:11   [cover] propagation check: infeasible: got 2333, expected 2435 *** MISMATCH ***
+2026-11-02 20:22:11   [cover] propagation check: open (settled by Farkas): got 138, expected 36 *** MISMATCH ***
+2026-11-02 20:22:22   level2 (glpsol): 10 jobs done in 10s, failures 0
+2026-11-02 20:22:22   [cover] level2 glpsol verdicts: {"INFEASIBLE": 2471}
+2026-11-02 20:22:22   [cover] level2 feasible or undecided: got 0, expected 0 OK
+2026-11-02 20:22:27   ran (5s, rc 0): python validate.py phi1_all.g6 299
+2026-11-02 20:22:27   [cover] validate.py (model evaluated on the 299 lattices with phi_max = 1): "checked 299 lattices, with violations: 0"
+2026-11-02 20:22:27   [cover] model violations on real lattices: got 0, expected 0 OK
+2026-11-02 20:22:27 DONE stage cover (397 s)
+2026-11-02 20:22:27 ===== stage n8zero start
+2026-11-02 20:22:41   ran (14s, rc 0): python k4444.py
+2026-11-02 20:22:41   [n8zero] K4444 triangle decompositions (lattices with a 4-point line): got 23, expected 23 OK
+2026-11-02 20:26:01   pencil5c (eleven vectors): 11 jobs done in 201s, failures 0
+2026-11-02 20:26:01   [n8zero] 5-point vector 55411: heavy configurations: got 1, expected n/a OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 55411: lattices: got 0, expected 0 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 55321: heavy configurations: got 1, expected n/a OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 55321: lattices: got 0, expected 0 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 55222: heavy configurations: got 3, expected n/a OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 55222: lattices: got 0, expected 0 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 54421: heavy configurations: got 5, expected n/a OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 54421: lattices: got 0, expected 0 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 54331: heavy configurations: got 26, expected n/a OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 54331: lattices: got 0, expected 0 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 54322: heavy configurations: got 379, expected n/a OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 54322: lattices: got 0, expected 0 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 53332: heavy configurations: got 2303, expected 2303 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 53332: lattices: got 0, expected 0 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 44431: heavy configurations: got 87, expected 87 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 44431: lattices: got 122, expected 122 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 44422: heavy configurations: got 863, expected 863 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 44422: lattices: got 232, expected 232 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 44332: heavy configurations: got 49565, expected 49565 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 44332: lattices: got 3124, expected 3124 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 43333: heavy configurations: got 192133, expected 192133 OK
+2026-11-02 20:26:01   [n8zero] 5-point vector 43333: lattices: got 7723, expected 7723 OK
+2026-11-02 20:26:01   [n8zero] lattices without an 8-point line to screen: got 11224, expected 11224 OK
+2026-11-02 20:26:02   ran (0s, rc 0): python invariants.py 17 n8_all.jsonl 80 4 7 6 --cut --w4
+2026-11-02 20:26:02   [n8zero] invariants (b2 = 80, m <= 6, 4-7 points, W5, isomorphism classes): {"n": 17, "b2": 80, "points_per_line": [4, 7], "mmax": 6, "cut": true, "w4": true, "total": 11224, "distinct": 11224, "violations": {}, "max_points_on_a_line": {"7": 11224}, "line_profiles": 5, "multiplicity_profiles": 7, "commonest_profiles": [["77777777777777775", 9455], ["77777777777777765", 1649], ["77777777777777755", 91], ["77777777777777774", 23], ["77777777777777665", 6]]}
+2026-11-02 20:26:02   [n8zero] invariant violations: got 0, expected 0 OK
+2026-11-02 20:26:02   [n8zero] distinct lattices (pynauty): got 11224, expected 11224 OK
+2026-11-02 20:26:13   n8 fast filters: 10 jobs done in 11s, failures 0
+2026-11-02 20:28:41   n8 Macaulay2: 10 jobs done in 148s, failures 0
+2026-11-02 20:28:41   [n8zero] screening: {"lattices": 11224, "verdict_lines": 11224, "filter_stats": {"NONREAL": 10320, "DEFER": 904}, "deferred": 904, "m2_status": {"NONREAL": 904}, "m2_records": 904}
+2026-11-02 20:28:41   [n8zero] verdict lines: got 11224, expected 11224 OK
+2026-11-02 20:28:41   [n8zero] realisable lattices (Macaulay2): got 0, expected 0 OK
+2026-11-02 20:28:41   [n8zero] Macaulay2 timeouts/errors: got 0, expected 0 OK
+2026-11-02 20:28:41   [n8zero] Macaulay2 records: got 904, expected 904 OK
+2026-11-02 20:28:44   n8 Anghel-Stan screening: 10 jobs done in 3s, failures 0
+2026-11-02 20:28:44   ran (0s, rc 0): python compare_as.py 17 n8_all.jsonl n8_ff_*.out n8_comp_*.jsonl n8_as_*.status n8_compare.json
+2026-11-02 20:28:44   [n8zero] no-8-point-line lattices: ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 11224}
+2026-11-02 20:28:44   [n8zero] no-8-point-line lattices: disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-02 20:28:44   [n8zero] no-8-point-line lattices: lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-02 20:28:44 DONE stage n8zero (378 s)
+2026-11-02 20:28:44 ===== stage cores start
+2026-11-02 20:28:45   ran (0s, rc 0): heavyaug_p 13 6 5 9 30 0 100 0 1 0 1000 2
+2026-11-02 20:28:45   [cores] b48 heavy configurations: got 258, expected 258 OK
+2026-11-02 20:28:47   b48 lsgen3: 10 jobs done in 2s, failures 0
+2026-11-02 20:28:47   [cores] b48 raw completions: got 213339, expected 213339 OK
+2026-11-02 20:28:49   b48 labelg: 10 jobs done in 2s, failures 0
+2026-11-02 20:28:49   ran (0s, rc 127): LC_ALL=C sort -m -u /Users/agent/Projects/TC17/work/n17/campaign/cores/b48_can_*.g6 > /Users/agent/Projects/TC17/work/n17/campaign/cores/b48_classes.g6
+2026-11-02 20:28:49 ***** stage cores FAILED after 5 s: RuntimeError('command failed (rc 127): LC_ALL=C sort -m -u /Users/agent/Projects/TC17/work/n17/campaign/cores/b48_can_*.g6 > /Users/agent/Projects/TC17/work/n17/campaign/cores/b48_classes.g6')
+2026-11-02 20:28:49 Traceback (most recent call last):
+  File "/Users/agent/Projects/TC17/work/n17/campaign/campaign.py", line 590, in <module>
+    fn(); mark(name, t0)
+    ^^^^
+  File "/Users/agent/Projects/TC17/work/n17/campaign/campaign.py", line 299, in st_cores
+    sh('LC_ALL=C sort -m -u %s/%s_can_*.g6 > %s/%s_classes.g6' % (D, cls, D, cls), shell=True)
+  File "/Users/agent/Projects/TC17/work/n17/campaign/campaign.py", line 61, in sh
+    raise RuntimeError('command failed (rc %d): %s' % (p.returncode, short(cmd)))
+RuntimeError: command failed (rc 127): LC_ALL=C sort -m -u /Users/agent/Projects/TC17/work/n17/campaign/cores/b48_can_*.g6 > /Users/agent/Projects/TC17/work/n17/campaign/cores/b48_classes.g6
+
+2026-11-02 20:28:49 stage indep_cores SKIPPED: dependencies not done: ['cores']
+2026-11-02 20:28:49 stage filters SKIPPED: dependencies not done: ['cores']
+2026-11-02 20:28:49 stage as_cores SKIPPED: dependencies not done: ['cores']
+2026-11-02 20:28:49 stage m2 SKIPPED: dependencies not done: ['filters']
+2026-11-02 20:28:49 stage ext_b48 SKIPPED: dependencies not done: ['m2']
+2026-11-02 20:28:49 stage ext_b48w SKIPPED: dependencies not done: ['m2']
+2026-11-02 20:28:49 stage ext_b49 SKIPPED: dependencies not done: ['m2']
+2026-11-02 20:28:49 stage ext_b50 SKIPPED: dependencies not done: ['m2']
+2026-11-02 20:28:49 stage ext_b51 SKIPPED: dependencies not done: ['m2']
+2026-11-02 20:28:49 stage as_children SKIPPED: dependencies not done: ['ext_b48']
+2026-11-02 20:28:49 stage indep_rigid SKIPPED: dependencies not done: ['ext_b48']
+2026-11-02 20:28:49 stage final SKIPPED: dependencies not done: ['ext_b48']
+2026-11-02 20:28:49 ===== stage report start
+2026-11-02 20:28:49   ran (0s, rc 0): python report.py
+2026-11-02 20:28:49   [report] written: "/Users/agent/Projects/TC17/work/n17/campaign/REPORT.md"
+2026-11-02 20:28:49 DONE stage report (0 s)
+2026-11-02 20:28:49 ===== campaign end
+2026-11-02 20:29:19 ===== campaign start: stages prep cover n8zero cores indep_cores filters as_cores m2 ext_b48 ext_b48w ext_b49 ext_b50 ext_b51 as_children indep_rigid final report (NCPU 10)
+2026-11-02 20:29:19 stage prep already done, skipping
+2026-11-02 20:29:19 stage cover already done, skipping
+2026-11-02 20:29:19 stage n8zero already done, skipping
+2026-11-02 20:29:19 ===== stage cores start
+2026-11-02 20:29:19   ran (0s, rc 0): heavyaug_p 13 6 5 9 30 0 100 0 1 0 1000 2
+2026-11-02 20:29:19   [cores] b48 heavy configurations: got 258, expected 258 OK
+2026-11-02 20:29:21   b48 lsgen3: 10 jobs done in 2s, failures 0
+2026-11-02 20:29:21   [cores] b48 raw completions: got 213339, expected 213339 OK
+2026-11-02 20:29:23   b48 labelg: 10 jobs done in 2s, failures 0
+2026-11-02 20:29:23   ran (0s, rc 0): LC_ALL=C sort -m -u /Users/agent/Projects/TC17/work/n17/campaign/cores/b48_can_*.g6 > /Users/agent/Projects/TC17/work/n17/campaign/cores/b48_classes.g6
+2026-11-02 20:29:23   [cores] b48 lattices up to isomorphism: got 21164, expected 21164 OK
+2026-11-02 20:29:24   ran (1s, rc 0): python -c 
+import sys, json
+sys.path.insert(0, "/Users/agent/Projects/TC17/work/n17/heavy")
+from g6blocks import decode
+cls = sys.argv[1]
+for k, line in enumerate(open(sys.argv[2])):
+    B = [b for b in decode(line, 13) 
+2026-11-02 20:29:24   [cores] b48 jsonl records: got 21164, expected 21164 OK
+2026-11-02 20:29:24   ran (0s, rc 0): python invariants.py 13 b48.jsonl 48 3 7 6 --cut
+2026-11-02 20:29:24   [cores] b48 invariants: {"n": 13, "b2": 48, "points_per_line": [3, 7], "mmax": 6, "cut": true, "w4": false, "total": 21164, "distinct": 21164, "violations": {}, "max_points_on_a_line": {"6": 913, "7": 20251}, "line_profiles": 108, "multiplicity_profiles": 35, "commonest_profiles": [["7766666655554", 2151], ["7766666665554", 1415], ["7766666555555", 1401], ["7766666655555", 1294], ["7776666555554", 1288]]}
+2026-11-02 20:29:24   [cores] b48 invariant violations: got 0, expected 0 OK
+2026-11-02 20:29:24   [cores] b48 distinct certificates (pynauty) = class size: got 21164, expected 21164 OK
+2026-11-02 20:29:24   ran (0s, rc 0): heavyaug_p 13 6 4 9 30 0 100 0 1 0 1000 2
+2026-11-02 20:29:24   [cores] b48w heavy configurations: got 260, expected n/a OK
+2026-11-02 20:29:26   b48w lsgen3: 10 jobs done in 2s, failures 0
+2026-11-02 20:29:26   [cores] b48w raw completions: got 250572, expected n/a OK
+2026-11-02 20:29:29   b48w labelg: 10 jobs done in 2s, failures 0
+2026-11-02 20:29:29   ran (0s, rc 0): LC_ALL=C sort -m -u /Users/agent/Projects/TC17/work/n17/campaign/cores/b48w_can_*.g6 > /Users/agent/Projects/TC17/work/n17/campaign/cores/b48w_classes.g6
+2026-11-02 20:29:29   [cores] b48w lattices up to isomorphism: got 26234, expected n/a OK
+2026-11-02 20:29:29   ran (1s, rc 0): python -c 
+import sys, json
+sys.path.insert(0, "/Users/agent/Projects/TC17/work/n17/heavy")
+from g6blocks import decode
+cls = sys.argv[1]
+for k, line in enumerate(open(sys.argv[2])):
+    B = [b for b in decode(line, 13) 
+2026-11-02 20:29:29   [cores] b48w jsonl records: got 26234, expected 26234 OK
+2026-11-02 20:29:30   ran (0s, rc 0): python invariants.py 13 b48w.jsonl 48 3 8 6 --cut
+2026-11-02 20:29:30   [cores] b48w invariants: {"n": 13, "b2": 48, "points_per_line": [3, 8], "mmax": 6, "cut": true, "w4": false, "total": 26234, "distinct": 26234, "violations": {}, "max_points_on_a_line": {"6": 913, "7": 20251, "8": 5070}, "line_profiles": 203, "multiplicity_profiles": 35, "commonest_profiles": [["7766666655554", 2151], ["7766666665554", 1415], ["7766666555555", 1401], ["7766666655555", 1294], ["7776666555554", 1288]]}
+2026-11-02 20:29:30   [cores] b48w invariant violations: got 0, expected 0 OK
+2026-11-02 20:29:30   [cores] b48w distinct certificates (pynauty) = class size: got 26234, expected 26234 OK
+2026-11-02 20:29:30   ran (0s, rc 0): heavyaug_p 13 6 4 9 29 0 100 0 1 0 1000 2
+2026-11-02 20:29:30   [cores] b49 heavy configurations: got 274, expected 274 OK
+2026-11-02 20:29:33   b49 lsgen3: 10 jobs done in 3s, failures 0
+2026-11-02 20:29:33   [cores] b49 raw completions: got 1820363, expected 1820363 OK
+2026-11-02 20:29:36   b49 labelg: 10 jobs done in 3s, failures 0
+2026-11-02 20:29:36   ran (0s, rc 0): LC_ALL=C sort -m -u /Users/agent/Projects/TC17/work/n17/campaign/cores/b49_can_*.g6 > /Users/agent/Projects/TC17/work/n17/campaign/cores/b49_classes.g6
+2026-11-02 20:29:36   [cores] b49 lattices up to isomorphism: got 154172, expected 154172 OK
+2026-11-02 20:29:40   ran (4s, rc 0): python -c 
+import sys, json
+sys.path.insert(0, "/Users/agent/Projects/TC17/work/n17/heavy")
+from g6blocks import decode
+cls = sys.argv[1]
+for k, line in enumerate(open(sys.argv[2])):
+    B = [b for b in decode(line, 13) 
+2026-11-02 20:29:40   [cores] b49 jsonl records: got 154172, expected 154172 OK
+2026-11-02 20:29:42   ran (2s, rc 0): python invariants.py 13 b49.jsonl 49 3 8 6 --cut
+2026-11-02 20:29:42   [cores] b49 invariants: {"n": 13, "b2": 49, "points_per_line": [3, 8], "mmax": 6, "cut": true, "w4": false, "total": 154172, "distinct": 154172, "violations": {}, "max_points_on_a_line": {"6": 498, "7": 92180, "8": 61494}, "line_profiles": 301, "multiplicity_profiles": 36, "commonest_profiles": [["7776666655555", 7807], ["7776666665555", 7776], ["7766666665555", 6871], ["7777666665554", 6324], ["7776666665554", 5838]]}
+2026-11-02 20:29:42   [cores] b49 invariant violations: got 0, expected 0 OK
+2026-11-02 20:29:42   [cores] b49 distinct certificates (pynauty) = class size: got 154172, expected 154172 OK
+2026-11-02 20:29:42   ran (0s, rc 0): heavyaug_p 13 6 4 9 28 0 100 0 1 0 1000 2
+2026-11-02 20:29:42   [cores] b50 heavy configurations: got 284, expected n/a OK
+2026-11-02 20:29:54   b50 lsgen3: 10 jobs done in 12s, failures 0
+2026-11-02 20:29:54   [cores] b50 raw completions: got 12276119, expected 12276119 OK
+2026-11-02 20:30:04   b50 labelg: 10 jobs done in 10s, failures 0
+2026-11-02 20:30:05   ran (0s, rc 0): LC_ALL=C sort -m -u /Users/agent/Projects/TC17/work/n17/campaign/cores/b50_can_*.g6 > /Users/agent/Projects/TC17/work/n17/campaign/cores/b50_classes.g6
+2026-11-02 20:30:05   [cores] b50 lattices up to isomorphism: got 738023, expected 738023 OK
+2026-11-02 20:30:24   ran (20s, rc 0): python -c 
+import sys, json
+sys.path.insert(0, "/Users/agent/Projects/TC17/work/n17/heavy")
+from g6blocks import decode
+cls = sys.argv[1]
+for k, line in enumerate(open(sys.argv[2])):
+    B = [b for b in decode(line, 13) 
+2026-11-02 20:30:24   [cores] b50 jsonl records: got 738023, expected 738023 OK
+2026-11-02 20:30:31   ran (7s, rc 0): python invariants.py 13 b50.jsonl 50 3 8 6 --cut
+2026-11-02 20:30:31   [cores] b50 invariants: {"n": 13, "b2": 50, "points_per_line": [3, 8], "mmax": 6, "cut": true, "w4": false, "total": 738023, "distinct": 738023, "violations": {}, "max_points_on_a_line": {"6": 118, "7": 289381, "8": 448524}, "line_profiles": 412, "multiplicity_profiles": 38, "commonest_profiles": [["8777666665555", 40857], ["7777666666555", 34585], ["8776666666555", 31971], ["7776666666555", 29248], ["7777666665555", 273
+2026-11-02 20:30:31   [cores] b50 invariant violations: got 0, expected 0 OK
+2026-11-02 20:30:31   [cores] b50 distinct certificates (pynauty) = class size: got 738023, expected 738023 OK
+2026-11-02 20:30:31   ran (0s, rc 0): heavyaug_p 13 6 4 9 27 0 100 0 1 0 1000 2
+2026-11-02 20:30:31   [cores] b51 heavy configurations: got 285, expected n/a OK
+2026-11-02 20:31:35   b51 lsgen3: 10 jobs done in 63s, failures 0
+2026-11-02 20:31:38   [cores] b51 raw completions: got 65691853, expected 65691853 OK
+2026-11-02 20:32:43   b51 labelg: 10 jobs done in 65s, failures 0
+2026-11-02 20:32:43   ran (1s, rc 0): LC_ALL=C sort -m -u /Users/agent/Projects/TC17/work/n17/campaign/cores/b51_can_*.g6 > /Users/agent/Projects/TC17/work/n17/campaign/cores/b51_classes.g6
+2026-11-02 20:32:44   [cores] b51 lattices up to isomorphism: got 2916332, expected 2916332 OK
+2026-11-02 20:34:01   ran (78s, rc 0): python -c 
+import sys, json
+sys.path.insert(0, "/Users/agent/Projects/TC17/work/n17/heavy")
+from g6blocks import decode
+cls = sys.argv[1]
+for k, line in enumerate(open(sys.argv[2])):
+    B = [b for b in decode(line, 13) 
+2026-11-02 20:34:02   [cores] b51 jsonl records: got 2916332, expected 2916332 OK
+2026-11-02 20:34:37   ran (36s, rc 0): python invariants.py 13 b51.jsonl 51 3 8 6 --cut
+2026-11-02 20:34:37   [cores] b51 invariants: {"n": 13, "b2": 51, "points_per_line": [3, 8], "mmax": 6, "cut": true, "w4": false, "total": 2916332, "distinct": 2916332, "violations": {}, "max_points_on_a_line": {"6": 10, "7": 673072, "8": 2243250}, "line_profiles": 439, "multiplicity_profiles": 39, "commonest_profiles": [["8777766666555", 205565], ["8777666666655", 158700], ["8777766666655", 132703], ["8777776666555", 112048], ["7777766666655
+2026-11-02 20:34:37   [cores] b51 invariant violations: got 0, expected 0 OK
+2026-11-02 20:34:37   [cores] b51 distinct certificates (pynauty) = class size: got 2916332, expected 2916332 OK
+2026-11-02 20:34:37   ran (0s, rc 0): python chains.py cores b48_classes.g6 b48w_classes.g6
+2026-11-02 20:34:37   [cores] positive controls: {"cores13": 28, "cores13_in_b48": 28, "chains_per_lattice": [30, 12, 11, 12, 13, 1, 1, 1, 1, 1, 5, 8, 7, 9, 6, 1], "chain_cores": 33, "chain_cores_in_b48": 33, "b48_subset_of_b48w": true, "b48w_minus_b48": 5070, "b48": 21164, "b48w": 26234}
+2026-11-02 20:34:37   [cores] known cores (work/n17/validate/cores13.jsonl) present in b48: got 28, expected 28 OK
+2026-11-02 20:34:37   [cores] phi-max cores of the 16 lattices present in b48: got 33, expected 33 OK
+2026-11-02 20:34:37   [cores] b48 is a subset of b48w: got True, expected True OK
+2026-11-02 20:34:37   [cores] b48w lattices with an 8-point line: 5070
+2026-11-02 20:34:37 DONE stage cores (318 s)
+2026-11-02 20:34:37 ===== stage indep_cores start
+2026-11-02 20:34:38   ran (0s, rc 0): python bigblocks.py 13 5 9 6 30 a48
+2026-11-02 20:34:41   a48 fill_triples: 10 jobs done in 3s, failures 0
+2026-11-02 20:34:41   ran (1s, rc 0): python compare.py b48_classes.g6 a48
+2026-11-02 20:34:41   [indep_cores] b48 comparison: "a48: heavyaug+lsgen3 21164 distinct, ours 21164 distinct, common 21164, only heavyaug 0, only ours 0 (of which with an unjoined heavy pair t > 8: 0)"
+2026-11-02 20:34:41   [indep_cores] b48: lattices found only by heavyaug+lsgen3: got 0, expected 0 OK
+2026-11-02 20:34:41   [indep_cores] b48: lattices found only by the second enumerator and not explained by the cut: got 0, expected 0 OK
+2026-11-02 20:34:41   [indep_cores] b48: lattices removed by the unjoined-pair cut: got 0, expected 0 OK
+2026-11-02 20:34:42   ran (0s, rc 0): python bigblocks.py 13 4 9 6 30 a48w
+2026-11-02 20:34:45   a48w fill_triples: 10 jobs done in 3s, failures 0
+2026-11-02 20:34:46   ran (1s, rc 0): python compare.py b48w_classes.g6 a48w
+2026-11-02 20:34:46   [indep_cores] b48w comparison: "a48w: heavyaug+lsgen3 26234 distinct, ours 26234 distinct, common 26234, only heavyaug 0, only ours 0 (of which with an unjoined heavy pair t > 8: 0)"
+2026-11-02 20:34:46   [indep_cores] b48w: lattices found only by heavyaug+lsgen3: got 0, expected 0 OK
+2026-11-02 20:34:46   [indep_cores] b48w: lattices found only by the second enumerator and not explained by the cut: got 0, expected 0 OK
+2026-11-02 20:34:46   [indep_cores] b48w: lattices removed by the unjoined-pair cut: got 0, expected n/a OK
+2026-11-02 20:34:46   ran (0s, rc 0): python bigblocks.py 13 4 9 6 29 a49
+2026-11-02 20:34:53   a49 fill_triples: 10 jobs done in 7s, failures 0
+2026-11-02 20:34:58   ran (5s, rc 0): python compare.py b49_classes.g6 a49
+2026-11-02 20:34:58   [indep_cores] b49 comparison: "a49: heavyaug+lsgen3 154172 distinct, ours 154172 distinct, common 154172, only heavyaug 0, only ours 0 (of which with an unjoined heavy pair t > 8: 0)"
+2026-11-02 20:34:58   [indep_cores] b49: lattices found only by heavyaug+lsgen3: got 0, expected 0 OK
+2026-11-02 20:34:58   [indep_cores] b49: lattices found only by the second enumerator and not explained by the cut: got 0, expected 0 OK
+2026-11-02 20:34:58   [indep_cores] b49: lattices removed by the unjoined-pair cut: got 0, expected 0 OK
+2026-11-02 20:34:58   ran (0s, rc 0): python bigblocks.py 13 4 9 6 28 a50
+2026-11-02 20:35:31   a50 fill_triples: 10 jobs done in 33s, failures 0
+2026-11-02 20:35:55   ran (24s, rc 0): python compare.py b50_classes.g6 a50
+2026-11-02 20:35:55   [indep_cores] b50 comparison: "a50: heavyaug+lsgen3 738023 distinct, ours 738023 distinct, common 738023, only heavyaug 0, only ours 0 (of which with an unjoined heavy pair t > 8: 0)"
+2026-11-02 20:35:55   [indep_cores] b50: lattices found only by heavyaug+lsgen3: got 0, expected 0 OK
+2026-11-02 20:35:55   [indep_cores] b50: lattices found only by the second enumerator and not explained by the cut: got 0, expected 0 OK
+2026-11-02 20:35:55   [indep_cores] b50: lattices removed by the unjoined-pair cut: got 0, expected 0 OK
+2026-11-02 20:35:55   ran (0s, rc 0): python bigblocks.py 13 4 9 6 27 a51
+2026-11-02 20:38:23   a51 fill_triples: 10 jobs done in 147s, failures 0
+2026-11-02 20:39:56   ran (94s, rc 0): python compare.py b51_classes.g6 a51
+2026-11-02 20:39:56   [indep_cores] b51 comparison: "a51: heavyaug+lsgen3 2916332 distinct, ours 2916339 distinct, common 2916332, only heavyaug 0, only ours 7 (of which with an unjoined heavy pair t > 8: 7)"
+2026-11-02 20:39:56   [indep_cores] b51: lattices found only by heavyaug+lsgen3: got 0, expected 0 OK
+2026-11-02 20:39:56   [indep_cores] b51: lattices found only by the second enumerator and not explained by the cut: got 0, expected 0 OK
+2026-11-02 20:39:56   [indep_cores] b51: lattices removed by the unjoined-pair cut: got 7, expected 7 OK
+2026-11-02 20:39:56 DONE stage indep_cores (319 s)
+2026-11-02 20:39:56 ===== stage filters start
+2026-11-02 20:40:04   b48 fast filters: 10 jobs done in 8s, failures 0
+2026-11-02 20:40:04   [filters] b48 verdicts: {"NONREAL": 20969, "DEFER": 195}
+2026-11-02 20:40:04   [filters] b48 verdict lines = class size: got 21164, expected 21164 OK
+2026-11-02 20:40:04   [filters] b48 deferred to Macaulay2: got 195, expected 195 OK
+2026-11-02 20:40:14   b48w fast filters: 10 jobs done in 9s, failures 0
+2026-11-02 20:40:14   [filters] b48w verdicts: {"NONREAL": 25985, "DEFER": 249}
+2026-11-02 20:40:14   [filters] b48w verdict lines = class size: got 26234, expected 26234 OK
+2026-11-02 20:40:14   [filters] b48w deferred to Macaulay2: got 249, expected n/a OK
+2026-11-02 20:41:03   b49 fast filters: 10 jobs done in 49s, failures 0
+2026-11-02 20:41:03   [filters] b49 verdicts: {"DEFER": 2950, "NONREAL": 151222}
+2026-11-02 20:41:03   [filters] b49 verdict lines = class size: got 154172, expected 154172 OK
+2026-11-02 20:41:03   [filters] b49 deferred to Macaulay2: got 2950, expected 2950 OK
+2026-11-02 20:45:09   b50 fast filters: 10 jobs done in 246s, failures 0
+2026-11-02 20:45:09   [filters] b50 verdicts: {"DEFER": 26093, "NONREAL": 711930}
+2026-11-02 20:45:09   [filters] b50 verdict lines = class size: got 738023, expected 738023 OK
+2026-11-02 20:45:09   [filters] b50 deferred to Macaulay2: got 26093, expected 26093 OK
+2026-11-02 21:02:13   b51 fast filters: 10 jobs done in 1024s, failures 0
+2026-11-02 21:02:15   [filters] b51 verdicts: {"DEFER": 157533, "NONREAL": 2758799}
+2026-11-02 21:02:15   [filters] b51 verdict lines = class size: got 2916332, expected 2916332 OK
+2026-11-02 21:02:15   [filters] b51 deferred to Macaulay2: got 157533, expected 157533 OK
+2026-11-02 21:02:15 DONE stage filters (1339 s)
+2026-11-02 21:02:15 ===== stage as_cores start
+2026-11-02 21:02:17   b48 Anghel-Stan screening: 10 jobs done in 2s, failures 0
+2026-11-02 21:02:17   [as_cores] b48 Anghel-Stan statuses: {"empty-family-degenerate": 12, "empty": 20994, "family": 41, "points": 43, "empty-degenerate": 72, "cost>1": 2}
+2026-11-02 21:02:17   [as_cores] b48 Anghel-Stan verdict lines = class size: got 21164, expected 21164 OK
+2026-11-02 21:02:20   b48w Anghel-Stan screening: 10 jobs done in 3s, failures 0
+2026-11-02 21:02:20   [as_cores] b48w Anghel-Stan statuses: {"empty-family-degenerate": 14, "empty": 26027, "points": 43, "cost>1": 27, "empty-degenerate": 82, "family": 41}
+2026-11-02 21:02:20   [as_cores] b48w Anghel-Stan verdict lines = class size: got 26234, expected 26234 OK
+2026-11-02 21:02:29   b49 Anghel-Stan screening: 10 jobs done in 8s, failures 0
+2026-11-02 21:02:29   [as_cores] b49 Anghel-Stan statuses: {"family": 542, "empty": 152118, "cost>1": 181, "points": 571, "empty-family-degenerate": 305, "empty-degenerate": 455}
+2026-11-02 21:02:29   [as_cores] b49 Anghel-Stan verdict lines = class size: got 154172, expected 154172 OK
+2026-11-02 21:03:07   b50 Anghel-Stan screening: 10 jobs done in 38s, failures 0
+2026-11-02 21:03:07   [as_cores] b50 Anghel-Stan statuses: {"cost>1": 1006, "family": 3751, "empty-family-degenerate": 3114, "empty": 723251, "points": 5155, "empty-degenerate": 1746}
+2026-11-02 21:03:07   [as_cores] b50 Anghel-Stan verdict lines = class size: got 738023, expected 738023 OK
+2026-11-02 21:05:56   b51 Anghel-Stan screening: 10 jobs done in 168s, failures 0
+2026-11-02 21:05:56   [as_cores] b51 Anghel-Stan statuses: {"cost>1": 6528, "family": 18702, "empty-family-degenerate": 16329, "empty": 2830716, "points": 37824, "empty-degenerate": 6233}
+2026-11-02 21:05:56   [as_cores] b51 Anghel-Stan verdict lines = class size: got 2916332, expected 2916332 OK
+2026-11-02 21:05:56 DONE stage as_cores (221 s)
+2026-11-02 21:05:56 ===== stage m2 start
+2026-11-02 21:05:56   [m2] deferred cores (all classes): 187020
+2026-11-02 22:40:16   Macaulay2 components of the deferred cores: 10 jobs done in 5660s, failures 0
+2026-11-02 22:40:18   [m2] Macaulay2 records = deferred cores: got 187020, expected 187020 OK
+2026-11-02 22:40:18   [m2] b48 statuses: {"REAL": 85, "NONREAL": 110}
+2026-11-02 22:40:18   [m2] b48 realisable cores: got 85, expected 85 OK
+2026-11-02 22:40:18   [m2] b48 Macaulay2 timeouts/errors: got 0, expected 0 OK
+2026-11-02 22:40:18   [m2] b48 cores with rigid / curve / surface components: got (80, 5, 0), expected (80, 5, 0) OK
+2026-11-02 22:40:18   ran (0s, rc 0): python compare_as.py 13 b48.jsonl b48_ff_*.out comp_b48.jsonl b48_p*.status compare_as_b48.json
+2026-11-02 22:40:18   [m2] b48: ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 21078, "AS REAL / ours REAL": 84, "AS cost>1 / ours NONREAL": 1, "AS cost>1 / ours REAL": 1}
+2026-11-02 22:40:18   [m2] b48: disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-02 22:40:18   [m2] b48: lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-02 22:40:18   [m2] b48w statuses: {"REAL": 85, "NONREAL": 164}
+2026-11-02 22:40:18   [m2] b48w realisable cores: got 85, expected n/a OK
+2026-11-02 22:40:18   [m2] b48w Macaulay2 timeouts/errors: got 0, expected 0 OK
+2026-11-02 22:40:18   [m2] b48w cores with rigid / curve / surface components: got (80, 5, 0), expected n/a OK
+2026-11-02 22:40:18   ran (0s, rc 0): python compare_as.py 13 b48w.jsonl b48w_ff_*.out comp_b48w.jsonl b48w_p*.status compare_as_b48w.json
+2026-11-02 22:40:18   [m2] b48w: ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 26123, "AS REAL / ours REAL": 84, "AS cost>1 / ours NONREAL": 26, "AS cost>1 / ours REAL": 1}
+2026-11-02 22:40:18   [m2] b48w: disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-02 22:40:18   [m2] b48w: lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-02 22:40:18   [m2] b49 statuses: {"REAL": 1147, "NONREAL": 1803}
+2026-11-02 22:40:18   [m2] b49 realisable cores: got 1147, expected 1147 OK
+2026-11-02 22:40:18   [m2] b49 Macaulay2 timeouts/errors: got 0, expected 0 OK
+2026-11-02 22:40:18   [m2] b49 cores with rigid / curve / surface components: got (1050, 83, 14), expected (1050, 83, 14) OK
+2026-11-02 22:40:19   ran (1s, rc 0): python compare_as.py 13 b49.jsonl b49_ff_*.out comp_b49.jsonl b49_p*.status compare_as_b49.json
+2026-11-02 22:40:19   [m2] b49: ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 152878, "AS REAL / ours REAL": 1113, "AS cost>1 / ours NONREAL": 147, "AS cost>1 / ours REAL": 34}
+2026-11-02 22:40:19   [m2] b49: disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-02 22:40:19   [m2] b49: lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-02 22:40:19   [m2] b50 statuses: {"REAL": 9162, "NONREAL": 16931}
+2026-11-02 22:40:19   [m2] b50 realisable cores: got 9162, expected 9162 OK
+2026-11-02 22:40:19   [m2] b50 Macaulay2 timeouts/errors: got 0, expected 0 OK
+2026-11-02 22:40:19   [m2] b50 cores with rigid / curve / surface components: got (7985, 1091, 86), expected (7985, 1091, 86) OK
+2026-11-02 22:40:21   ran (3s, rc 0): python compare_as.py 13 b50.jsonl b50_ff_*.out comp_b50.jsonl b50_p*.status compare_as_b50.json
+2026-11-02 22:40:21   [m2] b50: ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 728111, "AS REAL / ours REAL": 8906, "AS cost>1 / ours NONREAL": 750, "AS cost>1 / ours REAL": 256}
+2026-11-02 22:40:21   [m2] b50: disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-02 22:40:21   [m2] b50: lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-02 22:40:21   [m2] b51 statuses: {"NONREAL": 98662, "REAL": 58871}
+2026-11-02 22:40:21   [m2] b51 realisable cores: got 58871, expected 58871 OK
+2026-11-02 22:40:21   [m2] b51 Macaulay2 timeouts/errors: got 0, expected 0 OK
+2026-11-02 22:40:21   [m2] b51 cores with rigid / curve / surface components: got (49118, 9001, 752), expected (49118, 9001, 752) OK
+2026-11-02 22:40:33   ran (10s, rc 0): python compare_as.py 13 b51.jsonl b51_ff_*.out comp_b51.jsonl b51_p*.status compare_as_b51.json
+2026-11-02 22:40:33   [m2] b51: ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 2853278, "AS REAL / ours REAL": 56526, "AS cost>1 / ours NONREAL": 4183, "AS cost>1 / ours REAL": 2345}
+2026-11-02 22:40:33   [m2] b51: disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-02 22:40:33   [m2] b51: lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-02 22:40:52   [m2] cores rejected by our filters only and undecided by Anghel-Stan (sent to Macaulay2): 2944
+2026-11-02 22:41:54   Macaulay2 on the filter-only cores: 10 jobs done in 62s, failures 0
+2026-11-02 22:41:54   [m2] filter-only cores: Macaulay2 statuses: {"NONREAL": 2944}
+2026-11-02 22:41:54   [m2] filter-only cores confirmed non-realisable by Macaulay2: got 2944, expected 2944 OK
+2026-11-02 22:41:55 DONE stage m2 (5758 s)
+2026-11-02 22:41:55 ===== stage ext_b48 start
+2026-11-02 22:43:01   ran (66s, rc 0): python runclass.py b48 10 comp_b48.jsonl
+2026-11-02 22:43:01   [ext_b48] runclass log: ["22:41:55 records 195 REAL 85 other (timeout/error) 0", "22:41:55 n=13 rigid 80, dim1 5, dim>=2 0", "22:41:58 n=13 rigid done", "22:41:58 n=13 rigid components: 80 expected, 80 finished", "22:43:01 n=13 family components: 5 expected, 5 finished", "22:43:01 n=13 families done; 0 family records sent to the lattice-level step (slow or failed)", "22:43:01 done; lattice files: 20"]
+2026-11-02 22:43:01   [ext_b48] worker failures: got 0, expected 0 OK
+2026-11-02 22:43:01   [ext_b48] components missing a completion record: got 0, expected 0 OK
+2026-11-02 22:43:01   [ext_b48] dim2gen failures: got 0, expected 0 OK
+2026-11-02 22:43:01   [ext_b48] pipeline finished: got True, expected True OK
+2026-11-02 22:43:01   [ext_b48] rigid components finished: 80
+2026-11-02 22:43:01   [ext_b48] family component statuses: {"OK": 5}
+2026-11-02 22:43:01   [ext_b48] 17-line lattice records accepted by the window test: 106
+2026-11-02 22:43:01   [ext_b48] 17-line lattices rejected by the window test: got 0, expected 0 OK
+2026-11-02 22:43:01   [ext_b48] rejection reasons: {}
+2026-11-02 22:43:01   [ext_b48] Macaulay2 timeouts/errors among cores and children: got 0, expected 0 OK
+2026-11-02 22:43:01   [ext_b48] children generated at the lattice level: {}
+2026-11-02 22:43:01 DONE stage ext_b48 (66 s)
+2026-11-02 22:43:01 ===== stage ext_b48w start
+2026-11-02 22:44:37   ran (95s, rc 0): python runclass.py b48w 10 comp_b48w.jsonl
+2026-11-02 22:44:37   [ext_b48w] runclass log: ["22:43:01 records 249 REAL 85 other (timeout/error) 0", "22:43:01 n=13 rigid 80, dim1 5, dim>=2 0", "22:43:05 n=13 rigid done", "22:43:05 n=13 rigid components: 80 expected, 80 finished", "22:44:37 n=13 family components: 5 expected, 5 finished", "22:44:37 n=13 families done; 0 family records sent to the lattice-level step (slow or failed)", "22:44:37 done; lattice files: 20"]
+2026-11-02 22:44:37   [ext_b48w] worker failures: got 0, expected 0 OK
+2026-11-02 22:44:37   [ext_b48w] components missing a completion record: got 0, expected 0 OK
+2026-11-02 22:44:37   [ext_b48w] dim2gen failures: got 0, expected 0 OK
+2026-11-02 22:44:37   [ext_b48w] pipeline finished: got True, expected True OK
+2026-11-02 22:44:37   [ext_b48w] rigid components finished: 80
+2026-11-02 22:44:37   [ext_b48w] family component statuses: {"OK": 5}
+2026-11-02 22:44:37   [ext_b48w] 17-line lattice records accepted by the window test: 106
+2026-11-02 22:44:37   [ext_b48w] 17-line lattices rejected by the window test: got 0, expected 0 OK
+2026-11-02 22:44:37   [ext_b48w] rejection reasons: {}
+2026-11-02 22:44:37   [ext_b48w] Macaulay2 timeouts/errors among cores and children: got 0, expected 0 OK
+2026-11-02 22:44:37   [ext_b48w] children generated at the lattice level: {}
+2026-11-02 22:44:37 DONE stage ext_b48w (95 s)
+2026-11-02 22:44:37 ===== stage ext_b49 start
+2026-11-02 22:54:59   ran (623s, rc 0): python runclass.py b49 10 comp_b49.jsonl
+2026-11-02 22:54:59   [ext_b49] runclass log: ["22:44:37 records 2950 REAL 1147 other (timeout/error) 0", "22:44:37 n=13 rigid 1050, dim1 83, dim>=2 14", "22:45:17 n=13 rigid done", "22:45:17 n=13 rigid components: 1050 expected, 1050 finished", "22:50:09 n=13 family components: 83 expected, 83 finished", "22:50:09 n=13 families done; 1 family records sent to the lattice-level step (slow or failed)", "22:50:15 n=13 -> 6608 children with 14 li
+2026-11-02 22:54:59   [ext_b49] worker failures: got 0, expected 0 OK
+2026-11-02 22:54:59   [ext_b49] components missing a completion record: got 0, expected 0 OK
+2026-11-02 22:54:59   [ext_b49] dim2gen failures: got 0, expected 0 OK
+2026-11-02 22:54:59   [ext_b49] pipeline finished: got True, expected True OK
+2026-11-02 22:54:59   [ext_b49] rigid components finished: 2525
+2026-11-02 22:54:59   [ext_b49] family component statuses: {"OK": 267, "SLOW": 2}
+2026-11-02 22:54:59   [ext_b49] 17-line lattice records accepted by the window test: 0
+2026-11-02 22:54:59   [ext_b49] 17-line lattices rejected by the window test: got 0, expected 0 OK
+2026-11-02 22:54:59   [ext_b49] rejection reasons: {}
+2026-11-02 22:54:59   [ext_b49] Macaulay2 timeouts/errors among cores and children: got 0, expected 0 OK
+2026-11-02 22:54:59   [ext_b49] children generated at the lattice level: {"b49_n13_ch.jsonl": 6608, "b49_n14_ch.jsonl": 5314, "b49_n15_ch.jsonl": 153}
+2026-11-02 22:54:59 DONE stage ext_b49 (623 s)
+2026-11-02 22:54:59 ===== stage ext_b50 start
+2026-11-03 00:57:47   ran (7368s, rc 0): python runclass.py b50 10 comp_b50.jsonl
+2026-11-03 00:57:47   [ext_b50] runclass log: ["22:55:00 records 26093 REAL 9162 other (timeout/error) 0", "22:55:00 n=13 rigid 7985, dim1 1091, dim>=2 86", "22:57:28 n=13 rigid done", "22:57:28 n=13 rigid components: 7985 expected, 7985 finished", "23:35:53 n=13 family components: 1091 expected, 1091 finished", "23:35:53 n=13 families done; 26 family records sent to the lattice-level step (slow or failed)", "23:36:33 n=13 -> 102705 children 
+2026-11-03 00:57:47   [ext_b50] worker failures: got 0, expected 0 OK
+2026-11-03 00:57:47   [ext_b50] components missing a completion record: got 0, expected 0 OK
+2026-11-03 00:57:47   [ext_b50] dim2gen failures: got 0, expected 0 OK
+2026-11-03 00:57:47   [ext_b50] pipeline finished: got True, expected True OK
+2026-11-03 00:57:47   [ext_b50] rigid components finished: 22788
+2026-11-03 00:57:47   [ext_b50] family component statuses: {"OK": 3123, "SLOW": 97, "NOMODEL": 4}
+2026-11-03 00:57:47   [ext_b50] 17-line lattice records accepted by the window test: 0
+2026-11-03 00:57:47   [ext_b50] 17-line lattices rejected by the window test: got 0, expected 0 OK
+2026-11-03 00:57:47   [ext_b50] rejection reasons: {}
+2026-11-03 00:57:47   [ext_b50] Macaulay2 timeouts/errors among cores and children: got 0, expected 0 OK
+2026-11-03 00:57:47   [ext_b50] children generated at the lattice level: {"b50_n13_ch.jsonl": 102705, "b50_n14_ch.jsonl": 64180, "b50_n15_ch.jsonl": 55}
+2026-11-03 00:57:47 DONE stage ext_b50 (7368 s)
+2026-11-03 00:57:47 ===== stage ext_b51 start
+2026-11-03 05:31:49   ran (16442s, rc 0): python runclass.py b51 10 comp_b51.jsonl
+2026-11-03 05:31:49   [ext_b51] runclass log: ["00:57:49 records 157533 REAL 58871 other (timeout/error) 0", "00:57:49 n=13 rigid 49118, dim1 9001, dim>=2 752", "01:01:07 n=13 rigid done", "01:01:07 n=13 rigid components: 49118 expected, 49118 finished", "03:23:58 n=13 family components: 9001 expected, 9001 finished", "03:23:58 n=13 families done; 120 family records sent to the lattice-level step (slow or failed)", "03:29:10 n=13 -> 357086 ch
+2026-11-03 05:31:49   [ext_b51] worker failures: got 0, expected 0 OK
+2026-11-03 05:31:49   [ext_b51] components missing a completion record: got 0, expected 0 OK
+2026-11-03 05:31:49   [ext_b51] dim2gen failures: got 0, expected 0 OK
+2026-11-03 05:31:49   [ext_b51] pipeline finished: got True, expected True OK
+2026-11-03 05:31:49   [ext_b51] rigid components finished: 74102
+2026-11-03 05:31:49   [ext_b51] family component statuses: {"OK": 11257, "SLOW": 179, "NOMODEL": 8}
+2026-11-03 05:31:49   [ext_b51] 17-line lattice records accepted by the window test: 0
+2026-11-03 05:31:49   [ext_b51] 17-line lattices rejected by the window test: got 0, expected 0 OK
+2026-11-03 05:31:49   [ext_b51] rejection reasons: {}
+2026-11-03 05:31:49   [ext_b51] Macaulay2 timeouts/errors among cores and children: got 2, expected 0 *** MISMATCH ***
+2026-11-03 05:31:49   [ext_b51] children generated at the lattice level: {"b51_n13_ch.jsonl": 357086, "b51_n14_ch.jsonl": 4093}
+2026-11-03 05:31:49 DONE stage ext_b51 (16442 s)
+2026-11-03 05:31:49 ===== stage as_children start
+2026-11-03 05:31:51   b49_n13 Anghel-Stan screening: 10 jobs done in 2s, failures 0
+2026-11-03 05:31:51   ran (0s, rc 0): python compare_as.py 14 b49_n13_ch.jsonl b49_n13_ff_*.out b49_n13_chcomp_*.jsonl b49_n13_as_*.status compare_b49_n13.json
+2026-11-03 05:31:51   [as_children] b49_n13 (14 lines): ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 5168, "AS REAL / ours REAL": 1341, "AS cost>1 / ours NONREAL": 64, "AS cost>1 / ours REAL": 35}
+2026-11-03 05:31:51   [as_children] b49_n13 (14 lines): disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-03 05:31:51   [as_children] b49_n13 (14 lines): lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-03 05:31:54   b49_n13 Macaulay2 on filter-only children: 10 jobs done in 3s, failures 0
+2026-11-03 05:31:54   [as_children] b49_n13: filter-only children confirmed non-realisable by Macaulay2: got 51, expected 51 OK
+2026-11-03 05:31:56   b49_n14 Anghel-Stan screening: 10 jobs done in 2s, failures 0
+2026-11-03 05:31:57   ran (0s, rc 0): python compare_as.py 15 b49_n14_ch.jsonl b49_n14_ff_*.out b49_n14_chcomp_*.jsonl b49_n14_as_*.status compare_b49_n14.json
+2026-11-03 05:31:57   [as_children] b49_n14 (15 lines): ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 5015, "AS REAL / ours REAL": 286, "AS cost>1 / ours NONREAL": 7, "AS cost>1 / ours REAL": 6}
+2026-11-03 05:31:57   [as_children] b49_n14 (15 lines): disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-03 05:31:57   [as_children] b49_n14 (15 lines): lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-03 05:31:59   b49_n14 Macaulay2 on filter-only children: 4 jobs done in 2s, failures 0
+2026-11-03 05:31:59   [as_children] b49_n14: filter-only children confirmed non-realisable by Macaulay2: got 4, expected 4 OK
+2026-11-03 05:32:01   b49_n15 Anghel-Stan screening: 10 jobs done in 2s, failures 0
+2026-11-03 05:32:01   ran (0s, rc 0): python compare_as.py 16 b49_n15_ch.jsonl b49_n15_ff_*.out b49_n15_chcomp_*.jsonl b49_n15_as_*.status compare_b49_n15.json
+2026-11-03 05:32:01   [as_children] b49_n15 (16 lines): ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 152, "AS REAL / ours REAL": 1}
+2026-11-03 05:32:01   [as_children] b49_n15 (16 lines): disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-03 05:32:01   [as_children] b49_n15 (16 lines): lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-03 05:32:12   b50_n13 Anghel-Stan screening: 10 jobs done in 11s, failures 0
+2026-11-03 05:32:12   ran (1s, rc 0): python compare_as.py 14 b50_n13_ch.jsonl b50_n13_ff_*.out b50_n13_chcomp_*.jsonl b50_n13_as_*.status compare_b50_n13.json
+2026-11-03 05:32:12   [as_children] b50_n13 (14 lines): ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 85990, "AS REAL / ours REAL": 15851, "AS cost>1 / ours NONREAL": 426, "AS cost>1 / ours REAL": 438}
+2026-11-03 05:32:12   [as_children] b50_n13 (14 lines): disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-03 05:32:12   [as_children] b50_n13 (14 lines): lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-03 05:32:20   b50_n13 Macaulay2 on filter-only children: 10 jobs done in 7s, failures 0
+2026-11-03 05:32:20   [as_children] b50_n13: filter-only children confirmed non-realisable by Macaulay2: got 269, expected 269 OK
+2026-11-03 05:32:27   b50_n14 Anghel-Stan screening: 10 jobs done in 7s, failures 0
+2026-11-03 05:32:27   ran (0s, rc 0): python compare_as.py 15 b50_n14_ch.jsonl b50_n14_ff_*.out b50_n14_chcomp_*.jsonl b50_n14_as_*.status compare_b50_n14.json
+2026-11-03 05:32:27   [as_children] b50_n14 (15 lines): ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 63422, "AS REAL / ours REAL": 735, "AS cost>1 / ours NONREAL": 17, "AS cost>1 / ours REAL": 6}
+2026-11-03 05:32:27   [as_children] b50_n14 (15 lines): disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-03 05:32:27   [as_children] b50_n14 (15 lines): lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-03 05:32:29   b50_n14 Macaulay2 on filter-only children: 10 jobs done in 2s, failures 0
+2026-11-03 05:32:29   [as_children] b50_n14: filter-only children confirmed non-realisable by Macaulay2: got 12, expected 12 OK
+2026-11-03 05:32:32   b50_n15 Anghel-Stan screening: 10 jobs done in 2s, failures 0
+2026-11-03 05:32:32   ran (0s, rc 0): python compare_as.py 16 b50_n15_ch.jsonl b50_n15_ff_*.out b50_n15_chcomp_*.jsonl b50_n15_as_*.status compare_b50_n15.json
+2026-11-03 05:32:32   [as_children] b50_n15 (16 lines): ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 55}
+2026-11-03 05:32:32   [as_children] b50_n15 (16 lines): disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-03 05:32:32   [as_children] b50_n15 (16 lines): lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-03 05:33:00   b51_n13 Anghel-Stan screening: 10 jobs done in 28s, failures 0
+2026-11-03 05:33:02   ran (2s, rc 0): python compare_as.py 14 b51_n13_ch.jsonl b51_n13_ff_*.out b51_n13_chcomp_*.jsonl b51_n13_as_*.status compare_b51_n13.json
+2026-11-03 05:33:02   [as_children] b51_n13 (14 lines): ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 329064, "AS EMPTY / ours TIMEOUT": 1, "AS REAL / ours REAL": 26978, "AS REAL / ours TIMEOUT": 1, "AS cost>1 / ours NONREAL": 525, "AS cost>1 / ours REAL": 517}
+2026-11-03 05:33:02   [as_children] b51_n13 (14 lines): disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-03 05:33:02   [as_children] b51_n13 (14 lines): lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-03 05:33:11   b51_n13 Macaulay2 on filter-only children: 10 jobs done in 8s, failures 0
+2026-11-03 05:33:11   [as_children] b51_n13: filter-only children confirmed non-realisable by Macaulay2: got 356, expected 356 OK
+2026-11-03 05:33:14   b51_n14 Anghel-Stan screening: 10 jobs done in 2s, failures 0
+2026-11-03 05:33:14   ran (0s, rc 0): python compare_as.py 15 b51_n14_ch.jsonl b51_n14_ff_*.out b51_n14_chcomp_*.jsonl b51_n14_as_*.status compare_b51_n14.json
+2026-11-03 05:33:14   [as_children] b51_n14 (15 lines): ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 4066, "AS REAL / ours REAL": 27}
+2026-11-03 05:33:14   [as_children] b51_n14 (15 lines): disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-03 05:33:14   [as_children] b51_n14 (15 lines): lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-03 05:33:14   [as_children] children screened: 540194
+2026-11-03 05:33:14 DONE stage as_children (85 s)
+2026-11-03 05:33:14 ===== stage indep_rigid start
+2026-11-03 05:33:14   [indep_rigid] records with a rigid component: 99573
+2026-11-03 05:35:14 ===== campaign start: stages route_timeouts (NCPU 10)
+2026-11-03 05:35:14 ===== stage route_timeouts start
+2026-11-03 05:35:14   [route_timeouts] Macaulay2 timeouts/errors to route: {"b51 n=14": 2}
+2026-11-03 05:35:14   [route_timeouts] timeouts/errors outside b51 at 14 lines: got 0, expected 0 OK
+2026-11-03 05:35:14   [route_timeouts] the b51 timeouts are the same two 14-line lattices as in October 2026: got True, expected True OK
+2026-11-03 05:35:26   ran (11s, rc 0): python runclass.py b51to2 2 --n=14 b51to2_forced.jsonl
+2026-11-03 05:35:26   [route_timeouts] b51to2 runclass log: ["05:35:14 records 2 REAL 2 other (timeout/error) 0", "05:35:14 n=14 rigid 0, dim1 0, dim>=2 2", "05:35:14 n=14 rigid done", "05:35:14 n=14 rigid components: 0 expected, 0 finished", "05:35:15 n=14 family components: 0 expected, 0 finished", "05:35:15 n=14 families done; 0 family records sent to the lattice-level step (slow or failed)", "05:35:15 n=14 -> 142 children with 15 lines", "05:35:15 n=14
+2026-11-03 05:35:26   [route_timeouts] b51to2 worker failures: got 0, expected 0 OK
+2026-11-03 05:35:26   [route_timeouts] b51to2 components missing a completion record: got 0, expected 0 OK
+2026-11-03 05:35:26   [route_timeouts] b51to2 dim2gen failures: got 0, expected 0 OK
+2026-11-03 05:35:26   [route_timeouts] b51to2 pipeline finished: got True, expected True OK
+2026-11-03 05:35:26   [route_timeouts] b51to2 17-line lattice records accepted by the window test: 0
+2026-11-03 05:35:26   [route_timeouts] b51to2 17-line lattices rejected by the window test: got 0, expected 0 OK
+2026-11-03 05:35:26   [route_timeouts] b51to2 rejection reasons: {}
+2026-11-03 05:35:26   [route_timeouts] b51to2 Macaulay2 timeouts/errors among the routed children: got 0, expected 0 OK
+2026-11-03 05:35:26   [route_timeouts] b51to2 children generated at the lattice level: {"b51to2_n14_ch.jsonl": 142}
+2026-11-03 05:35:28   b51to2_n14 Anghel-Stan screening: 10 jobs done in 2s, failures 0
+2026-11-03 05:35:28   ran (0s, rc 0): python compare_as.py 15 b51to2_n14_ch.jsonl b51to2_n14_ff_*.out b51to2_n14_chcomp_*.jsonl b51to2_n14_as_*.status compare_b51to2_n14.json
+2026-11-03 05:35:28   [route_timeouts] b51to2_n14 (15 lines): ours vs Anghel-Stan: {"AS EMPTY / ours NONREAL": 142}
+2026-11-03 05:35:28   [route_timeouts] b51to2_n14 (15 lines): disagreements with Anghel-Stan: got 0, expected 0 OK
+2026-11-03 05:35:28   [route_timeouts] b51to2_n14 (15 lines): lattices without a verdict of ours: got 0, expected 0 OK
+2026-11-03 05:35:28   [route_timeouts] children of the routed records screened by Anghel-Stan: 142
+2026-11-03 05:35:28 DONE stage route_timeouts (13 s)
+2026-11-03 05:35:28 ===== campaign end
+2026-11-03 05:49:42   independent numeric rigid search: 10 jobs done in 989s, failures 0
+2026-11-03 05:49:43   ran (0s, rc 0): python compare_indep.py ext indep_rigid compare.json
+2026-11-03 05:49:43   [indep_rigid] comparison: {"exact_components": 99575, "numeric_components": 99575, "compared": 99575, "differing": 0, "examples": [], "lattice_mismatch": 0, "errors": 0, "ambiguous": 0, "numeric_only_components": 0, "distinct_lattices_exact": 16, "distinct_lattices_numeric": 16}
+2026-11-03 05:49:43   [indep_rigid] rigid components compared: got 99575, expected 99575 OK
+2026-11-03 05:49:43   [indep_rigid] components whose lattice sets differ: got 0, expected 0 OK
+2026-11-03 05:49:43   [indep_rigid] numeric realisation not reproducing the core lattice: got 0, expected 0 OK
+2026-11-03 05:49:43   [indep_rigid] numeric errors: got 0, expected 0 OK
+2026-11-03 05:49:43   [indep_rigid] ambiguous incidences (recomputed in 50 digits): 0
+2026-11-03 05:49:43 DONE stage indep_rigid (989 s)
+2026-11-03 05:49:43 ===== stage final start
+2026-11-03 05:49:43   ran (0s, rc 0): python collect.py final ext
+2026-11-03 05:49:43   [final] collection: {"accepted_records": 212, "rejected_records": 0, "distinct": 16, "known": 16, "new": 0, "known_missing": 0, "rejected_distinct": 0, "per_class": {"b48": 16, "b48w": 16}}
+2026-11-03 05:49:43   [final] distinct 17-line lattices accepted by the window test: got 16, expected 16 OK
+2026-11-03 05:49:43   [final] of which among the 16 of work/n17/run/checked_L.jsonl: got 16, expected 16 OK
+2026-11-03 05:49:43   [final] new lattices: got 0, expected 0 OK
+2026-11-03 05:49:43   [final] lattices rejected by the window test (distinct): got 0, expected 0 OK
+2026-11-03 05:49:43   [final] the 16 known lattices all found: got 0, expected 0 OK
+2026-11-03 05:49:43   [final] lattices found per class: {"b48": 16, "b48w": 16}
+2026-11-03 05:49:43   ran (0s, rc 0): python chains.py window todo_L.jsonl
+2026-11-03 05:49:43   [final] window and 4-chain check of the lattices found: {"n": 16, "window_with_4chain": 16, "per": [{"idx": 0, "known": "del17.jsonl:10", "window": true, "conditions": {"W1_b2": true, "W2_mult": true, "W3_lines": true, "W4_double": true, "W5_unjoined": true}, "phi_max": 4, "four_chains": 30, "D_pairs": 0, "profile": "88888888777777774", "multiplicities": {"5": 4, "3": 8, "4": 8, "2": 24}}, {"idx": 1, "known": "census5_classes.jsonl:4", "window": true, 
+2026-11-03 05:49:43   [final] lattices found that are window lattices with phi_max = 4 and a 4-chain: got 16, expected 16 OK
+2026-11-03 05:49:46   exact_tc_lattice on the lattices found: 10 jobs done in 3s, failures 0
+2026-11-03 05:49:46   [final] exact_tc_lattice verdicts: {"0": ["LATTICE 0 components 1 good 1 dims {0} zerobad 0", "COMP dim 0 degree 2 rank 15/16 NONFREE"], "10": ["LATTICE 10 components 3 good 1 dims {0} zerobad 0", "COMP dim 0 degree 2 rank 15/16 NONFREE"], "1": ["LATTICE 1 components 1 good 1 dims {0} zerobad 0", "COMP dim 0 degree 1 rank 15/16 NONFREE"], "11": ["LATTICE 11 components 3 good 1 dims {0} zerobad 0", "COMP dim 0 degree 2 rank 15/16 NO
+2026-11-03 05:49:46   [final] lattices with every component NONFREE (exact_tc_lattice): got 16, expected 16 OK
+2026-11-03 05:49:46   [final] lattices with a FREE or MIXED component: got 0, expected 0 OK
+2026-11-03 05:49:46   [final] exact_tc_lattice errors: got 0, expected 0 OK
+2026-11-03 05:49:49   Macaulay2 components of the lattices found: 10 jobs done in 3s, failures 0
+2026-11-03 05:49:53   syzygy degrees over the field of definition: 10 jobs done in 4s, failures 0
+2026-11-03 05:49:53   [final] freecheck (Macaulay2: realisation over K, lattice reproduced, minimal syzygy degrees): {"0": {"lattice_ok": true, "degrees": [7, 10, 10], "field": "Q[T]/({75, -15, 1})", "free": false, "error": null}, "5": {"lattice_ok": true, "degrees": [7, 10, 10], "field": "Q[T]/({4, -2, 1})", "free": false, "error": null}, "10": {"lattice_ok": true, "degrees": [7, 10, 10], "field": "Q[T]/({25, -5, 1})", "free": false, "error": null}, "15": {"lattice_ok": true, "degrees": [7, 10, 10], "field": "Q
+2026-11-03 05:49:53   [final] freecheck: realisations reproduce their lattice: got 16, expected 16 OK
+2026-11-03 05:49:53   [final] freecheck: non-free with minimal syzygy degrees (7, 10, 10): got 16, expected 16 OK
+2026-11-03 05:49:53   [final] freecheck: free realisations: got 0, expected 0 OK
+2026-11-03 05:49:54   ran (1s, rc 0): python as_recertify.py todo_L.jsonl as_recertify.jsonl
+2026-11-03 05:49:54   [final] Anghel-Stan re-certification: {"0": {"status": "points", "comps": [[2, "nonfree"]]}, "1": {"status": "family-point", "comps": [[1, "nonfree"]]}, "2": {"status": "family-point", "comps": [[1, "nonfree"]]}, "3": {"status": "family-point", "comps": [[1, "nonfree"]]}, "4": {"status": "family-point", "comps": [[1, "nonfree"]]}, "5": {"status": "points", "comps": [[2, "nonfree"]]}, "6": {"status": "points", "comps": [[2, "nonfree"]]
+2026-11-03 05:49:54   [final] Anghel-Stan: lattices realisable with every component certified nonfree: got 16, expected 16 OK
+2026-11-03 05:49:54 DONE stage final (11 s)
+2026-11-03 05:49:54 ===== stage report start
+2026-11-03 05:49:54   ran (0s, rc 0): python report.py
+2026-11-03 05:49:54   [report] written: "/Users/agent/Projects/TC17/work/n17/campaign/REPORT.md"
+2026-11-03 05:49:54 DONE stage report (0 s)
+2026-11-03 05:49:54 ===== campaign end
+2026-11-03 05:51:26 ===== campaign start: stages report (NCPU 10)
+2026-11-03 05:51:26 ===== stage report start
+2026-11-03 05:51:26   ran (0s, rc 0): python report.py
+2026-11-03 05:51:26   [report] written: "/Users/agent/Projects/TC17/work/n17/campaign/REPORT.md"
+2026-11-03 05:51:26 DONE stage report (0 s)
+2026-11-03 05:51:26 ===== campaign end

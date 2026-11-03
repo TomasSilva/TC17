@@ -1,0 +1,5 @@
+{"idx": "b51:41078/1929", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 3, "phipruned": 2}, "found": [], "src": "core", "cap": 2, "wall": 0.01}
+{"idx": "b51:27147/2569", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 1}, "found": [], "src": "core", "cap": 2, "wall": 0.01}
+{"idx": "b50:1553/450", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 10, "phipruned": 8}, "found": [], "src": "core", "cap": 3, "wall": 0.02}
+{"idx": "b50:1553/805", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 1}, "found": [], "src": "core", "cap": 3, "wall": 0.01}
+{"ALLDONE": "part_ae"}

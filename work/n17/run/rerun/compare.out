@@ -1,0 +1,4 @@
+b4849 orig records 1016 distinct 16 | rerun records 98 distinct 16 | rerun subset of orig True | equal True | all in final 16 True
+d2c orig records 21 distinct 2 | rerun records 21 distinct 2 | rerun subset of orig True | equal True | all in final 16 True
+b49d2 orig records 3 distinct 1 | rerun records 3 distinct 1 | rerun subset of orig True | equal True | all in final 16 True
+b50n13 orig records 0 distinct 0 | rerun records 0 distinct 0 | rerun subset of orig True | equal True | all in final 16 True

@@ -1,0 +1,221 @@
+{
+ "K4444 triangle decompositions (lattices with a 4-point line)": {
+  "got": 23,
+  "expected": 23,
+  "ok": true
+ },
+ "5-point vector 55411: heavy configurations": {
+  "got": 1,
+  "expected": null,
+  "ok": true
+ },
+ "5-point vector 55411: lattices": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "5-point vector 55321: heavy configurations": {
+  "got": 1,
+  "expected": null,
+  "ok": true
+ },
+ "5-point vector 55321: lattices": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "5-point vector 55222: heavy configurations": {
+  "got": 3,
+  "expected": null,
+  "ok": true
+ },
+ "5-point vector 55222: lattices": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "5-point vector 54421: heavy configurations": {
+  "got": 5,
+  "expected": null,
+  "ok": true
+ },
+ "5-point vector 54421: lattices": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "5-point vector 54331: heavy configurations": {
+  "got": 26,
+  "expected": null,
+  "ok": true
+ },
+ "5-point vector 54331: lattices": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "5-point vector 54322: heavy configurations": {
+  "got": 379,
+  "expected": null,
+  "ok": true
+ },
+ "5-point vector 54322: lattices": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "5-point vector 53332: heavy configurations": {
+  "got": 2303,
+  "expected": 2303,
+  "ok": true
+ },
+ "5-point vector 53332: lattices": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "5-point vector 44431: heavy configurations": {
+  "got": 87,
+  "expected": 87,
+  "ok": true
+ },
+ "5-point vector 44431: lattices": {
+  "got": 122,
+  "expected": 122,
+  "ok": true
+ },
+ "5-point vector 44422: heavy configurations": {
+  "got": 863,
+  "expected": 863,
+  "ok": true
+ },
+ "5-point vector 44422: lattices": {
+  "got": 232,
+  "expected": 232,
+  "ok": true
+ },
+ "5-point vector 44332: heavy configurations": {
+  "got": 49565,
+  "expected": 49565,
+  "ok": true
+ },
+ "5-point vector 44332: lattices": {
+  "got": 3124,
+  "expected": 3124,
+  "ok": true
+ },
+ "5-point vector 43333: heavy configurations": {
+  "got": 192133,
+  "expected": 192133,
+  "ok": true
+ },
+ "5-point vector 43333: lattices": {
+  "got": 7723,
+  "expected": 7723,
+  "ok": true
+ },
+ "lattices without an 8-point line to screen": {
+  "got": 11224,
+  "expected": 11224,
+  "ok": true
+ },
+ "invariants (b2 = 80, m <= 6, 4-7 points, W5, isomorphism classes)": {
+  "n": 17,
+  "b2": 80,
+  "points_per_line": [
+   4,
+   7
+  ],
+  "mmax": 6,
+  "cut": true,
+  "w4": true,
+  "total": 11224,
+  "distinct": 11224,
+  "violations": {},
+  "max_points_on_a_line": {
+   "7": 11224
+  },
+  "line_profiles": 5,
+  "multiplicity_profiles": 7,
+  "commonest_profiles": [
+   [
+    "77777777777777775",
+    9455
+   ],
+   [
+    "77777777777777765",
+    1649
+   ],
+   [
+    "77777777777777755",
+    91
+   ],
+   [
+    "77777777777777774",
+    23
+   ],
+   [
+    "77777777777777665",
+    6
+   ]
+  ]
+ },
+ "invariant violations": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "distinct lattices (pynauty)": {
+  "got": 11224,
+  "expected": 11224,
+  "ok": true
+ },
+ "screening": {
+  "lattices": 11224,
+  "verdict_lines": 11224,
+  "filter_stats": {
+   "NONREAL": 10320,
+   "DEFER": 904
+  },
+  "deferred": 904,
+  "m2_status": {
+   "NONREAL": 904
+  },
+  "m2_records": 904
+ },
+ "verdict lines": {
+  "got": 11224,
+  "expected": 11224,
+  "ok": true
+ },
+ "realisable lattices (Macaulay2)": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "Macaulay2 timeouts/errors": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "Macaulay2 records": {
+  "got": 904,
+  "expected": 904,
+  "ok": true
+ },
+ "no-8-point-line lattices: ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 11224
+ },
+ "no-8-point-line lattices: disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "no-8-point-line lattices: lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "_finished": "2026-11-02 20:28:44",
+ "_seconds": 378
+}

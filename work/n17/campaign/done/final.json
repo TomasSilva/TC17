@@ -1,0 +1,837 @@
+{
+ "collection": {
+  "accepted_records": 212,
+  "rejected_records": 0,
+  "distinct": 16,
+  "known": 16,
+  "new": 0,
+  "known_missing": 0,
+  "rejected_distinct": 0,
+  "per_class": {
+   "b48": 16,
+   "b48w": 16
+  }
+ },
+ "distinct 17-line lattices accepted by the window test": {
+  "got": 16,
+  "expected": 16,
+  "ok": true
+ },
+ "of which among the 16 of work/n17/run/checked_L.jsonl": {
+  "got": 16,
+  "expected": 16,
+  "ok": true
+ },
+ "new lattices": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "lattices rejected by the window test (distinct)": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "the 16 known lattices all found": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "lattices found per class": {
+  "b48": 16,
+  "b48w": 16
+ },
+ "window and 4-chain check of the lattices found": {
+  "n": 16,
+  "window_with_4chain": 16,
+  "per": [
+   {
+    "idx": 0,
+    "known": "del17.jsonl:10",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 30,
+    "D_pairs": 0,
+    "profile": "88888888777777774",
+    "multiplicities": {
+     "5": 4,
+     "3": 8,
+     "4": 8,
+     "2": 24
+    }
+   },
+   {
+    "idx": 1,
+    "known": "census5_classes.jsonl:4",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 12,
+    "D_pairs": 0,
+    "profile": "88888888887776665",
+    "multiplicities": {
+     "5": 2,
+     "6": 2,
+     "3": 18,
+     "4": 2,
+     "2": 20
+    }
+   },
+   {
+    "idx": 2,
+    "known": "new (21 Oct 2026)",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 11,
+    "D_pairs": 0,
+    "profile": "88888888887776666",
+    "multiplicities": {
+     "5": 5,
+     "4": 6,
+     "3": 8,
+     "2": 26
+    }
+   },
+   {
+    "idx": 3,
+    "known": "census5_classes.jsonl:0",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 12,
+    "D_pairs": 0,
+    "profile": "88888888887776665",
+    "multiplicities": {
+     "5": 2,
+     "4": 8,
+     "6": 1,
+     "3": 10,
+     "2": 23
+    }
+   },
+   {
+    "idx": 4,
+    "known": "new (21 Oct 2026)",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 13,
+    "D_pairs": 0,
+    "profile": "88888888887776666",
+    "multiplicities": {
+     "6": 2,
+     "4": 3,
+     "3": 15,
+     "5": 2,
+     "2": 23
+    }
+   },
+   {
+    "idx": 5,
+    "known": "del17.jsonl:3",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 1,
+    "D_pairs": 0,
+    "profile": "88888887777777666",
+    "multiplicities": {
+     "4": 10,
+     "3": 8,
+     "5": 3,
+     "2": 22
+    }
+   },
+   {
+    "idx": 6,
+    "known": "census5_classes.jsonl:1",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 1,
+    "D_pairs": 0,
+    "profile": "88888877777777775",
+    "multiplicities": {
+     "4": 13,
+     "3": 5,
+     "5": 2,
+     "2": 23
+    }
+   },
+   {
+    "idx": 7,
+    "known": "del17.jsonl:0",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 1,
+    "D_pairs": 0,
+    "profile": "88888887777777666",
+    "multiplicities": {
+     "4": 13,
+     "3": 5,
+     "5": 2,
+     "2": 23
+    }
+   },
+   {
+    "idx": 8,
+    "known": "del17.jsonl:6",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 1,
+    "D_pairs": 0,
+    "profile": "88888887777777766",
+    "multiplicities": {
+     "5": 4,
+     "4": 8,
+     "3": 8,
+     "2": 24
+    }
+   },
+   {
+    "idx": 9,
+    "known": "del17.jsonl:4",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 1,
+    "D_pairs": 0,
+    "profile": "88888887777777766",
+    "multiplicities": {
+     "5": 3,
+     "4": 11,
+     "3": 5,
+     "2": 25
+    }
+   },
+   {
+    "idx": 10,
+    "known": "census5_classes.jsonl:2",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 5,
+    "D_pairs": 0,
+    "profile": "88888887777777775",
+    "multiplicities": {
+     "4": 8,
+     "5": 4,
+     "3": 8,
+     "2": 24
+    }
+   },
+   {
+    "idx": 11,
+    "known": "del17.jsonl:7",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 8,
+    "D_pairs": 0,
+    "profile": "88888888777777766",
+    "multiplicities": {
+     "4": 6,
+     "5": 5,
+     "3": 8,
+     "2": 26
+    }
+   },
+   {
+    "idx": 12,
+    "known": "del17.jsonl:8",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 7,
+    "D_pairs": 0,
+    "profile": "88888888877777666",
+    "multiplicities": {
+     "4": 9,
+     "5": 4,
+     "3": 5,
+     "2": 27
+    }
+   },
+   {
+    "idx": 13,
+    "known": "del17.jsonl:11",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 9,
+    "D_pairs": 0,
+    "profile": "88888877777777777",
+    "multiplicities": {
+     "4": 3,
+     "5": 6,
+     "3": 11,
+     "2": 25
+    }
+   },
+   {
+    "idx": 14,
+    "known": "del17.jsonl:5",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 6,
+    "D_pairs": 0,
+    "profile": "88888888777777766",
+    "multiplicities": {
+     "4": 9,
+     "5": 4,
+     "3": 5,
+     "2": 27
+    }
+   },
+   {
+    "idx": 15,
+    "known": "del17.jsonl:1",
+    "window": true,
+    "conditions": {
+     "W1_b2": true,
+     "W2_mult": true,
+     "W3_lines": true,
+     "W4_double": true,
+     "W5_unjoined": true
+    },
+    "phi_max": 4,
+    "four_chains": 1,
+    "D_pairs": 0,
+    "profile": "88888877777777776",
+    "multiplicities": {
+     "5": 4,
+     "4": 8,
+     "3": 8,
+     "2": 24
+    }
+   }
+  ]
+ },
+ "lattices found that are window lattices with phi_max = 4 and a 4-chain": {
+  "got": 16,
+  "expected": 16,
+  "ok": true
+ },
+ "exact_tc_lattice verdicts": {
+  "0": [
+   "LATTICE 0 components 1 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ],
+  "10": [
+   "LATTICE 10 components 3 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ],
+  "1": [
+   "LATTICE 1 components 1 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 1 rank 15/16 NONFREE"
+  ],
+  "11": [
+   "LATTICE 11 components 3 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ],
+  "2": [
+   "LATTICE 2 components 2 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 1 rank 15/16 NONFREE"
+  ],
+  "12": [
+   "LATTICE 12 components 3 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ],
+  "3": [
+   "LATTICE 3 components 1 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 1 rank 15/16 NONFREE"
+  ],
+  "13": [
+   "LATTICE 13 components 3 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ],
+  "4": [
+   "LATTICE 4 components 3 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 1 rank 15/16 NONFREE"
+  ],
+  "14": [
+   "LATTICE 14 components 3 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ],
+  "5": [
+   "LATTICE 5 components 1 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ],
+  "15": [
+   "LATTICE 15 components 1 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ],
+  "6": [
+   "LATTICE 6 components 1 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ],
+  "7": [
+   "LATTICE 7 components 1 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ],
+  "8": [
+   "LATTICE 8 components 1 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ],
+  "9": [
+   "LATTICE 9 components 1 good 1 dims {0} zerobad 0",
+   "COMP dim 0 degree 2 rank 15/16 NONFREE"
+  ]
+ },
+ "lattices with every component NONFREE (exact_tc_lattice)": {
+  "got": 16,
+  "expected": 16,
+  "ok": true
+ },
+ "lattices with a FREE or MIXED component": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "exact_tc_lattice errors": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "freecheck (Macaulay2: realisation over K, lattice reproduced, minimal syzygy degrees)": {
+  "0": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({75, -15, 1})",
+   "free": false,
+   "error": null
+  },
+  "5": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({4, -2, 1})",
+   "free": false,
+   "error": null
+  },
+  "10": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({25, -5, 1})",
+   "free": false,
+   "error": null
+  },
+  "15": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({4, 2, 1})",
+   "free": false,
+   "error": null
+  },
+  "1": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q",
+   "free": false,
+   "error": null
+  },
+  "6": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({49, 7, 1})",
+   "free": false,
+   "error": null
+  },
+  "11": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({36, 6, 1})",
+   "free": false,
+   "error": null
+  },
+  "7": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({1, -1, 1})",
+   "free": false,
+   "error": null
+  },
+  "2": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q",
+   "free": false,
+   "error": null
+  },
+  "8": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({16, 4, 1})",
+   "free": false,
+   "error": null
+  },
+  "12": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({25, -5, 1})",
+   "free": false,
+   "error": null
+  },
+  "9": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({36, 6, 1})",
+   "free": false,
+   "error": null
+  },
+  "3": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q",
+   "free": false,
+   "error": null
+  },
+  "13": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({9, 3, 1})",
+   "free": false,
+   "error": null
+  },
+  "4": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q",
+   "free": false,
+   "error": null
+  },
+  "14": {
+   "lattice_ok": true,
+   "degrees": [
+    7,
+    10,
+    10
+   ],
+   "field": "Q[T]/({25, 5, 1})",
+   "free": false,
+   "error": null
+  }
+ },
+ "freecheck: realisations reproduce their lattice": {
+  "got": 16,
+  "expected": 16,
+  "ok": true
+ },
+ "freecheck: non-free with minimal syzygy degrees (7, 10, 10)": {
+  "got": 16,
+  "expected": 16,
+  "ok": true
+ },
+ "freecheck: free realisations": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "Anghel-Stan re-certification": {
+  "0": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  },
+  "1": {
+   "status": "family-point",
+   "comps": [
+    [
+     1,
+     "nonfree"
+    ]
+   ]
+  },
+  "2": {
+   "status": "family-point",
+   "comps": [
+    [
+     1,
+     "nonfree"
+    ]
+   ]
+  },
+  "3": {
+   "status": "family-point",
+   "comps": [
+    [
+     1,
+     "nonfree"
+    ]
+   ]
+  },
+  "4": {
+   "status": "family-point",
+   "comps": [
+    [
+     1,
+     "nonfree"
+    ]
+   ]
+  },
+  "5": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  },
+  "6": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  },
+  "7": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  },
+  "8": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  },
+  "9": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  },
+  "10": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  },
+  "11": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  },
+  "12": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  },
+  "13": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  },
+  "14": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  },
+  "15": {
+   "status": "points",
+   "comps": [
+    [
+     2,
+     "nonfree"
+    ]
+   ]
+  }
+ },
+ "Anghel-Stan: lattices realisable with every component certified nonfree": {
+  "got": 16,
+  "expected": 16,
+  "ok": true
+ },
+ "_finished": "2026-11-03 05:49:54",
+ "_seconds": 11
+}

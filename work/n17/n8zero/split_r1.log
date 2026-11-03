@@ -1,0 +1,2 @@
+heavyaug d=17 mmax=6 lo=9 hi_eff=12 Xt=56 Wmin=11 budget=15: nodes=275 output=0
+./heavyaug_p 17 6 9 12 56 11 13 1 1000 $r 4 5  2.55s user 0.01s system 68% cpu 3.745 total

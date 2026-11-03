@@ -1,0 +1,42 @@
+LATTICE 7 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 17 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 27 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 37 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 4 rank 12/12 FREE
+DONE
+LATTICE 47 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 57 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 67 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+DONE
+LATTICE 77 TIMEOUT 300s
+LATTICE 87 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+DONE
+LATTICE 97 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 107 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+DONE
+LATTICE 117 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+DONE
+LATTICE 127 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 137 NONREAL
+DONE
+LATTICE 147 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 157 components 6 good 0 dims {} zerobad 0
+DONE
+LATTICE 167 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 177 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 187 components 3 good 0 dims {} zerobad 0
+DONE

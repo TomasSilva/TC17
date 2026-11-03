@@ -1,0 +1,79 @@
+{
+ "runclass log": [
+  "22:44:37 records 2950 REAL 1147 other (timeout/error) 0",
+  "22:44:37 n=13 rigid 1050, dim1 83, dim>=2 14",
+  "22:45:17 n=13 rigid done",
+  "22:45:17 n=13 rigid components: 1050 expected, 1050 finished",
+  "22:50:09 n=13 family components: 83 expected, 83 finished",
+  "22:50:09 n=13 families done; 1 family records sent to the lattice-level step (slow or failed)",
+  "22:50:15 n=13 -> 6608 children with 14 lines",
+  "22:50:19 n=13 children deferred by fast filters: 1696",
+  "22:50:51 n=14 children: REAL 1376, NONREAL 320, other (timeout/error) 0",
+  "22:50:51 n=14 rigid 1209, dim1 161, dim>=2 6",
+  "22:50:54 n=14 rigid done",
+  "22:50:54 n=14 rigid components: 1209 expected, 1209 finished",
+  "22:54:31 n=14 family components: 161 expected, 161 finished",
+  "22:54:31 n=14 families done; 1 family records sent to the lattice-level step (slow or failed)",
+  "22:54:35 n=14 -> 5314 children with 15 lines",
+  "22:54:37 n=14 children deferred by fast filters: 509",
+  "22:54:50 n=15 children: REAL 292, NONREAL 217, other (timeout/error) 0",
+  "22:54:50 n=15 rigid 265, dim1 25, dim>=2 2",
+  "22:54:50 n=15 rigid done",
+  "22:54:50 n=15 rigid components: 265 expected, 265 finished",
+  "22:54:57 n=15 family components: 25 expected, 25 finished",
+  "22:54:57 n=15 families done; 0 family records sent to the lattice-level step (slow or failed)",
+  "22:54:59 n=15 -> 153 children with 16 lines",
+  "22:54:59 n=15 children deferred by fast filters: 1",
+  "22:54:59 n=16 children: REAL 1, NONREAL 0, other (timeout/error) 0",
+  "22:54:59 n=16 rigid 1, dim1 0, dim>=2 0",
+  "22:54:59 n=16 rigid done",
+  "22:54:59 n=16 rigid components: 1 expected, 1 finished",
+  "22:54:59 n=16 family components: 0 expected, 0 finished",
+  "22:54:59 n=16 families done; 0 family records sent to the lattice-level step (slow or failed)",
+  "22:54:59 done; lattice files: 80"
+ ],
+ "worker failures": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "components missing a completion record": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "dim2gen failures": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "pipeline finished": {
+  "got": true,
+  "expected": true,
+  "ok": true
+ },
+ "rigid components finished": 2525,
+ "family component statuses": {
+  "OK": 267,
+  "SLOW": 2
+ },
+ "17-line lattice records accepted by the window test": 0,
+ "17-line lattices rejected by the window test": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "rejection reasons": {},
+ "Macaulay2 timeouts/errors among cores and children": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "children generated at the lattice level": {
+  "b49_n13_ch.jsonl": 6608,
+  "b49_n14_ch.jsonl": 5314,
+  "b49_n15_ch.jsonl": 153
+ },
+ "_finished": "2026-11-02 22:54:59",
+ "_seconds": 623
+}

@@ -1,0 +1,16 @@
+LATTICE 0 components 2 good 0 dims {} zerobad 0
+LATTICE 1 components 2 good 0 dims {} zerobad 0
+LATTICE 2 components 1 good 0 dims {} zerobad 0
+LATTICE 3 components 3 good 0 dims {} zerobad 0
+LATTICE 4 components 2 good 0 dims {} zerobad 0
+LATTICE 5 components 4 good 0 dims {} zerobad 0
+LATTICE 6 components 4 good 0 dims {} zerobad 0
+LATTICE 7 components 3 good 0 dims {} zerobad 0
+LATTICE 8 components 3 good 0 dims {} zerobad 0
+LATTICE 9 components 2 good 0 dims {} zerobad 0
+LATTICE 10 components 3 good 0 dims {} zerobad 0
+LATTICE 11 components 1 good 0 dims {} zerobad 0
+LATTICE 12 components 3 good 0 dims {} zerobad 0
+LATTICE 13 components 5 good 0 dims {} zerobad 0
+DONE
+ALLDONE

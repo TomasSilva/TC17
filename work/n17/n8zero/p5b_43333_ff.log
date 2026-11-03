@@ -1,0 +1,1 @@
+FINAL part 0 of 1: 7723 lattices {'NONREAL zerobad': 3454, 'NONREAL allbad1': 1530, 'NONREAL gcd1': 1474, 'NONREAL nf': 716, 'NONREAL res': 55, 'NONREAL res2': 41, 'DEFER commonfactor2': 291, 'NONREAL const': 98, 'DEFER nvar>=3': 63, 'DEFER real2 deg1': 1} (74s)

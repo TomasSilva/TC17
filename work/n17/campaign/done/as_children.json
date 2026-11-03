@@ -1,0 +1,153 @@
+{
+ "b49_n13 (14 lines): ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 5168,
+  "AS REAL / ours REAL": 1341,
+  "AS cost>1 / ours NONREAL": 64,
+  "AS cost>1 / ours REAL": 35
+ },
+ "b49_n13 (14 lines): disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b49_n13 (14 lines): lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b49_n13: filter-only children confirmed non-realisable by Macaulay2": {
+  "got": 51,
+  "expected": 51,
+  "ok": true
+ },
+ "b49_n14 (15 lines): ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 5015,
+  "AS REAL / ours REAL": 286,
+  "AS cost>1 / ours NONREAL": 7,
+  "AS cost>1 / ours REAL": 6
+ },
+ "b49_n14 (15 lines): disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b49_n14 (15 lines): lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b49_n14: filter-only children confirmed non-realisable by Macaulay2": {
+  "got": 4,
+  "expected": 4,
+  "ok": true
+ },
+ "b49_n15 (16 lines): ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 152,
+  "AS REAL / ours REAL": 1
+ },
+ "b49_n15 (16 lines): disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b49_n15 (16 lines): lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50_n13 (14 lines): ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 85990,
+  "AS REAL / ours REAL": 15851,
+  "AS cost>1 / ours NONREAL": 426,
+  "AS cost>1 / ours REAL": 438
+ },
+ "b50_n13 (14 lines): disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50_n13 (14 lines): lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50_n13: filter-only children confirmed non-realisable by Macaulay2": {
+  "got": 269,
+  "expected": 269,
+  "ok": true
+ },
+ "b50_n14 (15 lines): ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 63422,
+  "AS REAL / ours REAL": 735,
+  "AS cost>1 / ours NONREAL": 17,
+  "AS cost>1 / ours REAL": 6
+ },
+ "b50_n14 (15 lines): disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50_n14 (15 lines): lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50_n14: filter-only children confirmed non-realisable by Macaulay2": {
+  "got": 12,
+  "expected": 12,
+  "ok": true
+ },
+ "b50_n15 (16 lines): ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 55
+ },
+ "b50_n15 (16 lines): disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50_n15 (16 lines): lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51_n13 (14 lines): ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 329064,
+  "AS EMPTY / ours TIMEOUT": 1,
+  "AS REAL / ours REAL": 26978,
+  "AS REAL / ours TIMEOUT": 1,
+  "AS cost>1 / ours NONREAL": 525,
+  "AS cost>1 / ours REAL": 517
+ },
+ "b51_n13 (14 lines): disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51_n13 (14 lines): lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51_n13: filter-only children confirmed non-realisable by Macaulay2": {
+  "got": 356,
+  "expected": 356,
+  "ok": true
+ },
+ "b51_n14 (15 lines): ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 4066,
+  "AS REAL / ours REAL": 27
+ },
+ "b51_n14 (15 lines): disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51_n14 (15 lines): lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "children screened": 540194,
+ "_finished": "2026-11-03 05:33:14",
+ "_seconds": 85
+}

@@ -1,0 +1,8 @@
+{"idx": "b49:1077", "comp": 0, "dim": 1, "gens": "{u_0+u_1, 2*u_1*u_2-2*u_1-u_2}", "generic_L": [], "status": "OK", "nodes": 5, "special_factors": 22, "special_points": 39, "special_noshape": 0, "special_L": [], "time": 7.8}
+{"idx": "b49:2785", "comp": 0, "dim": 1, "gens": "{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}", "generic_L": [], "status": "OK", "nodes": 13, "special_factors": 26, "special_points": 21, "special_noshape": 0, "special_L": [], "time": 13.3}
+{"idx": "b49:19585", "comp": 0, "dim": 1, "gens": "{u_0*u_1^2-1}", "generic_L": [], "status": "OK", "nodes": 11, "special_factors": 23, "special_points": 39, "special_noshape": 0, "special_L": [], "time": 12.1}
+{"idx": "b49:145", "comp": 0, "dim": 1, "gens": "{u_0-2*u_1}", "generic_L": [], "status": "OK", "nodes": 9, "special_factors": 25, "special_points": 20, "special_noshape": 0, "special_L": [], "time": 8.1}
+{"idx": "b49:1716", "comp": 0, "dim": 1, "gens": "{2*u_1-u_2, 4*u_0-u_2}", "generic_L": [], "status": "OK", "nodes": 1, "special_factors": 25, "special_points": 19, "special_noshape": 0, "special_L": [], "time": 2.4}
+{"idx": "b49:37", "comp": 0, "dim": 1, "gens": "{2*u_0*u_1-u_1^2-u_0}", "generic_L": [], "status": "OK", "nodes": 9, "special_factors": 26, "special_points": 41, "special_noshape": 0, "special_L": [], "time": 10.0}
+{"idx": "b49:1250", "comp": 0, "dim": 1, "gens": "{u_2-2, 2*u_0*u_1-u_0-u_1}", "generic_L": [], "status": "OK", "nodes": 1, "special_factors": 15, "special_points": 26, "special_noshape": 0, "special_L": [], "time": 3.2}
+{"idx": "b49:351", "comp": 0, "dim": 1, "gens": "{u_0^2+u_0+1}", "generic_L": [], "status": "OK", "nodes": 18, "special_factors": 17, "special_points": 30, "special_noshape": 0, "special_L": [], "time": 16.0}

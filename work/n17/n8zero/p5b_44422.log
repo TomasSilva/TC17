@@ -1,0 +1,4 @@
+44422 W0 9 heavy sets 863
+44422 {'quota systems': 26, 'solutions': 9000} raw lattices 9000 10s
+44422 distinct lattices 232
+/Users/agent/Projects/TeraoHunter/.venv/bin/python pencil5b.py $v >   7.94s user 0.32s system 64% cpu 12.801 total

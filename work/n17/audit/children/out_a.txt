@@ -1,0 +1,1 @@
+b51_n13 children 359657 {('EMPTY', 'NONREAL'): 331597, ('EMPTY', 'TIMEOUT'): 1, ('REAL', 'REAL'): 27018, ('REAL', 'TIMEOUT'): 1, ('cost>1', 'NONREAL'): 524, ('cost>1', 'REAL'): 516} discrepancies 0 [] 302s

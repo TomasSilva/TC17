@@ -1,0 +1,2 @@
+{"idx": 12, "status": "REAL", "field": "Q[T]/({25, -5, 1})", "components": 1, "degree": 2, "lattice_ok": true, "degrees": [7, 10, 10], "free": false, "time": 1.3}
+{"idx": 9, "status": "REAL", "field": "Q[T]/({36, 6, 1})", "components": 1, "degree": 2, "lattice_ok": true, "degrees": [7, 10, 10], "free": false, "time": 1.0}

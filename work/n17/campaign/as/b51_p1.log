@@ -1,0 +1,3 @@
+{'cost>1': 611, 'family': 1825, 'empty-family-degenerate': 1561, 'empty': 92189, 'points': 3582, 'empty-degenerate': 232} 62s
+{'cost>1': 632, 'family': 1888, 'empty-family-degenerate': 1655, 'empty': 191630, 'points': 3746, 'empty-degenerate': 449} 115s
+FINAL {'cost>1': 634, 'family': 1896, 'empty-family-degenerate': 1660, 'empty': 283086, 'points': 3756, 'empty-degenerate': 602} 166s

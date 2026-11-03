@@ -1,0 +1,7 @@
+44332 W0 8 heavy sets 49565
+44332 {'quota systems': 5581, 'solutions': 4877} raw lattices 4877 46s
+44332 distinct lattices 3124
+
+real	1m40.396s
+user	1m17.583s
+sys	0m10.356s

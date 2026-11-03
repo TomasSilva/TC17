@@ -1,0 +1,84 @@
+{
+ "b48 comparison": "a48: heavyaug+lsgen3 21164 distinct, ours 21164 distinct, common 21164, only heavyaug 0, only ours 0 (of which with an unjoined heavy pair t > 8: 0)",
+ "b48: lattices found only by heavyaug+lsgen3": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48: lattices found only by the second enumerator and not explained by the cut": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48: lattices removed by the unjoined-pair cut": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48w comparison": "a48w: heavyaug+lsgen3 26234 distinct, ours 26234 distinct, common 26234, only heavyaug 0, only ours 0 (of which with an unjoined heavy pair t > 8: 0)",
+ "b48w: lattices found only by heavyaug+lsgen3": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48w: lattices found only by the second enumerator and not explained by the cut": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48w: lattices removed by the unjoined-pair cut": {
+  "got": 0,
+  "expected": null,
+  "ok": true
+ },
+ "b49 comparison": "a49: heavyaug+lsgen3 154172 distinct, ours 154172 distinct, common 154172, only heavyaug 0, only ours 0 (of which with an unjoined heavy pair t > 8: 0)",
+ "b49: lattices found only by heavyaug+lsgen3": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b49: lattices found only by the second enumerator and not explained by the cut": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b49: lattices removed by the unjoined-pair cut": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50 comparison": "a50: heavyaug+lsgen3 738023 distinct, ours 738023 distinct, common 738023, only heavyaug 0, only ours 0 (of which with an unjoined heavy pair t > 8: 0)",
+ "b50: lattices found only by heavyaug+lsgen3": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50: lattices found only by the second enumerator and not explained by the cut": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50: lattices removed by the unjoined-pair cut": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51 comparison": "a51: heavyaug+lsgen3 2916332 distinct, ours 2916339 distinct, common 2916332, only heavyaug 0, only ours 7 (of which with an unjoined heavy pair t > 8: 7)",
+ "b51: lattices found only by heavyaug+lsgen3": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51: lattices found only by the second enumerator and not explained by the cut": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51: lattices removed by the unjoined-pair cut": {
+  "got": 7,
+  "expected": 7,
+  "ok": true
+ },
+ "_finished": "2026-11-02 20:39:56",
+ "_seconds": 319
+}

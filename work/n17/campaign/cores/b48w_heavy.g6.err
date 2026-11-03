@@ -1,0 +1,10 @@
+heavyaug d=13 mmax=6 lo=4 hi_eff=9 Xt=30 Wmin=0 budget=38: nodes=297 output=260
+W=5: 11
+W=6: 48
+W=7: 61
+W=8: 62
+W=9: 40
+W=10: 25
+W=11: 7
+W=12: 5
+W=13: 1

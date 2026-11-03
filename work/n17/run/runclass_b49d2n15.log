@@ -1,0 +1,10 @@
+11:20:18 records 427 REAL 291 other (timeout/error) 0
+11:20:18 n=15 rigid 264, dim1 25, dim>=2 2
+11:20:21 n=15 rigid done
+11:21:07 n=15 families done
+11:21:07 n=15 -> 418 children with 16 lines
+11:21:08 n=15 children deferred by fast filters: 6
+11:21:10 n=16 rigid 6, dim1 0, dim>=2 0
+11:21:10 n=16 rigid done
+11:21:10 n=16 families done
+11:21:10 done; lattice files: 8

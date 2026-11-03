@@ -219,3 +219,7 @@ __marimo__/
 
 # TC17
 .DS_Store
+
+# Third-party ancillary code of Anghel-Stan (arXiv:2610.25868): downloaded, not redistributed here
+# (see third_party/anghel_stan_anc/README.md)
+/third_party/anghel_stan_anc/anc/

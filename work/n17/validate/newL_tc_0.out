@@ -1,0 +1,6 @@
+LATTICE 0 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 15/16 NONFREE
+LATTICE 1 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 15/16 NONFREE
+DONE
+ALLDONE

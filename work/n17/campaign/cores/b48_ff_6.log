@@ -1,0 +1,1 @@
+FINAL part 6 of 10: 2116 lattices {'NONREAL allbad1': 538, 'DEFER real1': 6, 'DEFER real2 deg2': 4, 'DEFER curve': 1, 'NONREAL zerobad': 598, 'NONREAL nf': 240, 'DEFER nvar>=3': 7, 'NONREAL const': 143, 'NONREAL gcd1': 516, 'NONREAL res': 35, 'NONREAL res2': 23, 'DEFER real2 deg1': 3, 'DEFER commonfactor2': 2} (6s)

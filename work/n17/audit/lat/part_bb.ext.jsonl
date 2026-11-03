@@ -1,0 +1,6 @@
+{"idx": "b50:1553/655", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 2, "phipruned": 1}, "found": [], "src": "core", "cap": 3, "wall": 0.01}
+{"idx": "b50:1553/765", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 2, "phipruned": 1}, "found": [], "src": "core", "cap": 3, "wall": 0.01}
+{"idx": "b50:1553/800", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 1}, "found": [], "src": "core", "cap": 3, "wall": 0.01}
+{"idx": "b51:5063/1625", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 4, "phipruned": 3}, "found": [], "src": "core", "cap": 2, "wall": 0.01}
+{"idx": "b51:27147/2570", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 1}, "found": [], "src": "core", "cap": 2, "wall": 0.02}
+{"ALLDONE": "part_bb"}

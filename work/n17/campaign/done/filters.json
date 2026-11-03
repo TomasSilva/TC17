@@ -1,0 +1,74 @@
+{
+ "b48 verdicts": {
+  "NONREAL": 20969,
+  "DEFER": 195
+ },
+ "b48 verdict lines = class size": {
+  "got": 21164,
+  "expected": 21164,
+  "ok": true
+ },
+ "b48 deferred to Macaulay2": {
+  "got": 195,
+  "expected": 195,
+  "ok": true
+ },
+ "b48w verdicts": {
+  "NONREAL": 25985,
+  "DEFER": 249
+ },
+ "b48w verdict lines = class size": {
+  "got": 26234,
+  "expected": 26234,
+  "ok": true
+ },
+ "b48w deferred to Macaulay2": {
+  "got": 249,
+  "expected": null,
+  "ok": true
+ },
+ "b49 verdicts": {
+  "DEFER": 2950,
+  "NONREAL": 151222
+ },
+ "b49 verdict lines = class size": {
+  "got": 154172,
+  "expected": 154172,
+  "ok": true
+ },
+ "b49 deferred to Macaulay2": {
+  "got": 2950,
+  "expected": 2950,
+  "ok": true
+ },
+ "b50 verdicts": {
+  "DEFER": 26093,
+  "NONREAL": 711930
+ },
+ "b50 verdict lines = class size": {
+  "got": 738023,
+  "expected": 738023,
+  "ok": true
+ },
+ "b50 deferred to Macaulay2": {
+  "got": 26093,
+  "expected": 26093,
+  "ok": true
+ },
+ "b51 verdicts": {
+  "DEFER": 157533,
+  "NONREAL": 2758799
+ },
+ "b51 verdict lines = class size": {
+  "got": 2916332,
+  "expected": 2916332,
+  "ok": true
+ },
+ "b51 deferred to Macaulay2": {
+  "got": 157533,
+  "expected": 157533,
+  "ok": true
+ },
+ "_finished": "2026-11-02 21:02:15",
+ "_seconds": 1339
+}

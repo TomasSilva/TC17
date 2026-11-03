@@ -1,0 +1,8 @@
+states 20000, queue 13661, output 6339 (31s)
+states 30000, queue 20634, output 9366 (46s)
+states 45000, queue 28757, output 16243 (78s)
+states 55000, queue 30281, output 24719 (114s)
+states 80000, queue 30006, output 49994 (223s)
+states 90000, queue 25360, output 64640 (285s)
+states 95000, queue 18295, output 76705 (320s)
+FINAL n15_7_7: 99993 big-block configurations, 99993 states (363s)

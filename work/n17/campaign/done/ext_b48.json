@@ -1,0 +1,50 @@
+{
+ "runclass log": [
+  "22:41:55 records 195 REAL 85 other (timeout/error) 0",
+  "22:41:55 n=13 rigid 80, dim1 5, dim>=2 0",
+  "22:41:58 n=13 rigid done",
+  "22:41:58 n=13 rigid components: 80 expected, 80 finished",
+  "22:43:01 n=13 family components: 5 expected, 5 finished",
+  "22:43:01 n=13 families done; 0 family records sent to the lattice-level step (slow or failed)",
+  "22:43:01 done; lattice files: 20"
+ ],
+ "worker failures": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "components missing a completion record": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "dim2gen failures": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "pipeline finished": {
+  "got": true,
+  "expected": true,
+  "ok": true
+ },
+ "rigid components finished": 80,
+ "family component statuses": {
+  "OK": 5
+ },
+ "17-line lattice records accepted by the window test": 106,
+ "17-line lattices rejected by the window test": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "rejection reasons": {},
+ "Macaulay2 timeouts/errors among cores and children": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "children generated at the lattice level": {},
+ "_finished": "2026-11-02 22:43:01",
+ "_seconds": 66
+}

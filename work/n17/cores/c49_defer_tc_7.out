@@ -1,0 +1,473 @@
+LATTICE 7 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 16 components 1 good 1 dims {2} zerobad 0
+  COMP dim 2 generic FREE; non-free locus inside degeneracy locus: true
+LATTICE 25 components 8 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 34 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 43 components 2 good 1 dims {1} zerobad 0
+  COMP dim 1 generic FREE; non-free locus inside degeneracy locus: true
+LATTICE 52 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 61 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 70 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 79 components 4 good 0 dims {} zerobad 0
+LATTICE 88 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 97 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 106 components 5 good 0 dims {} zerobad 0
+LATTICE 115 components 4 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 124 components 2 good 0 dims {} zerobad 0
+LATTICE 133 components 4 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 4 rank 12/12 FREE
+LATTICE 142 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 151 components 3 good 0 dims {} zerobad 0
+LATTICE 160 components 1 good 0 dims {} zerobad 0
+LATTICE 169 components 2 good 0 dims {} zerobad 0
+LATTICE 178 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 187 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 196 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 205 components 1 good 0 dims {} zerobad 0
+LATTICE 214 components 6 good 0 dims {} zerobad 0
+LATTICE 223 components 1 good 0 dims {} zerobad 0
+LATTICE 232 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 241 components 4 good 0 dims {} zerobad 0
+LATTICE 250 components 4 good 0 dims {} zerobad 0
+LATTICE 259 components 2 good 0 dims {} zerobad 0
+LATTICE 268 components 1 good 0 dims {} zerobad 0
+LATTICE 277 components 2 good 0 dims {} zerobad 0
+LATTICE 286 components 5 good 0 dims {} zerobad 0
+LATTICE 295 components 2 good 0 dims {} zerobad 0
+LATTICE 304 components 4 good 1 dims {1} zerobad 0
+  COMP dim 1 generic rank 11/12 NONFREE (all)
+LATTICE 313 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 322 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 331 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 340 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 349 components 2 good 0 dims {} zerobad 0
+LATTICE 358 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+DONE
+LATTICE 367 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 376 components 2 good 0 dims {} zerobad 0
+LATTICE 385 components 6 good 0 dims {} zerobad 0
+LATTICE 394 components 1 good 0 dims {} zerobad 0
+LATTICE 403 components 2 good 0 dims {} zerobad 0
+LATTICE 412 components 4 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 421 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 430 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 439 components 2 good 0 dims {} zerobad 0
+LATTICE 448 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 457 components 2 good 0 dims {} zerobad 0
+LATTICE 466 components 2 good 0 dims {} zerobad 0
+LATTICE 475 components 1 good 0 dims {} zerobad 0
+LATTICE 484 components 3 good 0 dims {} zerobad 0
+LATTICE 493 components 3 good 0 dims {} zerobad 0
+LATTICE 502 components 1 good 0 dims {} zerobad 0
+LATTICE 511 components 2 good 0 dims {} zerobad 0
+LATTICE 520 components 2 good 0 dims {} zerobad 0
+LATTICE 529 components 2 good 0 dims {} zerobad 0
+LATTICE 538 components 4 good 0 dims {} zerobad 0
+DONE
+LATTICE 547 components 2 good 0 dims {} zerobad 0
+LATTICE 556 components 2 good 0 dims {} zerobad 0
+LATTICE 565 components 3 good 0 dims {} zerobad 0
+LATTICE 574 components 3 good 0 dims {} zerobad 0
+LATTICE 583 components 3 good 0 dims {} zerobad 0
+LATTICE 592 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 601 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 610 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 619 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 628 components 4 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 637 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 646 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 655 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 664 components 2 good 0 dims {} zerobad 0
+LATTICE 673 components 3 good 0 dims {} zerobad 0
+LATTICE 682 components 6 good 0 dims {} zerobad 0
+LATTICE 691 components 2 good 0 dims {} zerobad 0
+LATTICE 700 components 1 good 0 dims {} zerobad 0
+LATTICE 709 components 3 good 0 dims {} zerobad 0
+LATTICE 718 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 727 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 736 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 745 components 2 good 0 dims {} zerobad 0
+LATTICE 754 components 2 good 0 dims {} zerobad 0
+LATTICE 763 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 772 components 2 good 0 dims {} zerobad 0
+LATTICE 781 components 2 good 0 dims {} zerobad 0
+LATTICE 790 components 1 good 0 dims {} zerobad 0
+LATTICE 799 components 1 good 1 dims {1} zerobad 0
+  COMP dim 1 generic FREE; non-free locus inside degeneracy locus: true
+LATTICE 808 components 2 good 0 dims {} zerobad 0
+LATTICE 817 components 4 good 0 dims {} zerobad 0
+LATTICE 826 components 4 good 0 dims {} zerobad 0
+LATTICE 835 components 2 good 0 dims {} zerobad 0
+LATTICE 844 components 2 good 0 dims {} zerobad 0
+LATTICE 853 components 2 good 0 dims {} zerobad 0
+LATTICE 862 components 2 good 0 dims {} zerobad 0
+LATTICE 871 components 1 good 1 dims {1} zerobad 0
+  COMP dim 1 generic FREE; non-free locus inside degeneracy locus: false  !!! MIXED
+LATTICE 880 components 3 good 1 dims {1} zerobad 0
+  COMP dim 1 generic FREE; non-free locus inside degeneracy locus: false  !!! MIXED
+LATTICE 889 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 898 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+DONE
+LATTICE 907 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 916 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 3 rank 12/12 FREE
+LATTICE 925 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 934 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 3 rank 12/12 FREE
+LATTICE 943 components 5 good 0 dims {} zerobad 0
+LATTICE 952 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 961 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 970 components 2 good 0 dims {} zerobad 0
+LATTICE 979 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 11/12 NONFREE
+LATTICE 988 components 4 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 997 components 1 good 0 dims {} zerobad 0
+LATTICE 1006 components 1 good 0 dims {} zerobad 0
+LATTICE 1015 components 3 good 0 dims {} zerobad 0
+LATTICE 1024 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 1033 components 4 good 0 dims {} zerobad 0
+LATTICE 1042 components 1 good 0 dims {} zerobad 0
+LATTICE 1051 components 1 good 0 dims {} zerobad 0
+LATTICE 1060 components 2 good 0 dims {} zerobad 0
+LATTICE 1069 components 1 good 0 dims {} zerobad 0
+LATTICE 1078 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 1087 components 3 good 0 dims {} zerobad 0
+LATTICE 1096 components 2 good 0 dims {} zerobad 0
+LATTICE 1105 components 1 good 0 dims {} zerobad 0
+LATTICE 1114 components 1 good 0 dims {} zerobad 0
+LATTICE 1123 components 4 good 0 dims {} zerobad 0
+LATTICE 1132 components 2 good 0 dims {} zerobad 0
+LATTICE 1141 components 3 good 0 dims {} zerobad 0
+LATTICE 1150 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 11/12 NONFREE
+LATTICE 1159 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 3 rank 12/12 FREE
+LATTICE 1168 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1177 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1186 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 1195 components 3 good 0 dims {} zerobad 0
+LATTICE 1204 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 1213 components 2 good 0 dims {} zerobad 0
+LATTICE 1222 components 2 good 1 dims {1} zerobad 0
+  COMP dim 1 generic FREE; non-free locus inside degeneracy locus: true
+LATTICE 1231 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 1240 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 1249 components 1 good 0 dims {} zerobad 0
+LATTICE 1258 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 1267 components 7 good 0 dims {} zerobad 0
+LATTICE 1276 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1285 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 1294 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1303 components 2 good 0 dims {} zerobad 0
+LATTICE 1312 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 1321 components 1 good 0 dims {} zerobad 0
+LATTICE 1330 components 2 good 0 dims {} zerobad 0
+LATTICE 1339 components 1 good 0 dims {} zerobad 0
+LATTICE 1348 components 2 good 0 dims {} zerobad 0
+LATTICE 1357 components 3 good 0 dims {} zerobad 0
+LATTICE 1366 components 3 good 0 dims {} zerobad 0
+LATTICE 1375 components 4 good 0 dims {} zerobad 0
+LATTICE 1384 components 1 good 0 dims {} zerobad 0
+LATTICE 1393 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1402 components 3 good 0 dims {} zerobad 0
+LATTICE 1411 components 2 good 0 dims {} zerobad 0
+LATTICE 1420 components 4 good 0 dims {} zerobad 0
+LATTICE 1429 components 2 good 0 dims {} zerobad 0
+LATTICE 1438 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 1447 components 3 good 0 dims {} zerobad 0
+LATTICE 1456 components 1 good 1 dims {2} zerobad 0
+  COMP dim 2 generic FREE; non-free locus inside degeneracy locus: true
+LATTICE 1465 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1474 components 1 good 0 dims {} zerobad 0
+LATTICE 1483 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1492 components 3 good 0 dims {} zerobad 0
+LATTICE 1501 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 1510 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 1519 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1528 components 2 good 1 dims {1} zerobad 0
+  COMP dim 1 generic FREE; non-free locus inside degeneracy locus: true
+LATTICE 1537 components 3 good 0 dims {} zerobad 0
+LATTICE 1546 components 1 good 0 dims {} zerobad 0
+LATTICE 1555 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 11/12 NONFREE
+LATTICE 1564 components 1 good 0 dims {} zerobad 0
+LATTICE 1573 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 11/12 NONFREE
+LATTICE 1582 components 4 good 0 dims {} zerobad 0
+LATTICE 1591 components 2 good 0 dims {} zerobad 0
+LATTICE 1600 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 1609 components 5 good 0 dims {} zerobad 0
+LATTICE 1618 components 1 good 1 dims {1} zerobad 0
+  COMP dim 1 generic FREE; non-free locus inside degeneracy locus: true
+DONE
+LATTICE 1627 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 1636 components 1 good 0 dims {} zerobad 0
+LATTICE 1645 components 1 good 0 dims {} zerobad 0
+LATTICE 1654 components 2 good 0 dims {} zerobad 0
+LATTICE 1663 components 1 good 0 dims {} zerobad 0
+LATTICE 1672 components 2 good 0 dims {} zerobad 0
+LATTICE 1681 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1690 components 1 good 0 dims {} zerobad 0
+LATTICE 1699 components 2 good 0 dims {} zerobad 0
+LATTICE 1708 components 2 good 0 dims {} zerobad 0
+LATTICE 1717 components 1 good 0 dims {} zerobad 0
+LATTICE 1726 components 4 good 0 dims {} zerobad 0
+LATTICE 1735 components 1 good 0 dims {} zerobad 0
+LATTICE 1744 components 2 good 0 dims {} zerobad 0
+LATTICE 1753 components 1 good 0 dims {} zerobad 0
+LATTICE 1762 components 1 good 0 dims {} zerobad 0
+LATTICE 1771 components 8 good 0 dims {} zerobad 0
+LATTICE 1780 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 1789 components 4 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1798 components 4 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+DONE
+LATTICE 1807 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1816 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 3 rank 12/12 FREE
+LATTICE 1825 components 4 good 0 dims {} zerobad 0
+LATTICE 1834 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1843 components 1 good 0 dims {} zerobad 0
+LATTICE 1852 components 1 good 0 dims {} zerobad 0
+LATTICE 1861 components 1 good 0 dims {} zerobad 0
+LATTICE 1870 components 1 good 0 dims {} zerobad 0
+LATTICE 1879 components 1 good 0 dims {} zerobad 0
+LATTICE 1888 components 1 good 0 dims {} zerobad 0
+LATTICE 1897 components 4 good 0 dims {} zerobad 0
+LATTICE 1906 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 1915 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 11/12 NONFREE
+LATTICE 1924 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 1933 components 2 good 0 dims {} zerobad 0
+LATTICE 1942 components 1 good 0 dims {} zerobad 0
+LATTICE 1951 components 2 good 0 dims {} zerobad 0
+LATTICE 1960 components 2 good 0 dims {} zerobad 0
+LATTICE 1969 components 2 good 0 dims {} zerobad 0
+LATTICE 1978 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 1987 components 3 good 0 dims {} zerobad 0
+LATTICE 1996 components 3 good 0 dims {} zerobad 0
+LATTICE 2005 components 3 good 0 dims {} zerobad 0
+LATTICE 2014 components 3 good 0 dims {} zerobad 0
+LATTICE 2023 components 1 good 0 dims {} zerobad 0
+LATTICE 2032 components 2 good 0 dims {} zerobad 0
+LATTICE 2041 components 1 good 0 dims {} zerobad 0
+LATTICE 2050 components 5 good 0 dims {} zerobad 0
+LATTICE 2059 components 2 good 0 dims {} zerobad 0
+LATTICE 2068 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2077 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2086 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2095 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 2104 components 2 good 0 dims {} zerobad 0
+LATTICE 2113 components 4 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 3 rank 12/12 FREE
+LATTICE 2122 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2131 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2140 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2149 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2158 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 2167 components 2 good 0 dims {} zerobad 0
+LATTICE 2176 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2185 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2194 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 11/12 NONFREE
+LATTICE 2203 components 4 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2212 components 2 good 0 dims {} zerobad 0
+LATTICE 2221 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2230 components 1 good 0 dims {} zerobad 0
+LATTICE 2239 components 3 good 0 dims {} zerobad 0
+LATTICE 2248 components 2 good 0 dims {} zerobad 0
+LATTICE 2257 components 2 good 0 dims {} zerobad 0
+LATTICE 2266 components 3 good 0 dims {} zerobad 0
+LATTICE 2275 components 2 good 0 dims {} zerobad 0
+LATTICE 2284 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2293 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 2302 components 3 good 0 dims {} zerobad 0
+LATTICE 2311 components 1 good 0 dims {} zerobad 0
+LATTICE 2320 components 1 good 0 dims {} zerobad 0
+LATTICE 2329 components 1 good 0 dims {} zerobad 0
+LATTICE 2338 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 2347 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 11/12 NONFREE
+LATTICE 2356 components 1 good 0 dims {} zerobad 0
+LATTICE 2365 components 3 good 0 dims {} zerobad 0
+LATTICE 2374 components 3 good 0 dims {} zerobad 0
+LATTICE 2383 components 3 good 0 dims {} zerobad 0
+LATTICE 2392 components 3 good 0 dims {} zerobad 0
+LATTICE 2401 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2410 components 3 good 0 dims {} zerobad 0
+LATTICE 2419 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2428 components 3 good 1 dims {1} zerobad 0
+  COMP dim 1 generic FREE; non-free locus inside degeneracy locus: true
+LATTICE 2437 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2446 components 2 good 0 dims {} zerobad 0
+LATTICE 2455 NONREAL
+LATTICE 2464 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2473 components 2 good 0 dims {} zerobad 0
+LATTICE 2482 components 3 good 0 dims {} zerobad 0
+LATTICE 2491 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2500 components 1 good 0 dims {} zerobad 0
+LATTICE 2509 components 1 good 0 dims {} zerobad 0
+LATTICE 2518 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 2527 components 4 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 2536 components 3 good 0 dims {} zerobad 0
+LATTICE 2545 components 2 good 0 dims {} zerobad 0
+LATTICE 2554 components 5 good 0 dims {} zerobad 0
+LATTICE 2563 components 3 good 0 dims {} zerobad 0
+LATTICE 2572 components 5 good 0 dims {} zerobad 0
+LATTICE 2581 components 2 good 0 dims {} zerobad 0
+LATTICE 2590 components 2 good 0 dims {} zerobad 0
+LATTICE 2599 components 1 good 0 dims {} zerobad 0
+LATTICE 2608 components 1 good 0 dims {} zerobad 0
+LATTICE 2617 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2626 components 2 good 0 dims {} zerobad 0
+LATTICE 2635 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 11/12 NONFREE
+LATTICE 2644 components 5 good 0 dims {} zerobad 0
+LATTICE 2653 NONREAL
+LATTICE 2662 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2671 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2680 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2689 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2698 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+DONE
+LATTICE 2707 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2716 components 2 good 1 dims {2} zerobad 0
+  COMP dim 2 generic FREE; non-free locus inside degeneracy locus: true
+LATTICE 2725 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2734 components 4 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 3 rank 12/12 FREE
+LATTICE 2743 components 1 good 0 dims {} zerobad 0
+LATTICE 2752 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 2761 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2770 components 3 good 0 dims {} zerobad 0
+LATTICE 2779 components 5 good 0 dims {} zerobad 0
+LATTICE 2788 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2797 components 1 good 0 dims {} zerobad 0
+LATTICE 2806 components 5 good 0 dims {} zerobad 0
+LATTICE 2815 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 2824 components 1 good 0 dims {} zerobad 0
+LATTICE 2833 components 3 good 0 dims {} zerobad 0
+LATTICE 2842 components 1 good 0 dims {} zerobad 0
+LATTICE 2851 components 2 good 0 dims {} zerobad 0
+LATTICE 2860 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 11/12 NONFREE
+LATTICE 2869 components 2 good 0 dims {} zerobad 0
+LATTICE 2878 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 2887 components 3 good 0 dims {} zerobad 0
+LATTICE 2896 components 2 good 0 dims {} zerobad 0
+LATTICE 2905 components 1 good 0 dims {} zerobad 0
+LATTICE 2914 components 2 good 0 dims {} zerobad 0
+LATTICE 2923 components 2 good 0 dims {} zerobad 0
+LATTICE 2932 components 2 good 0 dims {} zerobad 0
+LATTICE 2941 components 2 good 0 dims {} zerobad 0
+DONE
+ALLDONE

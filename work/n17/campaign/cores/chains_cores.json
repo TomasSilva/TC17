@@ -1,0 +1,1 @@
+{"cores13": 28, "cores13_in_b48": 28, "chains_per_lattice": [30, 12, 11, 12, 13, 1, 1, 1, 1, 1, 5, 8, 7, 9, 6, 1], "chain_cores": 33, "chain_cores_in_b48": 33, "b48_subset_of_b48w": true, "b48w_minus_b48": 5070, "b48": 21164, "b48w": 26234}

@@ -1,0 +1,5 @@
+L13_n13 children 2652 {('EMPTY', 'NONREAL'): 2551, ('REAL', 'REAL'): 88, ('cost>1', 'NONREAL'): 4, ('cost>1', 'REAL'): 9} discrepancies 0 [] 1s
+L13_n14 children 251 {('EMPTY', 'NONREAL'): 251} discrepancies 0 [] 0s
+L14_n14 children 2046 {('EMPTY', 'NONREAL'): 2037, ('REAL', 'REAL'): 9} discrepancies 0 [] 1s
+realisable children: 106
+POSTDONE

@@ -1,0 +1,69 @@
+{
+ "b48 Anghel-Stan statuses": {
+  "empty-family-degenerate": 12,
+  "empty": 20994,
+  "family": 41,
+  "points": 43,
+  "empty-degenerate": 72,
+  "cost>1": 2
+ },
+ "b48 Anghel-Stan verdict lines = class size": {
+  "got": 21164,
+  "expected": 21164,
+  "ok": true
+ },
+ "b48w Anghel-Stan statuses": {
+  "empty-family-degenerate": 14,
+  "empty": 26027,
+  "points": 43,
+  "cost>1": 27,
+  "empty-degenerate": 82,
+  "family": 41
+ },
+ "b48w Anghel-Stan verdict lines = class size": {
+  "got": 26234,
+  "expected": 26234,
+  "ok": true
+ },
+ "b49 Anghel-Stan statuses": {
+  "family": 542,
+  "empty": 152118,
+  "cost>1": 181,
+  "points": 571,
+  "empty-family-degenerate": 305,
+  "empty-degenerate": 455
+ },
+ "b49 Anghel-Stan verdict lines = class size": {
+  "got": 154172,
+  "expected": 154172,
+  "ok": true
+ },
+ "b50 Anghel-Stan statuses": {
+  "cost>1": 1006,
+  "family": 3751,
+  "empty-family-degenerate": 3114,
+  "empty": 723251,
+  "points": 5155,
+  "empty-degenerate": 1746
+ },
+ "b50 Anghel-Stan verdict lines = class size": {
+  "got": 738023,
+  "expected": 738023,
+  "ok": true
+ },
+ "b51 Anghel-Stan statuses": {
+  "cost>1": 6528,
+  "family": 18702,
+  "empty-family-degenerate": 16329,
+  "empty": 2830716,
+  "points": 37824,
+  "empty-degenerate": 6233
+ },
+ "b51 Anghel-Stan verdict lines = class size": {
+  "got": 2916332,
+  "expected": 2916332,
+  "ok": true
+ },
+ "_finished": "2026-11-02 21:05:56",
+ "_seconds": 221
+}

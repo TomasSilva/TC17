@@ -1,0 +1,43 @@
+START Tue Oct 20 19:14:09 -03 2026
+== class n15_7_7: corrected passes 1+2 on 10 workers, Tue Oct 20 19:14:09 -03 2026
+== class n15_7_7: filters done, Tue Oct 20 20:03:05 -03 2026
+FINAL part 0 of 10: 609115 lattices {'NONREAL zerobad': 161515, 'NONREAL nf': 118338, 'NONREAL res': 21778, 'NONREAL res2': 6492, 'NONREAL allbad1': 132205, 'NONREAL gcd1': 157814, 'NONREAL const': 9601, 'DEFER nvar>=3': 1254, 'DEFER commonfactor2': 115, 'DEFER real2 deg1': 3} (2900s)
+FINAL part 1 of 10: 609115 lattices {'NONREAL gcd1': 157705, 'NONREAL nf': 117974, 'NONREAL zerobad': 161386, 'NONREAL res': 22007, 'NONREAL allbad1': 132538, 'NONREAL res2': 6621, 'DEFER nvar>=3': 1232, 'NONREAL const': 9511, 'DEFER commonfactor2': 137, 'DEFER real2 deg1': 4} (2828s)
+FINAL part 2 of 10: 609115 lattices {'DEFER real1': 1, 'NONREAL gcd1': 158040, 'NONREAL nf': 117688, 'NONREAL zerobad': 161256, 'NONREAL allbad1': 132498, 'NONREAL const': 9608, 'NONREAL res': 21974, 'NONREAL res2': 6664, 'DEFER nvar>=3': 1262, 'DEFER commonfactor2': 119, 'DEFER real2 deg1': 5} (2935s)
+FINAL part 3 of 10: 609115 lattices {'NONREAL nf': 117971, 'NONREAL gcd1': 157824, 'NONREAL res': 21958, 'NONREAL allbad1': 132497, 'NONREAL zerobad': 161706, 'NONREAL res2': 6436, 'DEFER nvar>=3': 1262, 'NONREAL const': 9326, 'DEFER commonfactor2': 126, 'DEFER real2 deg1': 9} (2917s)
+FINAL part 4 of 10: 609115 lattices {'NONREAL gcd1': 158513, 'NONREAL nf': 118013, 'NONREAL zerobad': 160726, 'NONREAL allbad1': 132046, 'NONREAL res2': 6555, 'NONREAL const': 9597, 'NONREAL res': 22219, 'DEFER nvar>=3': 1318, 'DEFER commonfactor2': 120, 'DEFER real2 deg1': 7, 'DEFER real1': 1} (2911s)
+FINAL part 5 of 10: 609114 lattices {'NONREAL zerobad': 161481, 'NONREAL res': 22087, 'NONREAL nf': 117943, 'NONREAL gcd1': 157956, 'NONREAL allbad1': 131925, 'NONREAL res2': 6597, 'NONREAL const': 9681, 'DEFER nvar>=3': 1319, 'DEFER commonfactor2': 115, 'DEFER real2 deg1': 6, 'DEFER real1': 2, 'DEFER real2 deg4': 1, 'DEFER real0': 1} (2848s)
+FINAL part 6 of 10: 609114 lattices {'NONREAL allbad1': 132291, 'NONREAL nf': 118109, 'NONREAL zerobad': 161443, 'NONREAL gcd1': 157574, 'NONREAL const': 9691, 'NONREAL res2': 6681, 'DEFER nvar>=3': 1303, 'NONREAL res': 21898, 'DEFER commonfactor2': 118, 'DEFER real2 deg1': 6} (2837s)
+FINAL part 7 of 10: 609114 lattices {'NONREAL zerobad': 161403, 'NONREAL gcd1': 157866, 'NONREAL allbad1': 132260, 'NONREAL nf': 118197, 'NONREAL res2': 6600, 'NONREAL const': 9646, 'NONREAL res': 21795, 'DEFER nvar>=3': 1224, 'DEFER commonfactor2': 117, 'DEFER real2 deg1': 3, 'DEFER dim1': 1, 'DEFER real1': 2} (2863s)
+FINAL part 8 of 10: 609114 lattices {'NONREAL nf': 118481, 'NONREAL allbad1': 132170, 'NONREAL gcd1': 157434, 'NONREAL zerobad': 161449, 'NONREAL res': 22032, 'NONREAL res2': 6445, 'NONREAL const': 9701, 'DEFER nvar>=3': 1268, 'DEFER commonfactor2': 128, 'DEFER real2 deg1': 5, 'DEFER real2 deg2': 1} (2894s)
+FINAL part 9 of 10: 609114 lattices {'NONREAL nf': 118088, 'NONREAL allbad1': 131978, 'NONREAL zerobad': 161926, 'NONREAL gcd1': 157508, 'NONREAL res': 21945, 'NONREAL const': 9746, 'DEFER nvar>=3': 1230, 'NONREAL res2': 6562, 'DEFER commonfactor2': 131} (2878s)
+deferred to Macaulay2:    13956
+== class n15_7_7: Macaulay2 on 10 workers, Tue Oct 20 20:03:05 -03 2026
+== class n15_7_7: Macaulay2 done, Tue Oct 20 20:08:22 -03 2026
+12573 components good
+1383 NONREAL 
+good components (realisable lattices):    12573
+   1   COMP dim 0 degree 1 rank 14/14 FREE
+   2   COMP dim 0 degree 2 rank 13/14 NONFREE
+   3   COMP dim 0 degree 2 rank 14/14 FREE
+   3   COMP dim 0 degree 4 rank 13/14 NONFREE
+   1   COMP dim 1 generic FREE; non-free locus inside degeneracy locus: true
+== class n16_7_8: corrected passes 1+2 on 10 workers, Tue Oct 20 20:08:22 -03 2026
+== class n16_7_8: filters done, Tue Oct 20 22:44:04 -03 2026
+FINAL part 0 of 10: 1637156 lattices {'NONREAL gcd1': 489113, 'NONREAL zerobad': 518935, 'NONREAL allbad1': 300037, 'NONREAL nf': 244256, 'NONREAL const': 18802, 'NONREAL res2': 14619, 'NONREAL res': 48641, 'DEFER commonfactor2': 2400, 'DEFER nvar>=3': 350, 'DEFER real2 deg1': 3} (8984s)
+FINAL part 1 of 10: 1637156 lattices {'NONREAL zerobad': 518017, 'NONREAL gcd1': 489173, 'NONREAL allbad1': 299901, 'NONREAL res': 48692, 'NONREAL nf': 244805, 'NONREAL const': 18909, 'NONREAL res2': 14872, 'DEFER commonfactor2': 2449, 'DEFER nvar>=3': 337, 'DEFER real2 deg1': 1} (9342s)
+FINAL part 2 of 10: 1637155 lattices {'NONREAL zerobad': 518238, 'NONREAL gcd1': 488947, 'NONREAL allbad1': 300015, 'NONREAL nf': 244929, 'NONREAL res': 48515, 'NONREAL res2': 14765, 'NONREAL const': 19001, 'DEFER commonfactor2': 2363, 'DEFER nvar>=3': 380, 'DEFER real2 deg1': 2} (9321s)
+FINAL part 3 of 10: 1637155 lattices {'NONREAL zerobad': 518056, 'NONREAL gcd1': 489578, 'NONREAL allbad1': 299790, 'NONREAL res': 48634, 'NONREAL nf': 244617, 'NONREAL res2': 14724, 'NONREAL const': 18966, 'DEFER commonfactor2': 2437, 'DEFER nvar>=3': 351, 'DEFER real2 deg1': 2} (9280s)
+FINAL part 4 of 10: 1637155 lattices {'NONREAL gcd1': 488214, 'NONREAL zerobad': 518585, 'NONREAL allbad1': 299452, 'NONREAL nf': 245059, 'NONREAL const': 19123, 'NONREAL res': 48838, 'NONREAL res2': 15108, 'DEFER commonfactor2': 2438, 'DEFER nvar>=3': 337, 'DEFER real2 deg1': 1} (9239s)
+FINAL part 5 of 10: 1637155 lattices {'NONREAL gcd1': 489131, 'NONREAL allbad1': 299365, 'NONREAL zerobad': 519443, 'NONREAL nf': 244072, 'NONREAL res': 48713, 'NONREAL const': 18900, 'NONREAL res2': 14879, 'DEFER commonfactor2': 2335, 'DEFER nvar>=3': 315, 'DEFER real2 deg1': 2} (8290s)
+FINAL part 6 of 10: 1637155 lattices {'NONREAL zerobad': 518803, 'NONREAL allbad1': 299837, 'NONREAL gcd1': 488684, 'NONREAL nf': 244534, 'NONREAL const': 18742, 'NONREAL res': 48710, 'NONREAL res2': 15010, 'DEFER commonfactor2': 2521, 'DEFER nvar>=3': 314} (9267s)
+FINAL part 7 of 10: 1637155 lattices {'NONREAL gcd1': 489120, 'NONREAL zerobad': 518171, 'NONREAL allbad1': 300214, 'NONREAL nf': 244212, 'NONREAL res': 48827, 'NONREAL res2': 14997, 'NONREAL const': 18773, 'DEFER commonfactor2': 2486, 'DEFER nvar>=3': 354, 'DEFER real2 deg1': 1} (9294s)
+FINAL part 8 of 10: 1637155 lattices {'NONREAL gcd1': 488861, 'NONREAL zerobad': 518772, 'NONREAL allbad1': 299902, 'NONREAL res': 48266, 'NONREAL nf': 245025, 'NONREAL const': 18749, 'NONREAL res2': 14854, 'DEFER commonfactor2': 2390, 'DEFER nvar>=3': 335, 'DEFER real2 deg1': 1} (9122s)
+FINAL part 9 of 10: 1637155 lattices {'NONREAL gcd1': 488450, 'NONREAL zerobad': 518620, 'NONREAL allbad1': 299481, 'NONREAL const': 18828, 'NONREAL nf': 245416, 'NONREAL res': 48688, 'NONREAL res2': 14888, 'DEFER commonfactor2': 2475, 'DEFER nvar>=3': 309} (9206s)
+deferred to Macaulay2:    27689
+== class n16_7_8: Macaulay2 on 10 workers, Tue Oct 20 22:44:04 -03 2026
+== class n16_7_8: Macaulay2 done, Tue Oct 20 22:54:47 -03 2026
+24650 components good
+3039 NONREAL 
+good components (realisable lattices):    24650
+ALL DONE Tue Oct 20 22:54:47 -03 2026

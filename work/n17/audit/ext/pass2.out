@@ -1,0 +1,4 @@
+pass 2 records 284
+./pass2.sh: line 24: 94920 Done                    ls in2/p2_*.jsonl
+     94921 Terminated: 15          | xargs -n 1 -P 4 -I{} sh -c 'b=$(basename {} .jsonl); nice -n 3 '$PY' extaudit.py {} out2/${b}_family.jsonl family 1800 > /dev/null 2> out2/${b}.err'
+PASS2 DONE Thu Oct 22 13:52:22 -03 2026

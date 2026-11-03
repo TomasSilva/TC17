@@ -1,0 +1,1 @@
+{"done": 8389, "stats": {"1|NONREAL nf": 8, "1|NONREAL allbad1": 2, "1|NONREAL zerobad": 4, "0|NONREAL gcd1": 2, "0|NONREAL zerobad": 3, "1|NONREAL gcd1": 1, "0|NONREAL allbad1": 4, "0|NONREAL nf": 2}, "lattices": 26, "raw": 26, "skeletons": 8389, "time": 5.033567905426025}

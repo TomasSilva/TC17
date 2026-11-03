@@ -1,0 +1,14 @@
+16:34:05 records 86 REAL 86 other (timeout/error) 0
+16:34:05 n=14 rigid 0, dim1 0, dim>=2 86
+16:34:05 n=14 rigid done
+16:34:05 n=14 families done; 0 family records sent to the lattice-level step (slow or failed)
+16:34:45 n=14 -> 34164 children with 15 lines
+16:35:56 n=14 children deferred by fast filters: 15203
+16:54:32 n=15 children: REAL 59, NONREAL 15144, other (timeout/error) 0
+16:54:32 n=15 rigid 56, dim1 3, dim>=2 0
+16:54:33 n=15 rigid done
+16:57:33 n=15 families done; 1 family records sent to the lattice-level step (slow or failed)
+16:57:33 n=15 -> 23 children with 16 lines
+16:57:33 n=15 children deferred by fast filters: 0
+16:57:33 n=16 children: REAL 0, NONREAL 0, other (timeout/error) 0
+16:57:33 done; lattice files: 12

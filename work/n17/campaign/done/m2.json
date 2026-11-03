@@ -1,0 +1,230 @@
+{
+ "deferred cores (all classes)": 187020,
+ "Macaulay2 records = deferred cores": {
+  "got": 187020,
+  "expected": 187020,
+  "ok": true
+ },
+ "b48 statuses": {
+  "REAL": 85,
+  "NONREAL": 110
+ },
+ "b48 realisable cores": {
+  "got": 85,
+  "expected": 85,
+  "ok": true
+ },
+ "b48 Macaulay2 timeouts/errors": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48 cores with rigid / curve / surface components": {
+  "got": [
+   80,
+   5,
+   0
+  ],
+  "expected": [
+   80,
+   5,
+   0
+  ],
+  "ok": true
+ },
+ "b48: ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 21078,
+  "AS REAL / ours REAL": 84,
+  "AS cost>1 / ours NONREAL": 1,
+  "AS cost>1 / ours REAL": 1
+ },
+ "b48: disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48: lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48w statuses": {
+  "REAL": 85,
+  "NONREAL": 164
+ },
+ "b48w realisable cores": {
+  "got": 85,
+  "expected": null,
+  "ok": true
+ },
+ "b48w Macaulay2 timeouts/errors": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48w cores with rigid / curve / surface components": {
+  "got": [
+   80,
+   5,
+   0
+  ],
+  "expected": null,
+  "ok": true
+ },
+ "b48w: ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 26123,
+  "AS REAL / ours REAL": 84,
+  "AS cost>1 / ours NONREAL": 26,
+  "AS cost>1 / ours REAL": 1
+ },
+ "b48w: disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48w: lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b49 statuses": {
+  "REAL": 1147,
+  "NONREAL": 1803
+ },
+ "b49 realisable cores": {
+  "got": 1147,
+  "expected": 1147,
+  "ok": true
+ },
+ "b49 Macaulay2 timeouts/errors": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b49 cores with rigid / curve / surface components": {
+  "got": [
+   1050,
+   83,
+   14
+  ],
+  "expected": [
+   1050,
+   83,
+   14
+  ],
+  "ok": true
+ },
+ "b49: ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 152878,
+  "AS REAL / ours REAL": 1113,
+  "AS cost>1 / ours NONREAL": 147,
+  "AS cost>1 / ours REAL": 34
+ },
+ "b49: disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b49: lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50 statuses": {
+  "REAL": 9162,
+  "NONREAL": 16931
+ },
+ "b50 realisable cores": {
+  "got": 9162,
+  "expected": 9162,
+  "ok": true
+ },
+ "b50 Macaulay2 timeouts/errors": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50 cores with rigid / curve / surface components": {
+  "got": [
+   7985,
+   1091,
+   86
+  ],
+  "expected": [
+   7985,
+   1091,
+   86
+  ],
+  "ok": true
+ },
+ "b50: ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 728111,
+  "AS REAL / ours REAL": 8906,
+  "AS cost>1 / ours NONREAL": 750,
+  "AS cost>1 / ours REAL": 256
+ },
+ "b50: disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50: lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51 statuses": {
+  "NONREAL": 98662,
+  "REAL": 58871
+ },
+ "b51 realisable cores": {
+  "got": 58871,
+  "expected": 58871,
+  "ok": true
+ },
+ "b51 Macaulay2 timeouts/errors": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51 cores with rigid / curve / surface components": {
+  "got": [
+   49118,
+   9001,
+   752
+  ],
+  "expected": [
+   49118,
+   9001,
+   752
+  ],
+  "ok": true
+ },
+ "b51: ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 2853278,
+  "AS REAL / ours REAL": 56526,
+  "AS cost>1 / ours NONREAL": 4183,
+  "AS cost>1 / ours REAL": 2345
+ },
+ "b51: disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51: lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "cores rejected by our filters only and undecided by Anghel-Stan (sent to Macaulay2)": 2944,
+ "filter-only cores: Macaulay2 statuses": {
+  "NONREAL": 2944
+ },
+ "filter-only cores confirmed non-realisable by Macaulay2": {
+  "got": 2944,
+  "expected": 2944,
+  "ok": true
+ },
+ "_finished": "2026-11-02 22:41:55",
+ "_seconds": 5758
+}

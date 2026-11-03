@@ -1,0 +1,83 @@
+{
+ "Macaulay2 timeouts/errors to route": {
+  "b51 n=14": 2
+ },
+ "timeouts/errors outside b51 at 14 lines": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "the b51 timeouts are the same two 14-line lattices as in October 2026": {
+  "got": true,
+  "expected": true,
+  "ok": true
+ },
+ "b51to2 runclass log": [
+  "05:35:14 records 2 REAL 2 other (timeout/error) 0",
+  "05:35:14 n=14 rigid 0, dim1 0, dim>=2 2",
+  "05:35:14 n=14 rigid done",
+  "05:35:14 n=14 rigid components: 0 expected, 0 finished",
+  "05:35:15 n=14 family components: 0 expected, 0 finished",
+  "05:35:15 n=14 families done; 0 family records sent to the lattice-level step (slow or failed)",
+  "05:35:15 n=14 -> 142 children with 15 lines",
+  "05:35:15 n=14 children deferred by fast filters: 62",
+  "05:35:25 n=15 children: REAL 0, NONREAL 62, other (timeout/error) 0",
+  "05:35:25 n=15 rigid 0, dim1 0, dim>=2 0",
+  "05:35:26 n=15 rigid done",
+  "05:35:26 n=15 rigid components: 0 expected, 0 finished",
+  "05:35:26 n=15 family components: 0 expected, 0 finished",
+  "05:35:26 n=15 families done; 0 family records sent to the lattice-level step (slow or failed)",
+  "05:35:26 done; lattice files: 8"
+ ],
+ "b51to2 worker failures": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51to2 components missing a completion record": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51to2 dim2gen failures": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51to2 pipeline finished": {
+  "got": true,
+  "expected": true,
+  "ok": true
+ },
+ "b51to2 17-line lattice records accepted by the window test": 0,
+ "b51to2 17-line lattices rejected by the window test": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51to2 rejection reasons": {},
+ "b51to2 Macaulay2 timeouts/errors among the routed children": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51to2 children generated at the lattice level": {
+  "b51to2_n14_ch.jsonl": 142
+ },
+ "b51to2_n14 (15 lines): ours vs Anghel-Stan": {
+  "AS EMPTY / ours NONREAL": 142
+ },
+ "b51to2_n14 (15 lines): disagreements with Anghel-Stan": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51to2_n14 (15 lines): lattices without a verdict of ours": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "children of the routed records screened by Anghel-Stan": 142,
+ "_finished": "2026-11-03 05:35:28",
+ "_seconds": 13
+}

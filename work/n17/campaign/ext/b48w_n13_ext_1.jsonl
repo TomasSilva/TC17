@@ -1,0 +1,10 @@
+{"idx": "b48w:31", "comp": 0, "slice": false, "done": true, "found": 0, "window": 0, "nodes": 25}
+{"idx": "b48w:6257", "comp": 0, "slice": false, "done": true, "found": 0, "window": 0, "nodes": 108}
+{"idx": "b48w:2980", "comp": 0, "slice": false, "L": [[0, 1, 2, 3, 4, 5], [0, 6, 10, 12, 13], [0, 8, 14, 15], [0, 9, 16], [1, 7, 12], [1, 8, 9, 10], [2, 6, 14], [2, 7, 9, 11], [2, 8, 12], [3, 6, 7, 8], [3, 9, 13, 14], [3, 10, 11, 15, 16], [4, 6, 9, 15], [4, 7, 13, 16], [4, 11, 12, 14], [5, 6, 16], [5, 7, 10], [5, 8, 11], [5, 9, 12], [2, 13, 15], [1, 14, 16]]}
+{"idx": "b48w:2980", "comp": 0, "slice": false, "done": true, "found": 1, "window": 1, "nodes": 36}
+{"idx": "b48w:4018", "comp": 0, "slice": false, "done": true, "found": 0, "window": 0, "nodes": 50}
+{"idx": "b48w:2733", "comp": 0, "slice": false, "L": [[0, 1, 2, 3, 4], [0, 5, 13], [0, 6, 14], [0, 8, 9], [0, 10, 11, 12], [1, 5, 8, 15], [1, 6, 9, 12], [1, 7, 11], [2, 6, 8, 11, 16], [2, 9, 13, 15], [2, 10, 14], [3, 5, 12, 16], [3, 7, 9, 10], [4, 5, 9, 11], [4, 6, 10, 15], [4, 7, 8, 12, 13, 14], [5, 6, 7], [10, 13, 16], [3, 14, 15], [9, 14, 16], [7, 15, 16]]}
+{"idx": "b48w:2733", "comp": 0, "slice": false, "done": true, "found": 1, "window": 1, "nodes": 47}
+{"idx": "b48w:306", "comp": 0, "slice": false, "done": true, "found": 0, "window": 0, "nodes": 1}
+{"idx": "b48w:1529", "comp": 0, "slice": false, "done": true, "found": 0, "window": 0, "nodes": 30}
+{"idx": "b48w:23520", "comp": 0, "slice": false, "done": true, "found": 0, "window": 0, "nodes": 46}

@@ -1,0 +1,4 @@
+{'cost>1': 471, 'family': 1804, 'empty-family-degenerate': 1439, 'empty': 93552, 'points': 2439, 'empty-degenerate': 295} 44s
+{'cost>1': 478, 'family': 1877, 'empty-family-degenerate': 1529, 'empty': 193050, 'points': 2561, 'empty-degenerate': 505} 84s
+{'cost>1': 487, 'family': 1908, 'empty-family-degenerate': 1560, 'empty': 292717, 'points': 2601, 'empty-degenerate': 727} 125s
+FINAL {'cost>1': 487, 'family': 1911, 'empty-family-degenerate': 1565, 'empty': 361585, 'points': 2606, 'empty-degenerate': 857} 158s

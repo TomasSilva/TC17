@@ -1,0 +1,1 @@
+{"n": 357086, "table": {"AS EMPTY / ours NONREAL": 329064, "AS EMPTY / ours TIMEOUT": 1, "AS REAL / ours REAL": 26978, "AS REAL / ours TIMEOUT": 1, "AS cost>1 / ours NONREAL": 525, "AS cost>1 / ours REAL": 517}, "disagreements": 0, "missing_ours": 0} undecided_filter_only: 356

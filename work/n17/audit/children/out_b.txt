@@ -1,0 +1,16 @@
+b50_n13 children 78306 {('EMPTY', 'NONREAL'): 62406, ('REAL', 'REAL'): 15050, ('cost>1', 'NONREAL'): 415, ('cost>1', 'REAL'): 435} discrepancies 0 [] 81s
+b50_n14 children 36005 {('EMPTY', 'NONREAL'): 35274, ('REAL', 'REAL'): 708, ('cost>1', 'NONREAL'): 17, ('cost>1', 'REAL'): 6} discrepancies 0 [] 30s
+b50_n15 children 10 {('EMPTY', 'NONREAL'): 10} discrepancies 0 [] 0s
+b51_n14 children 4163 {('EMPTY', 'NONREAL'): 4134, ('REAL', 'REAL'): 29} discrepancies 0 [] 3s
+b49slow_n13 children 663 {('EMPTY', 'NONREAL'): 626, ('REAL', 'REAL'): 37} discrepancies 0 [] 0s
+b50slow13_n13 children 13102 {('EMPTY', 'NONREAL'): 12434, ('REAL', 'REAL'): 640, ('cost>1', 'NONREAL'): 10, ('cost>1', 'REAL'): 18} discrepancies 0 [] 11s
+b50slow13_n14 children 3438 {('EMPTY', 'NONREAL'): 3408, ('REAL', 'REAL'): 30} discrepancies 0 [] 3s
+b50slow13_n15 children 45 {('EMPTY', 'NONREAL'): 45} discrepancies 0 [] 0s
+b50slow14_n14 children 34164 {('EMPTY', 'NONREAL'): 34105, ('REAL', 'REAL'): 59} discrepancies 0 [] 28s
+b50slow14_n15 children 23 {('EMPTY', 'NONREAL'): 23} discrepancies 0 [] 0s
+b50slow15_n15 children 13 {('EMPTY', 'NONREAL'): 13} discrepancies 0 [] 0s
+b51to2_n14 children 142 {('EMPTY', 'NONREAL'): 142} discrepancies 0 [] 0s
+b49d2n15_n15 children 418 {('EMPTY', 'NONREAL'): 412, ('REAL', 'REAL'): 6} discrepancies 0 [] 0s
+dim2_b4849 children 6242 {('EMPTY', 'NONREAL'): 4805, ('REAL', 'REAL'): 1338, ('cost>1', 'NONREAL'): 64, ('cost>1', 'REAL'): 35} discrepancies 0 [] 9s
+d2c_dim2 children 4863 {('EMPTY', 'NONREAL'): 4568, ('REAL', 'REAL'): 285, ('cost>1', 'NONREAL'): 4, ('cost>1', 'REAL'): 6} discrepancies 0 [] 4s
+ALLDONE

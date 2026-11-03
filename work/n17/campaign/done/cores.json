@@ -1,0 +1,412 @@
+{
+ "b48 heavy configurations": {
+  "got": 258,
+  "expected": 258,
+  "ok": true
+ },
+ "b48 raw completions": {
+  "got": 213339,
+  "expected": 213339,
+  "ok": true
+ },
+ "b48 lattices up to isomorphism": {
+  "got": 21164,
+  "expected": 21164,
+  "ok": true
+ },
+ "b48 jsonl records": {
+  "got": 21164,
+  "expected": 21164,
+  "ok": true
+ },
+ "b48 invariants": {
+  "n": 13,
+  "b2": 48,
+  "points_per_line": [
+   3,
+   7
+  ],
+  "mmax": 6,
+  "cut": true,
+  "w4": false,
+  "total": 21164,
+  "distinct": 21164,
+  "violations": {},
+  "max_points_on_a_line": {
+   "6": 913,
+   "7": 20251
+  },
+  "line_profiles": 108,
+  "multiplicity_profiles": 35,
+  "commonest_profiles": [
+   [
+    "7766666655554",
+    2151
+   ],
+   [
+    "7766666665554",
+    1415
+   ],
+   [
+    "7766666555555",
+    1401
+   ],
+   [
+    "7766666655555",
+    1294
+   ],
+   [
+    "7776666555554",
+    1288
+   ]
+  ]
+ },
+ "b48 invariant violations": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48 distinct certificates (pynauty) = class size": {
+  "got": 21164,
+  "expected": 21164,
+  "ok": true
+ },
+ "b48w heavy configurations": {
+  "got": 260,
+  "expected": null,
+  "ok": true
+ },
+ "b48w raw completions": {
+  "got": 250572,
+  "expected": null,
+  "ok": true
+ },
+ "b48w lattices up to isomorphism": {
+  "got": 26234,
+  "expected": null,
+  "ok": true
+ },
+ "b48w jsonl records": {
+  "got": 26234,
+  "expected": 26234,
+  "ok": true
+ },
+ "b48w invariants": {
+  "n": 13,
+  "b2": 48,
+  "points_per_line": [
+   3,
+   8
+  ],
+  "mmax": 6,
+  "cut": true,
+  "w4": false,
+  "total": 26234,
+  "distinct": 26234,
+  "violations": {},
+  "max_points_on_a_line": {
+   "6": 913,
+   "7": 20251,
+   "8": 5070
+  },
+  "line_profiles": 203,
+  "multiplicity_profiles": 35,
+  "commonest_profiles": [
+   [
+    "7766666655554",
+    2151
+   ],
+   [
+    "7766666665554",
+    1415
+   ],
+   [
+    "7766666555555",
+    1401
+   ],
+   [
+    "7766666655555",
+    1294
+   ],
+   [
+    "7776666555554",
+    1288
+   ]
+  ]
+ },
+ "b48w invariant violations": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b48w distinct certificates (pynauty) = class size": {
+  "got": 26234,
+  "expected": 26234,
+  "ok": true
+ },
+ "b49 heavy configurations": {
+  "got": 274,
+  "expected": 274,
+  "ok": true
+ },
+ "b49 raw completions": {
+  "got": 1820363,
+  "expected": 1820363,
+  "ok": true
+ },
+ "b49 lattices up to isomorphism": {
+  "got": 154172,
+  "expected": 154172,
+  "ok": true
+ },
+ "b49 jsonl records": {
+  "got": 154172,
+  "expected": 154172,
+  "ok": true
+ },
+ "b49 invariants": {
+  "n": 13,
+  "b2": 49,
+  "points_per_line": [
+   3,
+   8
+  ],
+  "mmax": 6,
+  "cut": true,
+  "w4": false,
+  "total": 154172,
+  "distinct": 154172,
+  "violations": {},
+  "max_points_on_a_line": {
+   "6": 498,
+   "7": 92180,
+   "8": 61494
+  },
+  "line_profiles": 301,
+  "multiplicity_profiles": 36,
+  "commonest_profiles": [
+   [
+    "7776666655555",
+    7807
+   ],
+   [
+    "7776666665555",
+    7776
+   ],
+   [
+    "7766666665555",
+    6871
+   ],
+   [
+    "7777666665554",
+    6324
+   ],
+   [
+    "7776666665554",
+    5838
+   ]
+  ]
+ },
+ "b49 invariant violations": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b49 distinct certificates (pynauty) = class size": {
+  "got": 154172,
+  "expected": 154172,
+  "ok": true
+ },
+ "b50 heavy configurations": {
+  "got": 284,
+  "expected": null,
+  "ok": true
+ },
+ "b50 raw completions": {
+  "got": 12276119,
+  "expected": 12276119,
+  "ok": true
+ },
+ "b50 lattices up to isomorphism": {
+  "got": 738023,
+  "expected": 738023,
+  "ok": true
+ },
+ "b50 jsonl records": {
+  "got": 738023,
+  "expected": 738023,
+  "ok": true
+ },
+ "b50 invariants": {
+  "n": 13,
+  "b2": 50,
+  "points_per_line": [
+   3,
+   8
+  ],
+  "mmax": 6,
+  "cut": true,
+  "w4": false,
+  "total": 738023,
+  "distinct": 738023,
+  "violations": {},
+  "max_points_on_a_line": {
+   "6": 118,
+   "7": 289381,
+   "8": 448524
+  },
+  "line_profiles": 412,
+  "multiplicity_profiles": 38,
+  "commonest_profiles": [
+   [
+    "8777666665555",
+    40857
+   ],
+   [
+    "7777666666555",
+    34585
+   ],
+   [
+    "8776666666555",
+    31971
+   ],
+   [
+    "7776666666555",
+    29248
+   ],
+   [
+    "7777666665555",
+    27373
+   ]
+  ]
+ },
+ "b50 invariant violations": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b50 distinct certificates (pynauty) = class size": {
+  "got": 738023,
+  "expected": 738023,
+  "ok": true
+ },
+ "b51 heavy configurations": {
+  "got": 285,
+  "expected": null,
+  "ok": true
+ },
+ "b51 raw completions": {
+  "got": 65691853,
+  "expected": 65691853,
+  "ok": true
+ },
+ "b51 lattices up to isomorphism": {
+  "got": 2916332,
+  "expected": 2916332,
+  "ok": true
+ },
+ "b51 jsonl records": {
+  "got": 2916332,
+  "expected": 2916332,
+  "ok": true
+ },
+ "b51 invariants": {
+  "n": 13,
+  "b2": 51,
+  "points_per_line": [
+   3,
+   8
+  ],
+  "mmax": 6,
+  "cut": true,
+  "w4": false,
+  "total": 2916332,
+  "distinct": 2916332,
+  "violations": {},
+  "max_points_on_a_line": {
+   "6": 10,
+   "7": 673072,
+   "8": 2243250
+  },
+  "line_profiles": 439,
+  "multiplicity_profiles": 39,
+  "commonest_profiles": [
+   [
+    "8777766666555",
+    205565
+   ],
+   [
+    "8777666666655",
+    158700
+   ],
+   [
+    "8777766666655",
+    132703
+   ],
+   [
+    "8777776666555",
+    112048
+   ],
+   [
+    "7777766666655",
+    109354
+   ]
+  ]
+ },
+ "b51 invariant violations": {
+  "got": 0,
+  "expected": 0,
+  "ok": true
+ },
+ "b51 distinct certificates (pynauty) = class size": {
+  "got": 2916332,
+  "expected": 2916332,
+  "ok": true
+ },
+ "positive controls": {
+  "cores13": 28,
+  "cores13_in_b48": 28,
+  "chains_per_lattice": [
+   30,
+   12,
+   11,
+   12,
+   13,
+   1,
+   1,
+   1,
+   1,
+   1,
+   5,
+   8,
+   7,
+   9,
+   6,
+   1
+  ],
+  "chain_cores": 33,
+  "chain_cores_in_b48": 33,
+  "b48_subset_of_b48w": true,
+  "b48w_minus_b48": 5070,
+  "b48": 21164,
+  "b48w": 26234
+ },
+ "known cores (work/n17/validate/cores13.jsonl) present in b48": {
+  "got": 28,
+  "expected": 28,
+  "ok": true
+ },
+ "phi-max cores of the 16 lattices present in b48": {
+  "got": 33,
+  "expected": 33,
+  "ok": true
+ },
+ "b48 is a subset of b48w": {
+  "got": true,
+  "expected": true,
+  "ok": true
+ },
+ "b48w lattices with an 8-point line": 5070,
+ "_finished": "2026-11-02 20:34:37",
+ "_seconds": 318
+}

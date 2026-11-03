@@ -1,0 +1,7 @@
+{"idx": "b51:27147/2403", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 1}, "found": [], "src": "core", "cap": 2, "wall": 0.01}
+{"idx": "b50:1553/4", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 2}, "found": [], "src": "core", "cap": 3, "wall": 0.01}
+{"idx": "b50:1553/119", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 2}, "found": [], "src": "core", "cap": 3, "wall": 0.03}
+{"idx": "b50:1553/269", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 4, "phipruned": 1}, "found": [], "src": "core", "cap": 3, "wall": 0.03}
+{"idx": "b50:1553/779", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 3, "phipruned": 2}, "found": [], "src": "core", "cap": 3, "wall": 0.01}
+{"idx": "b51:41078/2139", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 1}, "found": [], "src": "core", "cap": 2, "wall": 0.01}
+{"ALLDONE": "part_au"}

@@ -1,0 +1,2908 @@
+LATTICE 9 components 2 good 0 dims {} zerobad 0
+LATTICE 19 components 1 good 0 dims {} zerobad 0
+LATTICE 29 components 1 good 0 dims {} zerobad 0
+LATTICE 39 NONREAL
+LATTICE 49 components 1 good 0 dims {} zerobad 0
+LATTICE 59 components 2 good 0 dims {} zerobad 0
+LATTICE 69 components 1 good 0 dims {} zerobad 0
+LATTICE 79 components 3 good 0 dims {} zerobad 0
+LATTICE 89 components 1 good 0 dims {} zerobad 0
+LATTICE 99 NONREAL
+LATTICE 109 components 2 good 0 dims {} zerobad 0
+LATTICE 119 components 1 good 0 dims {} zerobad 0
+LATTICE 129 components 2 good 0 dims {} zerobad 0
+LATTICE 139 components 1 good 0 dims {} zerobad 0
+LATTICE 149 components 1 good 0 dims {} zerobad 0
+LATTICE 159 components 3 good 0 dims {} zerobad 0
+LATTICE 169 components 1 good 0 dims {} zerobad 0
+LATTICE 179 components 2 good 0 dims {} zerobad 0
+LATTICE 189 NONREAL
+LATTICE 199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 209 components 2 good 0 dims {} zerobad 0
+LATTICE 219 components 2 good 0 dims {} zerobad 0
+LATTICE 229 components 1 good 0 dims {} zerobad 0
+LATTICE 239 components 2 good 0 dims {} zerobad 0
+LATTICE 249 components 1 good 0 dims {} zerobad 0
+LATTICE 259 components 2 good 0 dims {} zerobad 0
+LATTICE 269 NONREAL
+LATTICE 279 components 4 good 0 dims {} zerobad 0
+LATTICE 289 components 1 good 0 dims {} zerobad 0
+LATTICE 299 components 2 good 0 dims {} zerobad 0
+LATTICE 309 components 1 good 0 dims {} zerobad 0
+LATTICE 319 components 1 good 0 dims {} zerobad 0
+LATTICE 329 components 2 good 0 dims {} zerobad 0
+LATTICE 339 components 2 good 0 dims {} zerobad 0
+LATTICE 349 components 2 good 0 dims {} zerobad 0
+LATTICE 359 NONREAL
+LATTICE 369 components 2 good 0 dims {} zerobad 0
+LATTICE 379 components 1 good 0 dims {} zerobad 0
+LATTICE 389 components 3 good 0 dims {} zerobad 0
+LATTICE 399 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 409 components 3 good 0 dims {} zerobad 0
+LATTICE 419 components 2 good 0 dims {} zerobad 0
+LATTICE 429 components 2 good 0 dims {} zerobad 0
+LATTICE 439 components 3 good 0 dims {} zerobad 0
+LATTICE 449 components 1 good 0 dims {} zerobad 0
+LATTICE 459 components 2 good 0 dims {} zerobad 0
+LATTICE 469 components 1 good 0 dims {} zerobad 0
+LATTICE 479 components 1 good 0 dims {} zerobad 0
+LATTICE 489 components 1 good 0 dims {} zerobad 0
+LATTICE 499 components 2 good 0 dims {} zerobad 0
+LATTICE 509 components 1 good 0 dims {} zerobad 0
+LATTICE 519 components 3 good 0 dims {} zerobad 0
+LATTICE 529 components 1 good 0 dims {} zerobad 0
+LATTICE 539 NONREAL
+LATTICE 549 components 1 good 0 dims {} zerobad 0
+LATTICE 559 components 3 good 0 dims {} zerobad 0
+LATTICE 569 components 3 good 0 dims {} zerobad 0
+LATTICE 579 components 2 good 0 dims {} zerobad 0
+LATTICE 589 components 1 good 0 dims {} zerobad 0
+LATTICE 599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 609 components 1 good 0 dims {} zerobad 0
+LATTICE 619 components 1 good 0 dims {} zerobad 0
+LATTICE 629 NONREAL
+LATTICE 639 NONREAL
+LATTICE 649 components 2 good 0 dims {} zerobad 0
+LATTICE 659 components 1 good 0 dims {} zerobad 0
+LATTICE 669 components 3 good 0 dims {} zerobad 0
+LATTICE 679 components 1 good 0 dims {} zerobad 0
+LATTICE 689 components 3 good 0 dims {} zerobad 0
+LATTICE 699 components 1 good 0 dims {} zerobad 0
+LATTICE 709 components 1 good 0 dims {} zerobad 0
+LATTICE 719 components 1 good 0 dims {} zerobad 0
+LATTICE 729 components 1 good 0 dims {} zerobad 0
+LATTICE 739 components 1 good 0 dims {} zerobad 0
+LATTICE 749 components 1 good 0 dims {} zerobad 0
+LATTICE 759 components 2 good 0 dims {} zerobad 0
+LATTICE 769 components 1 good 0 dims {} zerobad 0
+LATTICE 779 NONREAL
+LATTICE 789 components 2 good 0 dims {} zerobad 0
+LATTICE 799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 809 components 2 good 0 dims {} zerobad 0
+LATTICE 819 components 2 good 0 dims {} zerobad 0
+LATTICE 829 components 1 good 0 dims {} zerobad 0
+LATTICE 839 NONREAL
+LATTICE 849 components 2 good 0 dims {} zerobad 0
+LATTICE 859 components 1 good 0 dims {} zerobad 0
+LATTICE 869 components 2 good 0 dims {} zerobad 0
+LATTICE 879 components 2 good 0 dims {} zerobad 0
+LATTICE 889 components 2 good 0 dims {} zerobad 0
+LATTICE 899 components 3 good 0 dims {} zerobad 0
+LATTICE 909 components 1 good 0 dims {} zerobad 0
+LATTICE 919 components 2 good 0 dims {} zerobad 0
+LATTICE 929 components 1 good 0 dims {} zerobad 0
+LATTICE 939 components 1 good 0 dims {} zerobad 0
+LATTICE 949 components 1 good 0 dims {} zerobad 0
+LATTICE 959 components 2 good 0 dims {} zerobad 0
+LATTICE 969 components 1 good 0 dims {} zerobad 0
+LATTICE 979 components 1 good 0 dims {} zerobad 0
+LATTICE 989 components 3 good 0 dims {} zerobad 0
+LATTICE 999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 1009 components 1 good 0 dims {} zerobad 0
+LATTICE 1019 components 1 good 0 dims {} zerobad 0
+LATTICE 1029 NONREAL
+LATTICE 1039 components 1 good 0 dims {} zerobad 0
+LATTICE 1049 components 1 good 0 dims {} zerobad 0
+LATTICE 1059 components 2 good 0 dims {} zerobad 0
+LATTICE 1069 components 2 good 0 dims {} zerobad 0
+LATTICE 1079 components 1 good 0 dims {} zerobad 0
+LATTICE 1089 components 3 good 0 dims {} zerobad 0
+LATTICE 1099 components 2 good 0 dims {} zerobad 0
+LATTICE 1109 components 1 good 0 dims {} zerobad 0
+LATTICE 1119 components 1 good 0 dims {} zerobad 0
+LATTICE 1129 components 1 good 0 dims {} zerobad 0
+LATTICE 1139 components 1 good 0 dims {} zerobad 0
+LATTICE 1149 components 1 good 0 dims {} zerobad 0
+LATTICE 1159 components 1 good 0 dims {} zerobad 0
+LATTICE 1169 components 1 good 0 dims {} zerobad 0
+LATTICE 1179 components 2 good 0 dims {} zerobad 0
+LATTICE 1189 components 2 good 0 dims {} zerobad 0
+LATTICE 1199 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 1209 components 2 good 0 dims {} zerobad 0
+LATTICE 1219 components 2 good 0 dims {} zerobad 0
+LATTICE 1229 components 2 good 0 dims {} zerobad 0
+LATTICE 1239 components 1 good 0 dims {} zerobad 0
+LATTICE 1249 components 1 good 0 dims {} zerobad 0
+LATTICE 1259 components 2 good 0 dims {} zerobad 0
+LATTICE 1269 components 2 good 0 dims {} zerobad 0
+LATTICE 1279 NONREAL
+LATTICE 1289 components 3 good 0 dims {} zerobad 0
+LATTICE 1299 components 1 good 0 dims {} zerobad 0
+LATTICE 1309 components 1 good 0 dims {} zerobad 0
+LATTICE 1319 components 2 good 0 dims {} zerobad 0
+LATTICE 1329 NONREAL
+LATTICE 1339 components 2 good 0 dims {} zerobad 0
+LATTICE 1349 components 2 good 0 dims {} zerobad 0
+LATTICE 1359 components 2 good 0 dims {} zerobad 0
+LATTICE 1369 components 2 good 0 dims {} zerobad 0
+LATTICE 1379 components 1 good 0 dims {} zerobad 0
+LATTICE 1389 components 3 good 0 dims {} zerobad 0
+LATTICE 1399 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 1409 components 1 good 0 dims {} zerobad 0
+LATTICE 1419 NONREAL
+LATTICE 1429 components 1 good 0 dims {} zerobad 0
+LATTICE 1439 components 2 good 0 dims {} zerobad 0
+LATTICE 1449 components 1 good 0 dims {} zerobad 0
+LATTICE 1459 components 1 good 0 dims {} zerobad 0
+LATTICE 1469 components 2 good 0 dims {} zerobad 0
+LATTICE 1479 components 1 good 0 dims {} zerobad 0
+LATTICE 1489 components 2 good 0 dims {} zerobad 0
+LATTICE 1499 components 2 good 0 dims {} zerobad 0
+LATTICE 1509 components 2 good 0 dims {} zerobad 0
+LATTICE 1519 components 1 good 0 dims {} zerobad 0
+LATTICE 1529 components 3 good 0 dims {} zerobad 0
+LATTICE 1539 components 1 good 0 dims {} zerobad 0
+LATTICE 1549 components 1 good 0 dims {} zerobad 0
+LATTICE 1559 components 1 good 0 dims {} zerobad 0
+LATTICE 1569 components 1 good 0 dims {} zerobad 0
+LATTICE 1579 components 2 good 0 dims {} zerobad 0
+LATTICE 1589 components 2 good 0 dims {} zerobad 0
+LATTICE 1599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 1609 components 1 good 0 dims {} zerobad 0
+LATTICE 1619 components 2 good 0 dims {} zerobad 0
+LATTICE 1629 components 2 good 0 dims {} zerobad 0
+LATTICE 1639 components 2 good 0 dims {} zerobad 0
+LATTICE 1649 components 4 good 0 dims {} zerobad 0
+LATTICE 1659 components 3 good 0 dims {} zerobad 0
+LATTICE 1669 components 1 good 0 dims {} zerobad 0
+LATTICE 1679 components 2 good 0 dims {} zerobad 0
+LATTICE 1689 components 4 good 0 dims {} zerobad 0
+LATTICE 1699 components 1 good 0 dims {} zerobad 0
+LATTICE 1709 components 1 good 0 dims {} zerobad 0
+LATTICE 1719 components 2 good 0 dims {} zerobad 0
+LATTICE 1729 components 1 good 0 dims {} zerobad 0
+LATTICE 1739 NONREAL
+LATTICE 1749 components 1 good 0 dims {} zerobad 0
+LATTICE 1759 NONREAL
+LATTICE 1769 components 1 good 0 dims {} zerobad 0
+LATTICE 1779 NONREAL
+LATTICE 1789 components 2 good 0 dims {} zerobad 0
+LATTICE 1799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 1809 components 1 good 0 dims {} zerobad 0
+LATTICE 1819 components 1 good 0 dims {} zerobad 0
+LATTICE 1829 components 1 good 0 dims {} zerobad 0
+LATTICE 1839 components 1 good 0 dims {} zerobad 0
+LATTICE 1849 components 2 good 0 dims {} zerobad 0
+LATTICE 1859 components 3 good 0 dims {} zerobad 0
+LATTICE 1869 components 1 good 0 dims {} zerobad 0
+LATTICE 1879 NONREAL
+LATTICE 1889 components 2 good 0 dims {} zerobad 0
+LATTICE 1899 components 2 good 0 dims {} zerobad 0
+LATTICE 1909 components 1 good 0 dims {} zerobad 0
+LATTICE 1919 components 2 good 0 dims {} zerobad 0
+LATTICE 1929 components 1 good 0 dims {} zerobad 0
+LATTICE 1939 components 1 good 0 dims {} zerobad 0
+LATTICE 1949 components 1 good 0 dims {} zerobad 0
+LATTICE 1959 components 1 good 0 dims {} zerobad 0
+LATTICE 1969 components 1 good 0 dims {} zerobad 0
+LATTICE 1979 components 2 good 0 dims {} zerobad 0
+LATTICE 1989 components 1 good 0 dims {} zerobad 0
+LATTICE 1999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 2009 components 1 good 0 dims {} zerobad 0
+LATTICE 2019 components 1 good 0 dims {} zerobad 0
+LATTICE 2029 components 2 good 0 dims {} zerobad 0
+LATTICE 2039 components 2 good 0 dims {} zerobad 0
+LATTICE 2049 components 2 good 0 dims {} zerobad 0
+LATTICE 2059 components 1 good 0 dims {} zerobad 0
+LATTICE 2069 components 1 good 0 dims {} zerobad 0
+LATTICE 2079 NONREAL
+LATTICE 2089 components 2 good 0 dims {} zerobad 0
+LATTICE 2099 components 1 good 0 dims {} zerobad 0
+LATTICE 2109 components 1 good 0 dims {} zerobad 0
+LATTICE 2119 components 1 good 0 dims {} zerobad 0
+LATTICE 2129 components 1 good 0 dims {} zerobad 0
+LATTICE 2139 components 1 good 0 dims {} zerobad 0
+LATTICE 2149 components 3 good 0 dims {} zerobad 0
+LATTICE 2159 components 1 good 0 dims {} zerobad 0
+LATTICE 2169 components 2 good 0 dims {} zerobad 0
+LATTICE 2179 components 2 good 0 dims {} zerobad 0
+LATTICE 2189 components 2 good 0 dims {} zerobad 0
+LATTICE 2199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 2209 components 2 good 0 dims {} zerobad 0
+LATTICE 2219 components 1 good 0 dims {} zerobad 0
+LATTICE 2229 components 1 good 0 dims {} zerobad 0
+LATTICE 2239 components 2 good 0 dims {} zerobad 0
+LATTICE 2249 components 2 good 0 dims {} zerobad 0
+LATTICE 2259 components 2 good 0 dims {} zerobad 0
+LATTICE 2269 NONREAL
+LATTICE 2279 components 1 good 0 dims {} zerobad 0
+LATTICE 2289 components 2 good 0 dims {} zerobad 0
+LATTICE 2299 components 2 good 0 dims {} zerobad 0
+LATTICE 2309 components 1 good 0 dims {} zerobad 0
+LATTICE 2319 components 2 good 0 dims {} zerobad 0
+LATTICE 2329 components 1 good 0 dims {} zerobad 0
+LATTICE 2339 components 1 good 0 dims {} zerobad 0
+LATTICE 2349 components 2 good 0 dims {} zerobad 0
+LATTICE 2359 NONREAL
+LATTICE 2369 NONREAL
+LATTICE 2379 components 3 good 0 dims {} zerobad 0
+LATTICE 2389 components 1 good 0 dims {} zerobad 0
+LATTICE 2399 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 2409 components 1 good 0 dims {} zerobad 0
+LATTICE 2419 components 1 good 0 dims {} zerobad 0
+LATTICE 2429 NONREAL
+LATTICE 2439 NONREAL
+LATTICE 2449 components 3 good 0 dims {} zerobad 0
+LATTICE 2459 NONREAL
+LATTICE 2469 components 2 good 0 dims {} zerobad 0
+LATTICE 2479 components 1 good 0 dims {} zerobad 0
+LATTICE 2489 components 2 good 0 dims {} zerobad 0
+LATTICE 2499 components 2 good 0 dims {} zerobad 0
+LATTICE 2509 components 1 good 0 dims {} zerobad 0
+LATTICE 2519 components 2 good 0 dims {} zerobad 0
+LATTICE 2529 components 1 good 0 dims {} zerobad 0
+LATTICE 2539 components 3 good 0 dims {} zerobad 0
+LATTICE 2549 components 4 good 0 dims {} zerobad 0
+LATTICE 2559 components 2 good 0 dims {} zerobad 0
+LATTICE 2569 components 1 good 0 dims {} zerobad 0
+LATTICE 2579 components 1 good 0 dims {} zerobad 0
+LATTICE 2589 components 1 good 0 dims {} zerobad 0
+LATTICE 2599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 2609 components 2 good 0 dims {} zerobad 0
+LATTICE 2619 components 3 good 0 dims {} zerobad 0
+LATTICE 2629 components 1 good 0 dims {} zerobad 0
+LATTICE 2639 components 2 good 0 dims {} zerobad 0
+LATTICE 2649 components 3 good 0 dims {} zerobad 0
+LATTICE 2659 components 1 good 0 dims {} zerobad 0
+LATTICE 2669 components 2 good 0 dims {} zerobad 0
+LATTICE 2679 components 1 good 0 dims {} zerobad 0
+LATTICE 2689 components 2 good 0 dims {} zerobad 0
+LATTICE 2699 components 2 good 0 dims {} zerobad 0
+LATTICE 2709 components 1 good 0 dims {} zerobad 0
+LATTICE 2719 NONREAL
+LATTICE 2729 components 2 good 0 dims {} zerobad 0
+LATTICE 2739 NONREAL
+LATTICE 2749 components 2 good 0 dims {} zerobad 0
+LATTICE 2759 components 3 good 0 dims {} zerobad 0
+LATTICE 2769 NONREAL
+LATTICE 2779 components 2 good 0 dims {} zerobad 0
+LATTICE 2789 components 2 good 0 dims {} zerobad 0
+LATTICE 2799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 2809 components 2 good 0 dims {} zerobad 0
+LATTICE 2819 components 1 good 0 dims {} zerobad 0
+LATTICE 2829 components 1 good 0 dims {} zerobad 0
+LATTICE 2839 components 3 good 0 dims {} zerobad 0
+LATTICE 2849 components 1 good 0 dims {} zerobad 0
+LATTICE 2859 components 1 good 0 dims {} zerobad 0
+LATTICE 2869 components 1 good 0 dims {} zerobad 0
+LATTICE 2879 components 3 good 0 dims {} zerobad 0
+LATTICE 2889 components 1 good 0 dims {} zerobad 0
+LATTICE 2899 components 1 good 0 dims {} zerobad 0
+LATTICE 2909 components 3 good 0 dims {} zerobad 0
+LATTICE 2919 components 1 good 0 dims {} zerobad 0
+LATTICE 2929 components 1 good 0 dims {} zerobad 0
+LATTICE 2939 components 1 good 0 dims {} zerobad 0
+LATTICE 2949 NONREAL
+LATTICE 2959 components 3 good 0 dims {} zerobad 0
+LATTICE 2969 NONREAL
+LATTICE 2979 components 2 good 0 dims {} zerobad 0
+LATTICE 2989 components 1 good 0 dims {} zerobad 0
+LATTICE 2999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 3009 components 3 good 0 dims {} zerobad 0
+LATTICE 3019 NONREAL
+LATTICE 3029 components 3 good 0 dims {} zerobad 0
+LATTICE 3039 components 1 good 0 dims {} zerobad 0
+LATTICE 3049 components 1 good 0 dims {} zerobad 0
+LATTICE 3059 components 1 good 0 dims {} zerobad 0
+LATTICE 3069 components 1 good 0 dims {} zerobad 0
+LATTICE 3079 components 2 good 0 dims {} zerobad 0
+LATTICE 3089 components 2 good 0 dims {} zerobad 0
+LATTICE 3099 components 3 good 0 dims {} zerobad 0
+LATTICE 3109 components 2 good 0 dims {} zerobad 0
+LATTICE 3119 NONREAL
+LATTICE 3129 components 2 good 0 dims {} zerobad 0
+LATTICE 3139 components 3 good 0 dims {} zerobad 0
+LATTICE 3149 components 2 good 0 dims {} zerobad 0
+LATTICE 3159 components 1 good 0 dims {} zerobad 0
+LATTICE 3169 components 1 good 0 dims {} zerobad 0
+LATTICE 3179 components 2 good 0 dims {} zerobad 0
+LATTICE 3189 components 1 good 0 dims {} zerobad 0
+LATTICE 3199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 3209 components 4 good 0 dims {} zerobad 0
+LATTICE 3219 components 3 good 0 dims {} zerobad 0
+LATTICE 3229 components 2 good 0 dims {} zerobad 0
+LATTICE 3239 NONREAL
+LATTICE 3249 NONREAL
+LATTICE 3259 components 1 good 0 dims {} zerobad 0
+LATTICE 3269 components 1 good 0 dims {} zerobad 0
+LATTICE 3279 components 1 good 0 dims {} zerobad 0
+LATTICE 3289 NONREAL
+LATTICE 3299 NONREAL
+LATTICE 3309 components 1 good 0 dims {} zerobad 0
+LATTICE 3319 NONREAL
+LATTICE 3329 components 2 good 0 dims {} zerobad 0
+LATTICE 3339 NONREAL
+LATTICE 3349 components 1 good 0 dims {} zerobad 0
+LATTICE 3359 components 1 good 0 dims {} zerobad 0
+LATTICE 3369 components 1 good 0 dims {} zerobad 0
+LATTICE 3379 components 3 good 0 dims {} zerobad 0
+LATTICE 3389 components 3 good 0 dims {} zerobad 0
+LATTICE 3399 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 3409 components 2 good 0 dims {} zerobad 0
+LATTICE 3419 components 1 good 0 dims {} zerobad 0
+LATTICE 3429 components 2 good 0 dims {} zerobad 0
+LATTICE 3439 components 3 good 0 dims {} zerobad 0
+LATTICE 3449 components 2 good 0 dims {} zerobad 0
+LATTICE 3459 NONREAL
+LATTICE 3469 components 1 good 0 dims {} zerobad 0
+LATTICE 3479 components 2 good 0 dims {} zerobad 0
+LATTICE 3489 components 1 good 0 dims {} zerobad 0
+LATTICE 3499 NONREAL
+LATTICE 3509 components 2 good 0 dims {} zerobad 0
+LATTICE 3519 components 1 good 0 dims {} zerobad 0
+LATTICE 3529 components 3 good 0 dims {} zerobad 0
+LATTICE 3539 components 1 good 0 dims {} zerobad 0
+LATTICE 3549 components 2 good 0 dims {} zerobad 0
+LATTICE 3559 components 1 good 0 dims {} zerobad 0
+LATTICE 3569 components 2 good 0 dims {} zerobad 0
+LATTICE 3579 components 1 good 0 dims {} zerobad 0
+LATTICE 3589 components 2 good 0 dims {} zerobad 0
+LATTICE 3599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 3609 components 2 good 0 dims {} zerobad 0
+LATTICE 3619 components 1 good 0 dims {} zerobad 0
+LATTICE 3629 components 1 good 0 dims {} zerobad 0
+LATTICE 3639 components 1 good 0 dims {} zerobad 0
+LATTICE 3649 components 1 good 0 dims {} zerobad 0
+LATTICE 3659 components 2 good 0 dims {} zerobad 0
+LATTICE 3669 components 2 good 0 dims {} zerobad 0
+LATTICE 3679 components 1 good 0 dims {} zerobad 0
+LATTICE 3689 components 1 good 0 dims {} zerobad 0
+LATTICE 3699 components 2 good 0 dims {} zerobad 0
+LATTICE 3709 components 2 good 0 dims {} zerobad 0
+LATTICE 3719 components 2 good 0 dims {} zerobad 0
+LATTICE 3729 components 2 good 0 dims {} zerobad 0
+LATTICE 3739 components 1 good 0 dims {} zerobad 0
+LATTICE 3749 components 1 good 0 dims {} zerobad 0
+LATTICE 3759 NONREAL
+LATTICE 3769 components 1 good 0 dims {} zerobad 0
+LATTICE 3779 NONREAL
+LATTICE 3789 components 1 good 0 dims {} zerobad 0
+LATTICE 3799 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 3809 components 2 good 0 dims {} zerobad 0
+LATTICE 3819 components 2 good 0 dims {} zerobad 0
+LATTICE 3829 components 2 good 0 dims {} zerobad 0
+LATTICE 3839 components 1 good 0 dims {} zerobad 0
+LATTICE 3849 components 1 good 0 dims {} zerobad 0
+LATTICE 3859 components 1 good 0 dims {} zerobad 0
+LATTICE 3869 components 1 good 0 dims {} zerobad 0
+LATTICE 3879 components 3 good 0 dims {} zerobad 0
+LATTICE 3889 components 1 good 0 dims {} zerobad 0
+LATTICE 3899 components 2 good 0 dims {} zerobad 0
+LATTICE 3909 components 1 good 0 dims {} zerobad 0
+LATTICE 3919 NONREAL
+LATTICE 3929 components 2 good 0 dims {} zerobad 0
+LATTICE 3939 components 2 good 0 dims {} zerobad 0
+LATTICE 3949 components 2 good 0 dims {} zerobad 0
+LATTICE 3959 components 2 good 0 dims {} zerobad 0
+LATTICE 3969 components 1 good 0 dims {} zerobad 0
+LATTICE 3979 NONREAL
+LATTICE 3989 components 1 good 0 dims {} zerobad 0
+LATTICE 3999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 4009 components 1 good 0 dims {} zerobad 0
+LATTICE 4019 components 2 good 0 dims {} zerobad 0
+LATTICE 4029 components 1 good 0 dims {} zerobad 0
+LATTICE 4039 components 2 good 0 dims {} zerobad 0
+LATTICE 4049 components 2 good 0 dims {} zerobad 0
+LATTICE 4059 components 1 good 0 dims {} zerobad 0
+LATTICE 4069 components 1 good 0 dims {} zerobad 0
+LATTICE 4079 NONREAL
+LATTICE 4089 components 1 good 0 dims {} zerobad 0
+LATTICE 4099 components 1 good 0 dims {} zerobad 0
+LATTICE 4109 components 3 good 0 dims {} zerobad 0
+LATTICE 4119 components 1 good 0 dims {} zerobad 0
+LATTICE 4129 components 1 good 0 dims {} zerobad 0
+LATTICE 4139 components 1 good 0 dims {} zerobad 0
+LATTICE 4149 components 1 good 0 dims {} zerobad 0
+LATTICE 4159 components 3 good 0 dims {} zerobad 0
+LATTICE 4169 components 2 good 0 dims {} zerobad 0
+LATTICE 4179 components 2 good 0 dims {} zerobad 0
+LATTICE 4189 components 2 good 0 dims {} zerobad 0
+LATTICE 4199 NONREAL
+DONE
+LATTICE 4209 NONREAL
+LATTICE 4219 components 4 good 0 dims {} zerobad 0
+LATTICE 4229 components 3 good 0 dims {} zerobad 0
+LATTICE 4239 components 2 good 0 dims {} zerobad 0
+LATTICE 4249 components 1 good 0 dims {} zerobad 0
+LATTICE 4259 components 2 good 0 dims {} zerobad 0
+LATTICE 4269 NONREAL
+LATTICE 4279 components 2 good 0 dims {} zerobad 0
+LATTICE 4289 components 2 good 0 dims {} zerobad 0
+LATTICE 4299 components 1 good 0 dims {} zerobad 0
+LATTICE 4309 components 1 good 0 dims {} zerobad 0
+LATTICE 4319 components 1 good 0 dims {} zerobad 0
+LATTICE 4329 components 2 good 0 dims {} zerobad 0
+LATTICE 4339 components 3 good 0 dims {} zerobad 0
+LATTICE 4349 components 1 good 0 dims {} zerobad 0
+LATTICE 4359 components 1 good 0 dims {} zerobad 0
+LATTICE 4369 components 2 good 0 dims {} zerobad 0
+LATTICE 4379 components 2 good 0 dims {} zerobad 0
+LATTICE 4389 components 1 good 0 dims {} zerobad 0
+LATTICE 4399 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 4409 components 1 good 0 dims {} zerobad 0
+LATTICE 4419 components 2 good 0 dims {} zerobad 0
+LATTICE 4429 components 1 good 0 dims {} zerobad 0
+LATTICE 4439 components 2 good 0 dims {} zerobad 0
+LATTICE 4449 components 2 good 0 dims {} zerobad 0
+LATTICE 4459 components 2 good 0 dims {} zerobad 0
+LATTICE 4469 components 2 good 0 dims {} zerobad 0
+LATTICE 4479 components 2 good 0 dims {} zerobad 0
+LATTICE 4489 components 1 good 0 dims {} zerobad 0
+LATTICE 4499 components 1 good 0 dims {} zerobad 0
+LATTICE 4509 components 1 good 0 dims {} zerobad 0
+LATTICE 4519 NONREAL
+LATTICE 4529 components 1 good 0 dims {} zerobad 0
+LATTICE 4539 components 3 good 0 dims {} zerobad 0
+LATTICE 4549 components 3 good 0 dims {} zerobad 0
+LATTICE 4559 components 2 good 0 dims {} zerobad 0
+LATTICE 4569 components 1 good 0 dims {} zerobad 0
+LATTICE 4579 NONREAL
+LATTICE 4589 components 1 good 0 dims {} zerobad 0
+LATTICE 4599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 4609 components 1 good 0 dims {} zerobad 0
+LATTICE 4619 components 2 good 0 dims {} zerobad 0
+LATTICE 4629 NONREAL
+LATTICE 4639 components 2 good 0 dims {} zerobad 0
+LATTICE 4649 components 2 good 0 dims {} zerobad 0
+LATTICE 4659 components 2 good 0 dims {} zerobad 0
+LATTICE 4669 components 2 good 0 dims {} zerobad 0
+LATTICE 4679 components 1 good 0 dims {} zerobad 0
+LATTICE 4689 components 1 good 0 dims {} zerobad 0
+LATTICE 4699 components 1 good 0 dims {} zerobad 0
+LATTICE 4709 components 1 good 0 dims {} zerobad 0
+LATTICE 4719 components 2 good 0 dims {} zerobad 0
+LATTICE 4729 components 1 good 0 dims {} zerobad 0
+LATTICE 4739 components 1 good 0 dims {} zerobad 0
+LATTICE 4749 NONREAL
+LATTICE 4759 components 4 good 0 dims {} zerobad 0
+LATTICE 4769 components 2 good 0 dims {} zerobad 0
+LATTICE 4779 components 1 good 0 dims {} zerobad 0
+LATTICE 4789 components 1 good 0 dims {} zerobad 0
+LATTICE 4799 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 4809 components 3 good 0 dims {} zerobad 0
+LATTICE 4819 NONREAL
+LATTICE 4829 components 2 good 0 dims {} zerobad 0
+LATTICE 4839 components 1 good 0 dims {} zerobad 0
+LATTICE 4849 components 1 good 0 dims {} zerobad 0
+LATTICE 4859 components 2 good 0 dims {} zerobad 0
+LATTICE 4869 components 2 good 0 dims {} zerobad 0
+LATTICE 4879 components 1 good 0 dims {} zerobad 0
+LATTICE 4889 components 3 good 0 dims {} zerobad 0
+LATTICE 4899 components 1 good 0 dims {} zerobad 0
+LATTICE 4909 components 1 good 0 dims {} zerobad 0
+LATTICE 4919 components 1 good 0 dims {} zerobad 0
+LATTICE 4929 NONREAL
+LATTICE 4939 components 1 good 0 dims {} zerobad 0
+LATTICE 4949 components 1 good 0 dims {} zerobad 0
+LATTICE 4959 components 2 good 0 dims {} zerobad 0
+LATTICE 4969 components 2 good 0 dims {} zerobad 0
+LATTICE 4979 NONREAL
+LATTICE 4989 components 1 good 0 dims {} zerobad 0
+LATTICE 4999 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 5009 components 5 good 0 dims {} zerobad 0
+LATTICE 5019 components 2 good 0 dims {} zerobad 0
+LATTICE 5029 NONREAL
+LATTICE 5039 NONREAL
+LATTICE 5049 components 2 good 0 dims {} zerobad 0
+LATTICE 5059 components 2 good 0 dims {} zerobad 0
+LATTICE 5069 components 2 good 0 dims {} zerobad 0
+LATTICE 5079 components 2 good 0 dims {} zerobad 0
+LATTICE 5089 NONREAL
+LATTICE 5099 components 2 good 0 dims {} zerobad 0
+LATTICE 5109 components 2 good 0 dims {} zerobad 0
+LATTICE 5119 components 3 good 0 dims {} zerobad 0
+LATTICE 5129 components 1 good 0 dims {} zerobad 0
+LATTICE 5139 components 1 good 0 dims {} zerobad 0
+LATTICE 5149 components 2 good 0 dims {} zerobad 0
+LATTICE 5159 components 1 good 0 dims {} zerobad 0
+LATTICE 5169 components 1 good 0 dims {} zerobad 0
+LATTICE 5179 components 2 good 0 dims {} zerobad 0
+LATTICE 5189 components 2 good 0 dims {} zerobad 0
+LATTICE 5199 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 5209 components 1 good 0 dims {} zerobad 0
+LATTICE 5219 NONREAL
+LATTICE 5229 NONREAL
+LATTICE 5239 components 1 good 0 dims {} zerobad 0
+LATTICE 5249 components 1 good 0 dims {} zerobad 0
+LATTICE 5259 NONREAL
+LATTICE 5269 components 2 good 0 dims {} zerobad 0
+LATTICE 5279 NONREAL
+LATTICE 5289 components 2 good 0 dims {} zerobad 0
+LATTICE 5299 components 1 good 0 dims {} zerobad 0
+LATTICE 5309 NONREAL
+LATTICE 5319 components 1 good 0 dims {} zerobad 0
+LATTICE 5329 components 2 good 0 dims {} zerobad 0
+LATTICE 5339 components 2 good 0 dims {} zerobad 0
+LATTICE 5349 components 1 good 0 dims {} zerobad 0
+LATTICE 5359 NONREAL
+LATTICE 5369 components 3 good 0 dims {} zerobad 0
+LATTICE 5379 components 2 good 0 dims {} zerobad 0
+LATTICE 5389 components 3 good 0 dims {} zerobad 0
+LATTICE 5399 NONREAL
+DONE
+LATTICE 5409 components 1 good 0 dims {} zerobad 0
+LATTICE 5419 components 1 good 0 dims {} zerobad 0
+LATTICE 5429 components 1 good 0 dims {} zerobad 0
+LATTICE 5439 components 2 good 0 dims {} zerobad 0
+LATTICE 5449 components 1 good 0 dims {} zerobad 0
+LATTICE 5459 components 1 good 0 dims {} zerobad 0
+LATTICE 5469 NONREAL
+LATTICE 5479 components 1 good 0 dims {} zerobad 0
+LATTICE 5489 components 1 good 0 dims {} zerobad 0
+LATTICE 5499 NONREAL
+LATTICE 5509 components 2 good 0 dims {} zerobad 0
+LATTICE 5519 components 2 good 0 dims {} zerobad 0
+LATTICE 5529 NONREAL
+LATTICE 5539 components 2 good 0 dims {} zerobad 0
+LATTICE 5549 components 3 good 0 dims {} zerobad 0
+LATTICE 5559 components 1 good 0 dims {} zerobad 0
+LATTICE 5569 components 2 good 0 dims {} zerobad 0
+LATTICE 5579 components 3 good 0 dims {} zerobad 0
+LATTICE 5589 components 2 good 0 dims {} zerobad 0
+LATTICE 5599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 5609 components 1 good 0 dims {} zerobad 0
+LATTICE 5619 components 1 good 0 dims {} zerobad 0
+LATTICE 5629 components 1 good 0 dims {} zerobad 0
+LATTICE 5639 components 1 good 0 dims {} zerobad 0
+LATTICE 5649 components 1 good 0 dims {} zerobad 0
+LATTICE 5659 NONREAL
+LATTICE 5669 components 2 good 0 dims {} zerobad 0
+LATTICE 5679 components 2 good 0 dims {} zerobad 0
+LATTICE 5689 components 1 good 0 dims {} zerobad 0
+LATTICE 5699 components 1 good 0 dims {} zerobad 0
+LATTICE 5709 components 1 good 0 dims {} zerobad 0
+LATTICE 5719 components 2 good 0 dims {} zerobad 0
+LATTICE 5729 components 1 good 0 dims {} zerobad 0
+LATTICE 5739 components 1 good 0 dims {} zerobad 0
+LATTICE 5749 components 2 good 0 dims {} zerobad 0
+LATTICE 5759 components 1 good 0 dims {} zerobad 0
+LATTICE 5769 components 3 good 0 dims {} zerobad 0
+LATTICE 5779 components 3 good 0 dims {} zerobad 0
+LATTICE 5789 components 3 good 0 dims {} zerobad 0
+LATTICE 5799 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 5809 components 1 good 0 dims {} zerobad 0
+LATTICE 5819 components 2 good 0 dims {} zerobad 0
+LATTICE 5829 components 1 good 0 dims {} zerobad 0
+LATTICE 5839 components 2 good 0 dims {} zerobad 0
+LATTICE 5849 components 1 good 0 dims {} zerobad 0
+LATTICE 5859 components 4 good 0 dims {} zerobad 0
+LATTICE 5869 components 1 good 0 dims {} zerobad 0
+LATTICE 5879 components 1 good 0 dims {} zerobad 0
+LATTICE 5889 components 1 good 0 dims {} zerobad 0
+LATTICE 5899 components 2 good 0 dims {} zerobad 0
+LATTICE 5909 components 2 good 0 dims {} zerobad 0
+LATTICE 5919 components 2 good 0 dims {} zerobad 0
+LATTICE 5929 components 2 good 0 dims {} zerobad 0
+LATTICE 5939 components 1 good 0 dims {} zerobad 0
+LATTICE 5949 components 2 good 0 dims {} zerobad 0
+LATTICE 5959 components 3 good 0 dims {} zerobad 0
+LATTICE 5969 components 2 good 0 dims {} zerobad 0
+LATTICE 5979 components 2 good 0 dims {} zerobad 0
+LATTICE 5989 components 2 good 0 dims {} zerobad 0
+LATTICE 5999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 6009 components 2 good 0 dims {} zerobad 0
+LATTICE 6019 components 2 good 0 dims {} zerobad 0
+LATTICE 6029 components 1 good 0 dims {} zerobad 0
+LATTICE 6039 components 1 good 0 dims {} zerobad 0
+LATTICE 6049 NONREAL
+LATTICE 6059 components 1 good 0 dims {} zerobad 0
+LATTICE 6069 components 3 good 0 dims {} zerobad 0
+LATTICE 6079 components 3 good 0 dims {} zerobad 0
+LATTICE 6089 components 3 good 0 dims {} zerobad 0
+LATTICE 6099 components 1 good 0 dims {} zerobad 0
+LATTICE 6109 components 1 good 0 dims {} zerobad 0
+LATTICE 6119 components 2 good 0 dims {} zerobad 0
+LATTICE 6129 NONREAL
+LATTICE 6139 components 1 good 0 dims {} zerobad 0
+LATTICE 6149 components 1 good 0 dims {} zerobad 0
+LATTICE 6159 components 2 good 0 dims {} zerobad 0
+LATTICE 6169 components 1 good 0 dims {} zerobad 0
+LATTICE 6179 components 1 good 0 dims {} zerobad 0
+LATTICE 6189 components 1 good 0 dims {} zerobad 0
+LATTICE 6199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 6209 components 1 good 0 dims {} zerobad 0
+LATTICE 6219 components 2 good 0 dims {} zerobad 0
+LATTICE 6229 components 3 good 0 dims {} zerobad 0
+LATTICE 6239 components 1 good 0 dims {} zerobad 0
+LATTICE 6249 components 4 good 0 dims {} zerobad 0
+LATTICE 6259 components 1 good 0 dims {} zerobad 0
+LATTICE 6269 components 2 good 0 dims {} zerobad 0
+LATTICE 6279 components 3 good 0 dims {} zerobad 0
+LATTICE 6289 components 2 good 0 dims {} zerobad 0
+LATTICE 6299 components 2 good 0 dims {} zerobad 0
+LATTICE 6309 components 1 good 0 dims {} zerobad 0
+LATTICE 6319 components 1 good 0 dims {} zerobad 0
+LATTICE 6329 NONREAL
+LATTICE 6339 components 1 good 0 dims {} zerobad 0
+LATTICE 6349 components 1 good 0 dims {} zerobad 0
+LATTICE 6359 components 2 good 0 dims {} zerobad 0
+LATTICE 6369 components 1 good 0 dims {} zerobad 0
+LATTICE 6379 components 2 good 0 dims {} zerobad 0
+LATTICE 6389 NONREAL
+LATTICE 6399 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 6409 components 1 good 0 dims {} zerobad 0
+LATTICE 6419 components 2 good 0 dims {} zerobad 0
+LATTICE 6429 NONREAL
+LATTICE 6439 components 2 good 0 dims {} zerobad 0
+LATTICE 6449 components 1 good 0 dims {} zerobad 0
+LATTICE 6459 components 1 good 0 dims {} zerobad 0
+LATTICE 6469 components 2 good 0 dims {} zerobad 0
+LATTICE 6479 components 1 good 0 dims {} zerobad 0
+LATTICE 6489 components 2 good 0 dims {} zerobad 0
+LATTICE 6499 components 1 good 0 dims {} zerobad 0
+LATTICE 6509 components 1 good 0 dims {} zerobad 0
+LATTICE 6519 components 2 good 0 dims {} zerobad 0
+LATTICE 6529 components 2 good 0 dims {} zerobad 0
+LATTICE 6539 components 3 good 0 dims {} zerobad 0
+LATTICE 6549 components 1 good 0 dims {} zerobad 0
+LATTICE 6559 components 1 good 0 dims {} zerobad 0
+LATTICE 6569 components 1 good 0 dims {} zerobad 0
+LATTICE 6579 components 2 good 0 dims {} zerobad 0
+LATTICE 6589 components 2 good 0 dims {} zerobad 0
+LATTICE 6599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 6609 components 1 good 0 dims {} zerobad 0
+LATTICE 6619 components 2 good 0 dims {} zerobad 0
+LATTICE 6629 components 1 good 0 dims {} zerobad 0
+LATTICE 6639 components 2 good 0 dims {} zerobad 0
+LATTICE 6649 components 2 good 0 dims {} zerobad 0
+LATTICE 6659 NONREAL
+LATTICE 6669 components 2 good 0 dims {} zerobad 0
+LATTICE 6679 components 2 good 0 dims {} zerobad 0
+LATTICE 6689 components 4 good 0 dims {} zerobad 0
+LATTICE 6699 components 2 good 0 dims {} zerobad 0
+LATTICE 6709 components 2 good 0 dims {} zerobad 0
+LATTICE 6719 components 1 good 0 dims {} zerobad 0
+LATTICE 6729 components 2 good 0 dims {} zerobad 0
+LATTICE 6739 components 1 good 0 dims {} zerobad 0
+LATTICE 6749 NONREAL
+LATTICE 6759 components 2 good 0 dims {} zerobad 0
+LATTICE 6769 components 3 good 0 dims {} zerobad 0
+LATTICE 6779 components 1 good 0 dims {} zerobad 0
+LATTICE 6789 components 2 good 0 dims {} zerobad 0
+LATTICE 6799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 6809 components 1 good 0 dims {} zerobad 0
+LATTICE 6819 components 1 good 0 dims {} zerobad 0
+LATTICE 6829 components 2 good 0 dims {} zerobad 0
+LATTICE 6839 NONREAL
+LATTICE 6849 components 3 good 0 dims {} zerobad 0
+LATTICE 6859 components 2 good 0 dims {} zerobad 0
+LATTICE 6869 components 2 good 0 dims {} zerobad 0
+LATTICE 6879 components 2 good 0 dims {} zerobad 0
+LATTICE 6889 components 1 good 0 dims {} zerobad 0
+LATTICE 6899 components 1 good 0 dims {} zerobad 0
+LATTICE 6909 components 2 good 0 dims {} zerobad 0
+LATTICE 6919 components 1 good 0 dims {} zerobad 0
+LATTICE 6929 components 1 good 0 dims {} zerobad 0
+LATTICE 6939 components 2 good 0 dims {} zerobad 0
+LATTICE 6949 components 1 good 0 dims {} zerobad 0
+LATTICE 6959 components 1 good 0 dims {} zerobad 0
+LATTICE 6969 components 2 good 0 dims {} zerobad 0
+LATTICE 6979 components 2 good 0 dims {} zerobad 0
+LATTICE 6989 components 4 good 0 dims {} zerobad 0
+LATTICE 6999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 7009 components 1 good 0 dims {} zerobad 0
+LATTICE 7019 components 1 good 0 dims {} zerobad 0
+LATTICE 7029 components 1 good 0 dims {} zerobad 0
+LATTICE 7039 components 1 good 0 dims {} zerobad 0
+LATTICE 7049 components 1 good 0 dims {} zerobad 0
+LATTICE 7059 components 2 good 0 dims {} zerobad 0
+LATTICE 7069 components 1 good 0 dims {} zerobad 0
+LATTICE 7079 NONREAL
+LATTICE 7089 components 2 good 0 dims {} zerobad 0
+LATTICE 7099 components 2 good 0 dims {} zerobad 0
+LATTICE 7109 components 2 good 0 dims {} zerobad 0
+LATTICE 7119 components 1 good 0 dims {} zerobad 0
+LATTICE 7129 components 3 good 0 dims {} zerobad 0
+LATTICE 7139 components 1 good 0 dims {} zerobad 0
+LATTICE 7149 NONREAL
+LATTICE 7159 components 2 good 0 dims {} zerobad 0
+LATTICE 7169 components 1 good 0 dims {} zerobad 0
+LATTICE 7179 components 2 good 0 dims {} zerobad 0
+LATTICE 7189 components 1 good 0 dims {} zerobad 0
+LATTICE 7199 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 7209 components 1 good 0 dims {} zerobad 0
+LATTICE 7219 components 2 good 0 dims {} zerobad 0
+LATTICE 7229 components 2 good 0 dims {} zerobad 0
+LATTICE 7239 components 2 good 0 dims {} zerobad 0
+LATTICE 7249 components 2 good 0 dims {} zerobad 0
+LATTICE 7259 components 1 good 0 dims {} zerobad 0
+LATTICE 7269 components 2 good 0 dims {} zerobad 0
+LATTICE 7279 components 2 good 0 dims {} zerobad 0
+LATTICE 7289 components 1 good 0 dims {} zerobad 0
+LATTICE 7299 components 1 good 0 dims {} zerobad 0
+LATTICE 7309 components 2 good 0 dims {} zerobad 0
+LATTICE 7319 components 1 good 0 dims {} zerobad 0
+LATTICE 7329 components 2 good 0 dims {} zerobad 0
+LATTICE 7339 components 2 good 0 dims {} zerobad 0
+LATTICE 7349 components 2 good 0 dims {} zerobad 0
+LATTICE 7359 NONREAL
+LATTICE 7369 components 3 good 0 dims {} zerobad 0
+LATTICE 7379 components 3 good 0 dims {} zerobad 0
+LATTICE 7389 components 1 good 0 dims {} zerobad 0
+LATTICE 7399 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 7409 components 1 good 0 dims {} zerobad 0
+LATTICE 7419 components 1 good 0 dims {} zerobad 0
+LATTICE 7429 components 2 good 0 dims {} zerobad 0
+LATTICE 7439 NONREAL
+LATTICE 7449 components 2 good 0 dims {} zerobad 0
+LATTICE 7459 components 2 good 0 dims {} zerobad 0
+LATTICE 7469 components 1 good 0 dims {} zerobad 0
+LATTICE 7479 components 1 good 0 dims {} zerobad 0
+LATTICE 7489 components 1 good 0 dims {} zerobad 0
+LATTICE 7499 components 1 good 0 dims {} zerobad 0
+LATTICE 7509 components 1 good 0 dims {} zerobad 0
+LATTICE 7519 components 2 good 0 dims {} zerobad 0
+LATTICE 7529 components 1 good 0 dims {} zerobad 0
+LATTICE 7539 components 1 good 0 dims {} zerobad 0
+LATTICE 7549 components 1 good 0 dims {} zerobad 0
+LATTICE 7559 components 2 good 0 dims {} zerobad 0
+LATTICE 7569 components 2 good 0 dims {} zerobad 0
+LATTICE 7579 NONREAL
+LATTICE 7589 components 1 good 0 dims {} zerobad 0
+LATTICE 7599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 7609 components 1 good 0 dims {} zerobad 0
+LATTICE 7619 components 1 good 0 dims {} zerobad 0
+LATTICE 7629 NONREAL
+LATTICE 7639 components 2 good 0 dims {} zerobad 0
+LATTICE 7649 components 2 good 0 dims {} zerobad 0
+LATTICE 7659 components 1 good 0 dims {} zerobad 0
+LATTICE 7669 components 2 good 0 dims {} zerobad 0
+LATTICE 7679 components 1 good 0 dims {} zerobad 0
+LATTICE 7689 components 2 good 0 dims {} zerobad 0
+LATTICE 7699 components 1 good 0 dims {} zerobad 0
+LATTICE 7709 components 2 good 0 dims {} zerobad 0
+LATTICE 7719 components 2 good 0 dims {} zerobad 0
+LATTICE 7729 components 1 good 0 dims {} zerobad 0
+LATTICE 7739 components 1 good 0 dims {} zerobad 0
+LATTICE 7749 components 2 good 0 dims {} zerobad 0
+LATTICE 7759 components 2 good 0 dims {} zerobad 0
+LATTICE 7769 NONREAL
+LATTICE 7779 components 2 good 0 dims {} zerobad 0
+LATTICE 7789 components 2 good 0 dims {} zerobad 0
+LATTICE 7799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 7809 components 2 good 0 dims {} zerobad 0
+LATTICE 7819 NONREAL
+LATTICE 7829 components 1 good 0 dims {} zerobad 0
+LATTICE 7839 components 2 good 0 dims {} zerobad 0
+LATTICE 7849 components 3 good 0 dims {} zerobad 0
+LATTICE 7859 NONREAL
+LATTICE 7869 components 1 good 0 dims {} zerobad 0
+LATTICE 7879 components 1 good 0 dims {} zerobad 0
+LATTICE 7889 components 2 good 0 dims {} zerobad 0
+LATTICE 7899 components 1 good 0 dims {} zerobad 0
+LATTICE 7909 NONREAL
+LATTICE 7919 components 1 good 0 dims {} zerobad 0
+LATTICE 7929 components 2 good 0 dims {} zerobad 0
+LATTICE 7939 components 2 good 0 dims {} zerobad 0
+LATTICE 7949 components 2 good 0 dims {} zerobad 0
+LATTICE 7959 components 1 good 0 dims {} zerobad 0
+LATTICE 7969 NONREAL
+LATTICE 7979 components 1 good 0 dims {} zerobad 0
+LATTICE 7989 components 1 good 0 dims {} zerobad 0
+LATTICE 7999 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 8009 components 2 good 0 dims {} zerobad 0
+LATTICE 8019 components 1 good 0 dims {} zerobad 0
+LATTICE 8029 components 2 good 0 dims {} zerobad 0
+LATTICE 8039 NONREAL
+LATTICE 8049 components 2 good 0 dims {} zerobad 0
+LATTICE 8059 components 2 good 0 dims {} zerobad 0
+LATTICE 8069 components 2 good 0 dims {} zerobad 0
+LATTICE 8079 components 1 good 0 dims {} zerobad 0
+LATTICE 8089 components 2 good 0 dims {} zerobad 0
+LATTICE 8099 components 1 good 0 dims {} zerobad 0
+LATTICE 8109 components 1 good 0 dims {} zerobad 0
+LATTICE 8119 components 2 good 0 dims {} zerobad 0
+LATTICE 8129 components 1 good 0 dims {} zerobad 0
+LATTICE 8139 components 1 good 0 dims {} zerobad 0
+LATTICE 8149 components 1 good 0 dims {} zerobad 0
+LATTICE 8159 components 1 good 0 dims {} zerobad 0
+LATTICE 8169 components 2 good 0 dims {} zerobad 0
+LATTICE 8179 components 2 good 0 dims {} zerobad 0
+LATTICE 8189 components 2 good 0 dims {} zerobad 0
+LATTICE 8199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 8209 NONREAL
+LATTICE 8219 components 1 good 0 dims {} zerobad 0
+LATTICE 8229 components 4 good 0 dims {} zerobad 0
+LATTICE 8239 NONREAL
+LATTICE 8249 components 3 good 0 dims {} zerobad 0
+LATTICE 8259 NONREAL
+LATTICE 8269 components 1 good 0 dims {} zerobad 0
+LATTICE 8279 components 2 good 0 dims {} zerobad 0
+LATTICE 8289 components 2 good 0 dims {} zerobad 0
+LATTICE 8299 NONREAL
+LATTICE 8309 components 1 good 0 dims {} zerobad 0
+LATTICE 8319 components 2 good 0 dims {} zerobad 0
+LATTICE 8329 components 1 good 0 dims {} zerobad 0
+LATTICE 8339 components 3 good 0 dims {} zerobad 0
+LATTICE 8349 NONREAL
+LATTICE 8359 components 1 good 0 dims {} zerobad 0
+LATTICE 8369 components 3 good 0 dims {} zerobad 0
+LATTICE 8379 components 1 good 0 dims {} zerobad 0
+LATTICE 8389 components 3 good 0 dims {} zerobad 0
+LATTICE 8399 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 8409 components 1 good 0 dims {} zerobad 0
+LATTICE 8419 components 2 good 0 dims {} zerobad 0
+LATTICE 8429 NONREAL
+LATTICE 8439 components 2 good 0 dims {} zerobad 0
+LATTICE 8449 components 1 good 0 dims {} zerobad 0
+LATTICE 8459 NONREAL
+LATTICE 8469 components 2 good 0 dims {} zerobad 0
+LATTICE 8479 components 1 good 0 dims {} zerobad 0
+LATTICE 8489 components 1 good 0 dims {} zerobad 0
+LATTICE 8499 components 1 good 0 dims {} zerobad 0
+LATTICE 8509 components 1 good 0 dims {} zerobad 0
+LATTICE 8519 components 1 good 0 dims {} zerobad 0
+LATTICE 8529 components 1 good 0 dims {} zerobad 0
+LATTICE 8539 NONREAL
+LATTICE 8549 components 1 good 0 dims {} zerobad 0
+LATTICE 8559 components 1 good 0 dims {} zerobad 0
+LATTICE 8569 components 1 good 0 dims {} zerobad 0
+LATTICE 8579 components 2 good 0 dims {} zerobad 0
+LATTICE 8589 components 2 good 0 dims {} zerobad 0
+LATTICE 8599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 8609 components 1 good 0 dims {} zerobad 0
+LATTICE 8619 components 2 good 0 dims {} zerobad 0
+LATTICE 8629 components 1 good 0 dims {} zerobad 0
+LATTICE 8639 components 1 good 0 dims {} zerobad 0
+LATTICE 8649 components 1 good 0 dims {} zerobad 0
+LATTICE 8659 components 3 good 0 dims {} zerobad 0
+LATTICE 8669 components 2 good 0 dims {} zerobad 0
+LATTICE 8679 components 1 good 0 dims {} zerobad 0
+LATTICE 8689 components 1 good 0 dims {} zerobad 0
+LATTICE 8699 components 1 good 0 dims {} zerobad 0
+LATTICE 8709 components 1 good 0 dims {} zerobad 0
+LATTICE 8719 components 2 good 0 dims {} zerobad 0
+LATTICE 8729 components 1 good 0 dims {} zerobad 0
+LATTICE 8739 components 1 good 0 dims {} zerobad 0
+LATTICE 8749 components 1 good 0 dims {} zerobad 0
+LATTICE 8759 components 2 good 0 dims {} zerobad 0
+LATTICE 8769 NONREAL
+LATTICE 8779 components 1 good 0 dims {} zerobad 0
+LATTICE 8789 components 1 good 0 dims {} zerobad 0
+LATTICE 8799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 8809 components 4 good 0 dims {} zerobad 0
+LATTICE 8819 NONREAL
+LATTICE 8829 components 2 good 0 dims {} zerobad 0
+LATTICE 8839 NONREAL
+LATTICE 8849 components 1 good 0 dims {} zerobad 0
+LATTICE 8859 components 2 good 0 dims {} zerobad 0
+LATTICE 8869 NONREAL
+LATTICE 8879 components 1 good 0 dims {} zerobad 0
+LATTICE 8889 components 2 good 0 dims {} zerobad 0
+LATTICE 8899 components 1 good 0 dims {} zerobad 0
+LATTICE 8909 components 1 good 0 dims {} zerobad 0
+LATTICE 8919 components 1 good 0 dims {} zerobad 0
+LATTICE 8929 components 2 good 0 dims {} zerobad 0
+LATTICE 8939 components 1 good 0 dims {} zerobad 0
+LATTICE 8949 components 2 good 0 dims {} zerobad 0
+LATTICE 8959 components 2 good 0 dims {} zerobad 0
+LATTICE 8969 components 1 good 0 dims {} zerobad 0
+LATTICE 8979 NONREAL
+LATTICE 8989 components 2 good 0 dims {} zerobad 0
+LATTICE 8999 NONREAL
+DONE
+LATTICE 9009 components 2 good 0 dims {} zerobad 0
+LATTICE 9019 components 1 good 0 dims {} zerobad 0
+LATTICE 9029 components 1 good 0 dims {} zerobad 0
+LATTICE 9039 components 1 good 0 dims {} zerobad 0
+LATTICE 9049 components 2 good 0 dims {} zerobad 0
+LATTICE 9059 components 1 good 0 dims {} zerobad 0
+LATTICE 9069 components 1 good 0 dims {} zerobad 0
+LATTICE 9079 components 1 good 0 dims {} zerobad 0
+LATTICE 9089 components 2 good 0 dims {} zerobad 0
+LATTICE 9099 components 2 good 0 dims {} zerobad 0
+LATTICE 9109 components 1 good 0 dims {} zerobad 0
+LATTICE 9119 NONREAL
+LATTICE 9129 NONREAL
+LATTICE 9139 components 1 good 0 dims {} zerobad 0
+LATTICE 9149 components 3 good 0 dims {} zerobad 0
+LATTICE 9159 components 2 good 0 dims {} zerobad 0
+LATTICE 9169 components 2 good 0 dims {} zerobad 0
+LATTICE 9179 NONREAL
+LATTICE 9189 components 3 good 0 dims {} zerobad 0
+LATTICE 9199 NONREAL
+DONE
+LATTICE 9209 components 1 good 0 dims {} zerobad 0
+LATTICE 9219 components 2 good 0 dims {} zerobad 0
+LATTICE 9229 components 2 good 0 dims {} zerobad 0
+LATTICE 9239 components 1 good 0 dims {} zerobad 0
+LATTICE 9249 components 4 good 0 dims {} zerobad 0
+LATTICE 9259 components 1 good 0 dims {} zerobad 0
+LATTICE 9269 components 1 good 0 dims {} zerobad 0
+LATTICE 9279 components 1 good 0 dims {} zerobad 0
+LATTICE 9289 components 2 good 0 dims {} zerobad 0
+LATTICE 9299 components 3 good 0 dims {} zerobad 0
+LATTICE 9309 components 1 good 0 dims {} zerobad 0
+LATTICE 9319 components 2 good 0 dims {} zerobad 0
+LATTICE 9329 components 2 good 0 dims {} zerobad 0
+LATTICE 9339 components 2 good 0 dims {} zerobad 0
+LATTICE 9349 NONREAL
+LATTICE 9359 components 2 good 0 dims {} zerobad 0
+LATTICE 9369 components 2 good 0 dims {} zerobad 0
+LATTICE 9379 components 1 good 0 dims {} zerobad 0
+LATTICE 9389 components 2 good 0 dims {} zerobad 0
+LATTICE 9399 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 9409 components 1 good 0 dims {} zerobad 0
+LATTICE 9419 components 1 good 0 dims {} zerobad 0
+LATTICE 9429 components 2 good 0 dims {} zerobad 0
+LATTICE 9439 components 3 good 0 dims {} zerobad 0
+LATTICE 9449 components 2 good 0 dims {} zerobad 0
+LATTICE 9459 components 1 good 0 dims {} zerobad 0
+LATTICE 9469 components 2 good 0 dims {} zerobad 0
+LATTICE 9479 components 2 good 0 dims {} zerobad 0
+LATTICE 9489 components 1 good 0 dims {} zerobad 0
+LATTICE 9499 components 2 good 0 dims {} zerobad 0
+LATTICE 9509 components 2 good 0 dims {} zerobad 0
+LATTICE 9519 components 1 good 0 dims {} zerobad 0
+LATTICE 9529 components 1 good 0 dims {} zerobad 0
+LATTICE 9539 components 1 good 0 dims {} zerobad 0
+LATTICE 9549 components 1 good 0 dims {} zerobad 0
+LATTICE 9559 components 1 good 0 dims {} zerobad 0
+LATTICE 9569 components 1 good 0 dims {} zerobad 0
+LATTICE 9579 components 2 good 0 dims {} zerobad 0
+LATTICE 9589 components 1 good 0 dims {} zerobad 0
+LATTICE 9599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 9609 components 1 good 0 dims {} zerobad 0
+LATTICE 9619 components 1 good 0 dims {} zerobad 0
+LATTICE 9629 components 2 good 0 dims {} zerobad 0
+LATTICE 9639 components 1 good 0 dims {} zerobad 0
+LATTICE 9649 components 1 good 0 dims {} zerobad 0
+LATTICE 9659 components 3 good 0 dims {} zerobad 0
+LATTICE 9669 NONREAL
+LATTICE 9679 components 1 good 0 dims {} zerobad 0
+LATTICE 9689 components 3 good 0 dims {} zerobad 0
+LATTICE 9699 components 1 good 0 dims {} zerobad 0
+LATTICE 9709 NONREAL
+LATTICE 9719 components 2 good 0 dims {} zerobad 0
+LATTICE 9729 components 1 good 0 dims {} zerobad 0
+LATTICE 9739 components 3 good 0 dims {} zerobad 0
+LATTICE 9749 components 2 good 0 dims {} zerobad 0
+LATTICE 9759 components 3 good 0 dims {} zerobad 0
+LATTICE 9769 components 1 good 0 dims {} zerobad 0
+LATTICE 9779 components 2 good 0 dims {} zerobad 0
+LATTICE 9789 components 1 good 0 dims {} zerobad 0
+LATTICE 9799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 9809 components 3 good 0 dims {} zerobad 0
+LATTICE 9819 NONREAL
+LATTICE 9829 components 1 good 0 dims {} zerobad 0
+LATTICE 9839 components 1 good 0 dims {} zerobad 0
+LATTICE 9849 components 2 good 0 dims {} zerobad 0
+LATTICE 9859 components 1 good 0 dims {} zerobad 0
+LATTICE 9869 components 3 good 0 dims {} zerobad 0
+LATTICE 9879 components 1 good 0 dims {} zerobad 0
+LATTICE 9889 components 2 good 0 dims {} zerobad 0
+LATTICE 9899 components 1 good 0 dims {} zerobad 0
+LATTICE 9909 components 1 good 0 dims {} zerobad 0
+LATTICE 9919 components 2 good 0 dims {} zerobad 0
+LATTICE 9929 components 1 good 0 dims {} zerobad 0
+LATTICE 9939 components 1 good 0 dims {} zerobad 0
+LATTICE 9949 components 2 good 0 dims {} zerobad 0
+LATTICE 9959 components 1 good 0 dims {} zerobad 0
+LATTICE 9969 components 1 good 0 dims {} zerobad 0
+LATTICE 9979 components 2 good 0 dims {} zerobad 0
+LATTICE 9989 components 1 good 0 dims {} zerobad 0
+LATTICE 9999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 10009 components 1 good 0 dims {} zerobad 0
+LATTICE 10019 components 1 good 0 dims {} zerobad 0
+LATTICE 10029 components 1 good 0 dims {} zerobad 0
+LATTICE 10039 components 2 good 0 dims {} zerobad 0
+LATTICE 10049 components 1 good 0 dims {} zerobad 0
+LATTICE 10059 components 2 good 0 dims {} zerobad 0
+LATTICE 10069 components 2 good 0 dims {} zerobad 0
+LATTICE 10079 components 1 good 0 dims {} zerobad 0
+LATTICE 10089 components 1 good 0 dims {} zerobad 0
+LATTICE 10099 components 3 good 0 dims {} zerobad 0
+LATTICE 10109 components 2 good 0 dims {} zerobad 0
+LATTICE 10119 components 2 good 0 dims {} zerobad 0
+LATTICE 10129 components 1 good 0 dims {} zerobad 0
+LATTICE 10139 components 1 good 0 dims {} zerobad 0
+LATTICE 10149 components 2 good 0 dims {} zerobad 0
+LATTICE 10159 components 2 good 0 dims {} zerobad 0
+LATTICE 10169 components 1 good 0 dims {} zerobad 0
+LATTICE 10179 components 2 good 0 dims {} zerobad 0
+LATTICE 10189 components 1 good 0 dims {} zerobad 0
+LATTICE 10199 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 10209 components 1 good 0 dims {} zerobad 0
+LATTICE 10219 components 3 good 0 dims {} zerobad 0
+LATTICE 10229 components 2 good 0 dims {} zerobad 0
+LATTICE 10239 NONREAL
+LATTICE 10249 components 1 good 0 dims {} zerobad 0
+LATTICE 10259 components 1 good 0 dims {} zerobad 0
+LATTICE 10269 components 1 good 0 dims {} zerobad 0
+LATTICE 10279 components 2 good 0 dims {} zerobad 0
+LATTICE 10289 components 1 good 0 dims {} zerobad 0
+LATTICE 10299 components 1 good 0 dims {} zerobad 0
+LATTICE 10309 components 1 good 0 dims {} zerobad 0
+LATTICE 10319 components 3 good 0 dims {} zerobad 0
+LATTICE 10329 components 2 good 0 dims {} zerobad 0
+LATTICE 10339 components 2 good 0 dims {} zerobad 0
+LATTICE 10349 components 1 good 0 dims {} zerobad 0
+LATTICE 10359 components 2 good 0 dims {} zerobad 0
+LATTICE 10369 components 1 good 0 dims {} zerobad 0
+LATTICE 10379 components 1 good 0 dims {} zerobad 0
+LATTICE 10389 components 2 good 0 dims {} zerobad 0
+LATTICE 10399 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 10409 components 1 good 0 dims {} zerobad 0
+LATTICE 10419 components 1 good 0 dims {} zerobad 0
+LATTICE 10429 components 4 good 0 dims {} zerobad 0
+LATTICE 10439 components 1 good 0 dims {} zerobad 0
+LATTICE 10449 components 3 good 0 dims {} zerobad 0
+LATTICE 10459 NONREAL
+LATTICE 10469 components 1 good 0 dims {} zerobad 0
+LATTICE 10479 components 1 good 0 dims {} zerobad 0
+LATTICE 10489 components 2 good 0 dims {} zerobad 0
+LATTICE 10499 components 3 good 0 dims {} zerobad 0
+LATTICE 10509 components 1 good 0 dims {} zerobad 0
+LATTICE 10519 components 1 good 0 dims {} zerobad 0
+LATTICE 10529 components 1 good 0 dims {} zerobad 0
+LATTICE 10539 components 2 good 0 dims {} zerobad 0
+LATTICE 10549 components 1 good 0 dims {} zerobad 0
+LATTICE 10559 components 2 good 0 dims {} zerobad 0
+LATTICE 10569 components 2 good 0 dims {} zerobad 0
+LATTICE 10579 components 2 good 0 dims {} zerobad 0
+LATTICE 10589 components 2 good 0 dims {} zerobad 0
+LATTICE 10599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 10609 components 2 good 0 dims {} zerobad 0
+LATTICE 10619 components 1 good 0 dims {} zerobad 0
+LATTICE 10629 components 2 good 0 dims {} zerobad 0
+LATTICE 10639 components 2 good 0 dims {} zerobad 0
+LATTICE 10649 components 2 good 0 dims {} zerobad 0
+LATTICE 10659 components 2 good 0 dims {} zerobad 0
+LATTICE 10669 components 1 good 0 dims {} zerobad 0
+LATTICE 10679 components 1 good 0 dims {} zerobad 0
+LATTICE 10689 components 2 good 0 dims {} zerobad 0
+LATTICE 10699 components 1 good 0 dims {} zerobad 0
+LATTICE 10709 components 1 good 0 dims {} zerobad 0
+LATTICE 10719 NONREAL
+LATTICE 10729 NONREAL
+LATTICE 10739 NONREAL
+LATTICE 10749 components 1 good 0 dims {} zerobad 0
+LATTICE 10759 components 3 good 0 dims {} zerobad 0
+LATTICE 10769 components 2 good 0 dims {} zerobad 0
+LATTICE 10779 components 2 good 0 dims {} zerobad 0
+LATTICE 10789 components 2 good 0 dims {} zerobad 0
+LATTICE 10799 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 10809 components 2 good 0 dims {} zerobad 0
+LATTICE 10819 components 2 good 0 dims {} zerobad 0
+LATTICE 10829 components 1 good 0 dims {} zerobad 0
+LATTICE 10839 components 2 good 0 dims {} zerobad 0
+LATTICE 10849 components 1 good 0 dims {} zerobad 0
+LATTICE 10859 components 1 good 0 dims {} zerobad 0
+LATTICE 10869 components 1 good 0 dims {} zerobad 0
+LATTICE 10879 components 2 good 0 dims {} zerobad 0
+LATTICE 10889 NONREAL
+LATTICE 10899 components 1 good 0 dims {} zerobad 0
+LATTICE 10909 components 2 good 0 dims {} zerobad 0
+LATTICE 10919 NONREAL
+LATTICE 10929 components 1 good 0 dims {} zerobad 0
+LATTICE 10939 components 2 good 0 dims {} zerobad 0
+LATTICE 10949 components 1 good 0 dims {} zerobad 0
+LATTICE 10959 NONREAL
+LATTICE 10969 components 1 good 0 dims {} zerobad 0
+LATTICE 10979 components 1 good 0 dims {} zerobad 0
+LATTICE 10989 components 1 good 0 dims {} zerobad 0
+LATTICE 10999 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 11009 components 1 good 0 dims {} zerobad 0
+LATTICE 11019 components 2 good 0 dims {} zerobad 0
+LATTICE 11029 components 1 good 0 dims {} zerobad 0
+LATTICE 11039 NONREAL
+LATTICE 11049 components 1 good 0 dims {} zerobad 0
+LATTICE 11059 components 1 good 0 dims {} zerobad 0
+LATTICE 11069 NONREAL
+LATTICE 11079 components 1 good 0 dims {} zerobad 0
+LATTICE 11089 components 2 good 0 dims {} zerobad 0
+LATTICE 11099 components 2 good 0 dims {} zerobad 0
+LATTICE 11109 components 1 good 0 dims {} zerobad 0
+LATTICE 11119 components 1 good 0 dims {} zerobad 0
+LATTICE 11129 NONREAL
+LATTICE 11139 components 1 good 0 dims {} zerobad 0
+LATTICE 11149 components 1 good 0 dims {} zerobad 0
+LATTICE 11159 NONREAL
+LATTICE 11169 components 2 good 0 dims {} zerobad 0
+LATTICE 11179 NONREAL
+LATTICE 11189 components 2 good 0 dims {} zerobad 0
+LATTICE 11199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 11209 components 2 good 0 dims {} zerobad 0
+LATTICE 11219 components 2 good 0 dims {} zerobad 0
+LATTICE 11229 components 2 good 0 dims {} zerobad 0
+LATTICE 11239 components 1 good 0 dims {} zerobad 0
+LATTICE 11249 components 2 good 0 dims {} zerobad 0
+LATTICE 11259 components 1 good 0 dims {} zerobad 0
+LATTICE 11269 components 1 good 0 dims {} zerobad 0
+LATTICE 11279 components 2 good 0 dims {} zerobad 0
+LATTICE 11289 components 2 good 0 dims {} zerobad 0
+LATTICE 11299 components 1 good 0 dims {} zerobad 0
+LATTICE 11309 NONREAL
+LATTICE 11319 components 1 good 0 dims {} zerobad 0
+LATTICE 11329 components 3 good 0 dims {} zerobad 0
+LATTICE 11339 components 1 good 0 dims {} zerobad 0
+LATTICE 11349 components 1 good 0 dims {} zerobad 0
+LATTICE 11359 components 2 good 0 dims {} zerobad 0
+LATTICE 11369 components 1 good 0 dims {} zerobad 0
+LATTICE 11379 components 2 good 0 dims {} zerobad 0
+LATTICE 11389 components 1 good 0 dims {} zerobad 0
+LATTICE 11399 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 11409 components 1 good 0 dims {} zerobad 0
+LATTICE 11419 components 4 good 0 dims {} zerobad 0
+LATTICE 11429 NONREAL
+LATTICE 11439 components 3 good 0 dims {} zerobad 0
+LATTICE 11449 components 3 good 0 dims {} zerobad 0
+LATTICE 11459 components 3 good 0 dims {} zerobad 0
+LATTICE 11469 components 2 good 0 dims {} zerobad 0
+LATTICE 11479 components 2 good 0 dims {} zerobad 0
+LATTICE 11489 components 1 good 0 dims {} zerobad 0
+LATTICE 11499 components 1 good 0 dims {} zerobad 0
+LATTICE 11509 NONREAL
+LATTICE 11519 components 1 good 0 dims {} zerobad 0
+LATTICE 11529 NONREAL
+LATTICE 11539 components 2 good 0 dims {} zerobad 0
+LATTICE 11549 components 1 good 0 dims {} zerobad 0
+LATTICE 11559 components 1 good 0 dims {} zerobad 0
+LATTICE 11569 components 2 good 0 dims {} zerobad 0
+LATTICE 11579 components 3 good 0 dims {} zerobad 0
+LATTICE 11589 components 1 good 0 dims {} zerobad 0
+LATTICE 11599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 11609 components 2 good 0 dims {} zerobad 0
+LATTICE 11619 components 3 good 0 dims {} zerobad 0
+LATTICE 11629 components 2 good 0 dims {} zerobad 0
+LATTICE 11639 components 1 good 0 dims {} zerobad 0
+LATTICE 11649 components 1 good 0 dims {} zerobad 0
+LATTICE 11659 components 1 good 0 dims {} zerobad 0
+LATTICE 11669 NONREAL
+LATTICE 11679 components 3 good 0 dims {} zerobad 0
+LATTICE 11689 components 1 good 0 dims {} zerobad 0
+LATTICE 11699 components 1 good 0 dims {} zerobad 0
+LATTICE 11709 components 3 good 0 dims {} zerobad 0
+LATTICE 11719 components 2 good 0 dims {} zerobad 0
+LATTICE 11729 components 1 good 0 dims {} zerobad 0
+LATTICE 11739 NONREAL
+LATTICE 11749 components 1 good 0 dims {} zerobad 0
+LATTICE 11759 components 2 good 0 dims {} zerobad 0
+LATTICE 11769 components 2 good 0 dims {} zerobad 0
+LATTICE 11779 components 1 good 0 dims {} zerobad 0
+LATTICE 11789 components 1 good 0 dims {} zerobad 0
+LATTICE 11799 components 4 good 0 dims {} zerobad 0
+DONE
+LATTICE 11809 components 1 good 0 dims {} zerobad 0
+LATTICE 11819 components 3 good 0 dims {} zerobad 0
+LATTICE 11829 components 2 good 0 dims {} zerobad 0
+LATTICE 11839 components 2 good 0 dims {} zerobad 0
+LATTICE 11849 components 2 good 0 dims {} zerobad 0
+LATTICE 11859 components 2 good 0 dims {} zerobad 0
+LATTICE 11869 components 1 good 0 dims {} zerobad 0
+LATTICE 11879 NONREAL
+LATTICE 11889 components 1 good 0 dims {} zerobad 0
+LATTICE 11899 components 1 good 0 dims {} zerobad 0
+LATTICE 11909 components 2 good 0 dims {} zerobad 0
+LATTICE 11919 components 2 good 0 dims {} zerobad 0
+LATTICE 11929 components 1 good 0 dims {} zerobad 0
+LATTICE 11939 components 1 good 0 dims {} zerobad 0
+LATTICE 11949 components 2 good 0 dims {} zerobad 0
+LATTICE 11959 components 2 good 0 dims {} zerobad 0
+LATTICE 11969 components 1 good 0 dims {} zerobad 0
+LATTICE 11979 NONREAL
+LATTICE 11989 components 1 good 0 dims {} zerobad 0
+LATTICE 11999 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 12009 components 1 good 0 dims {} zerobad 0
+LATTICE 12019 components 1 good 0 dims {} zerobad 0
+LATTICE 12029 components 3 good 0 dims {} zerobad 0
+LATTICE 12039 components 1 good 0 dims {} zerobad 0
+LATTICE 12049 components 3 good 0 dims {} zerobad 0
+LATTICE 12059 components 3 good 0 dims {} zerobad 0
+LATTICE 12069 components 2 good 0 dims {} zerobad 0
+LATTICE 12079 components 1 good 0 dims {} zerobad 0
+LATTICE 12089 components 1 good 0 dims {} zerobad 0
+LATTICE 12099 components 2 good 0 dims {} zerobad 0
+LATTICE 12109 components 1 good 0 dims {} zerobad 0
+LATTICE 12119 components 1 good 0 dims {} zerobad 0
+LATTICE 12129 NONREAL
+LATTICE 12139 components 2 good 0 dims {} zerobad 0
+LATTICE 12149 components 1 good 0 dims {} zerobad 0
+LATTICE 12159 components 1 good 0 dims {} zerobad 0
+LATTICE 12169 components 1 good 0 dims {} zerobad 0
+LATTICE 12179 components 3 good 0 dims {} zerobad 0
+LATTICE 12189 components 1 good 0 dims {} zerobad 0
+LATTICE 12199 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 12209 components 2 good 0 dims {} zerobad 0
+LATTICE 12219 components 2 good 0 dims {} zerobad 0
+LATTICE 12229 components 2 good 0 dims {} zerobad 0
+LATTICE 12239 components 3 good 0 dims {} zerobad 0
+LATTICE 12249 components 1 good 0 dims {} zerobad 0
+LATTICE 12259 components 1 good 0 dims {} zerobad 0
+LATTICE 12269 components 1 good 0 dims {} zerobad 0
+LATTICE 12279 components 1 good 0 dims {} zerobad 0
+LATTICE 12289 components 2 good 0 dims {} zerobad 0
+LATTICE 12299 components 3 good 0 dims {} zerobad 0
+LATTICE 12309 components 2 good 0 dims {} zerobad 0
+LATTICE 12319 components 1 good 0 dims {} zerobad 0
+LATTICE 12329 components 1 good 0 dims {} zerobad 0
+LATTICE 12339 components 2 good 0 dims {} zerobad 0
+LATTICE 12349 components 2 good 0 dims {} zerobad 0
+LATTICE 12359 components 2 good 0 dims {} zerobad 0
+LATTICE 12369 components 2 good 0 dims {} zerobad 0
+LATTICE 12379 components 2 good 0 dims {} zerobad 0
+LATTICE 12389 components 2 good 0 dims {} zerobad 0
+LATTICE 12399 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 12409 components 1 good 0 dims {} zerobad 0
+LATTICE 12419 components 2 good 0 dims {} zerobad 0
+LATTICE 12429 components 2 good 0 dims {} zerobad 0
+LATTICE 12439 components 1 good 0 dims {} zerobad 0
+LATTICE 12449 components 2 good 0 dims {} zerobad 0
+LATTICE 12459 components 2 good 0 dims {} zerobad 0
+LATTICE 12469 components 1 good 0 dims {} zerobad 0
+LATTICE 12479 components 2 good 0 dims {} zerobad 0
+LATTICE 12489 components 1 good 0 dims {} zerobad 0
+LATTICE 12499 components 1 good 0 dims {} zerobad 0
+LATTICE 12509 components 1 good 0 dims {} zerobad 0
+LATTICE 12519 components 1 good 0 dims {} zerobad 0
+LATTICE 12529 components 3 good 0 dims {} zerobad 0
+LATTICE 12539 components 2 good 0 dims {} zerobad 0
+LATTICE 12549 components 2 good 0 dims {} zerobad 0
+LATTICE 12559 components 3 good 0 dims {} zerobad 0
+LATTICE 12569 components 2 good 0 dims {} zerobad 0
+LATTICE 12579 components 1 good 0 dims {} zerobad 0
+LATTICE 12589 components 2 good 0 dims {} zerobad 0
+LATTICE 12599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 12609 components 1 good 0 dims {} zerobad 0
+LATTICE 12619 components 1 good 0 dims {} zerobad 0
+LATTICE 12629 NONREAL
+LATTICE 12639 components 1 good 0 dims {} zerobad 0
+LATTICE 12649 components 1 good 0 dims {} zerobad 0
+LATTICE 12659 components 1 good 0 dims {} zerobad 0
+LATTICE 12669 NONREAL
+LATTICE 12679 components 1 good 0 dims {} zerobad 0
+LATTICE 12689 components 1 good 0 dims {} zerobad 0
+LATTICE 12699 components 2 good 0 dims {} zerobad 0
+LATTICE 12709 components 2 good 0 dims {} zerobad 0
+LATTICE 12719 components 1 good 0 dims {} zerobad 0
+LATTICE 12729 components 1 good 0 dims {} zerobad 0
+LATTICE 12739 components 3 good 0 dims {} zerobad 0
+LATTICE 12749 components 1 good 0 dims {} zerobad 0
+LATTICE 12759 components 1 good 0 dims {} zerobad 0
+LATTICE 12769 components 2 good 0 dims {} zerobad 0
+LATTICE 12779 components 1 good 0 dims {} zerobad 0
+LATTICE 12789 components 2 good 0 dims {} zerobad 0
+LATTICE 12799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 12809 components 2 good 0 dims {} zerobad 0
+LATTICE 12819 components 1 good 0 dims {} zerobad 0
+LATTICE 12829 components 1 good 0 dims {} zerobad 0
+LATTICE 12839 components 2 good 0 dims {} zerobad 0
+LATTICE 12849 components 1 good 0 dims {} zerobad 0
+LATTICE 12859 components 2 good 0 dims {} zerobad 0
+LATTICE 12869 components 1 good 0 dims {} zerobad 0
+LATTICE 12879 components 2 good 0 dims {} zerobad 0
+LATTICE 12889 components 1 good 0 dims {} zerobad 0
+LATTICE 12899 components 1 good 0 dims {} zerobad 0
+LATTICE 12909 components 1 good 0 dims {} zerobad 0
+LATTICE 12919 components 1 good 0 dims {} zerobad 0
+LATTICE 12929 components 1 good 0 dims {} zerobad 0
+LATTICE 12939 components 1 good 0 dims {} zerobad 0
+LATTICE 12949 components 1 good 0 dims {} zerobad 0
+LATTICE 12959 components 1 good 0 dims {} zerobad 0
+LATTICE 12969 components 4 good 0 dims {} zerobad 0
+LATTICE 12979 components 1 good 0 dims {} zerobad 0
+LATTICE 12989 components 1 good 0 dims {} zerobad 0
+LATTICE 12999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 13009 components 2 good 0 dims {} zerobad 0
+LATTICE 13019 components 1 good 0 dims {} zerobad 0
+LATTICE 13029 components 1 good 0 dims {} zerobad 0
+LATTICE 13039 components 2 good 0 dims {} zerobad 0
+LATTICE 13049 components 1 good 0 dims {} zerobad 0
+LATTICE 13059 components 1 good 0 dims {} zerobad 0
+LATTICE 13069 NONREAL
+LATTICE 13079 components 3 good 0 dims {} zerobad 0
+LATTICE 13089 components 1 good 0 dims {} zerobad 0
+LATTICE 13099 NONREAL
+LATTICE 13109 components 1 good 0 dims {} zerobad 0
+LATTICE 13119 components 1 good 0 dims {} zerobad 0
+LATTICE 13129 components 1 good 0 dims {} zerobad 0
+LATTICE 13139 components 1 good 0 dims {} zerobad 0
+LATTICE 13149 components 1 good 0 dims {} zerobad 0
+LATTICE 13159 NONREAL
+LATTICE 13169 NONREAL
+LATTICE 13179 components 2 good 0 dims {} zerobad 0
+LATTICE 13189 components 1 good 0 dims {} zerobad 0
+LATTICE 13199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 13209 components 2 good 0 dims {} zerobad 0
+LATTICE 13219 components 1 good 0 dims {} zerobad 0
+LATTICE 13229 components 1 good 0 dims {} zerobad 0
+LATTICE 13239 components 1 good 0 dims {} zerobad 0
+LATTICE 13249 components 2 good 0 dims {} zerobad 0
+LATTICE 13259 NONREAL
+LATTICE 13269 components 1 good 0 dims {} zerobad 0
+LATTICE 13279 components 3 good 0 dims {} zerobad 0
+LATTICE 13289 NONREAL
+LATTICE 13299 components 3 good 0 dims {} zerobad 0
+LATTICE 13309 NONREAL
+LATTICE 13319 components 1 good 0 dims {} zerobad 0
+LATTICE 13329 components 2 good 0 dims {} zerobad 0
+LATTICE 13339 components 1 good 0 dims {} zerobad 0
+LATTICE 13349 NONREAL
+LATTICE 13359 components 3 good 0 dims {} zerobad 0
+LATTICE 13369 components 2 good 0 dims {} zerobad 0
+LATTICE 13379 NONREAL
+LATTICE 13389 components 1 good 0 dims {} zerobad 0
+LATTICE 13399 NONREAL
+DONE
+LATTICE 13409 components 1 good 0 dims {} zerobad 0
+LATTICE 13419 components 1 good 0 dims {} zerobad 0
+LATTICE 13429 components 3 good 0 dims {} zerobad 0
+LATTICE 13439 components 1 good 0 dims {} zerobad 0
+LATTICE 13449 components 3 good 0 dims {} zerobad 0
+LATTICE 13459 components 4 good 0 dims {} zerobad 0
+LATTICE 13469 components 1 good 0 dims {} zerobad 0
+LATTICE 13479 components 2 good 0 dims {} zerobad 0
+LATTICE 13489 components 1 good 0 dims {} zerobad 0
+LATTICE 13499 components 2 good 0 dims {} zerobad 0
+LATTICE 13509 components 2 good 0 dims {} zerobad 0
+LATTICE 13519 components 1 good 0 dims {} zerobad 0
+LATTICE 13529 components 1 good 0 dims {} zerobad 0
+LATTICE 13539 components 2 good 0 dims {} zerobad 0
+LATTICE 13549 components 2 good 0 dims {} zerobad 0
+LATTICE 13559 NONREAL
+LATTICE 13569 components 1 good 0 dims {} zerobad 0
+LATTICE 13579 components 1 good 0 dims {} zerobad 0
+LATTICE 13589 components 1 good 0 dims {} zerobad 0
+LATTICE 13599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 13609 components 3 good 0 dims {} zerobad 0
+LATTICE 13619 components 1 good 0 dims {} zerobad 0
+LATTICE 13629 components 2 good 0 dims {} zerobad 0
+LATTICE 13639 NONREAL
+LATTICE 13649 NONREAL
+LATTICE 13659 components 2 good 0 dims {} zerobad 0
+LATTICE 13669 components 1 good 0 dims {} zerobad 0
+LATTICE 13679 components 2 good 0 dims {} zerobad 0
+LATTICE 13689 components 1 good 0 dims {} zerobad 0
+LATTICE 13699 components 2 good 0 dims {} zerobad 0
+LATTICE 13709 components 1 good 0 dims {} zerobad 0
+LATTICE 13719 components 2 good 0 dims {} zerobad 0
+LATTICE 13729 NONREAL
+LATTICE 13739 components 2 good 0 dims {} zerobad 0
+LATTICE 13749 components 3 good 0 dims {} zerobad 0
+LATTICE 13759 components 2 good 0 dims {} zerobad 0
+LATTICE 13769 components 1 good 0 dims {} zerobad 0
+LATTICE 13779 components 2 good 0 dims {} zerobad 0
+LATTICE 13789 components 1 good 0 dims {} zerobad 0
+LATTICE 13799 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 13809 components 1 good 0 dims {} zerobad 0
+LATTICE 13819 NONREAL
+LATTICE 13829 components 1 good 0 dims {} zerobad 0
+LATTICE 13839 components 1 good 0 dims {} zerobad 0
+LATTICE 13849 components 1 good 0 dims {} zerobad 0
+LATTICE 13859 components 1 good 0 dims {} zerobad 0
+LATTICE 13869 components 1 good 0 dims {} zerobad 0
+LATTICE 13879 components 2 good 0 dims {} zerobad 0
+LATTICE 13889 components 1 good 0 dims {} zerobad 0
+LATTICE 13899 components 1 good 0 dims {} zerobad 0
+LATTICE 13909 components 1 good 0 dims {} zerobad 0
+LATTICE 13919 components 2 good 0 dims {} zerobad 0
+LATTICE 13929 components 3 good 0 dims {} zerobad 0
+LATTICE 13939 components 1 good 0 dims {} zerobad 0
+LATTICE 13949 components 1 good 0 dims {} zerobad 0
+LATTICE 13959 NONREAL
+LATTICE 13969 components 3 good 0 dims {} zerobad 0
+LATTICE 13979 components 1 good 0 dims {} zerobad 0
+LATTICE 13989 components 1 good 0 dims {} zerobad 0
+LATTICE 13999 NONREAL
+DONE
+LATTICE 14009 components 1 good 0 dims {} zerobad 0
+LATTICE 14019 components 2 good 0 dims {} zerobad 0
+LATTICE 14029 components 1 good 0 dims {} zerobad 0
+LATTICE 14039 components 2 good 0 dims {} zerobad 0
+LATTICE 14049 NONREAL
+LATTICE 14059 components 1 good 0 dims {} zerobad 0
+LATTICE 14069 components 2 good 0 dims {} zerobad 0
+LATTICE 14079 components 3 good 0 dims {} zerobad 0
+LATTICE 14089 components 2 good 0 dims {} zerobad 0
+LATTICE 14099 components 2 good 0 dims {} zerobad 0
+LATTICE 14109 components 2 good 0 dims {} zerobad 0
+LATTICE 14119 components 1 good 0 dims {} zerobad 0
+LATTICE 14129 NONREAL
+LATTICE 14139 components 2 good 0 dims {} zerobad 0
+LATTICE 14149 components 2 good 0 dims {} zerobad 0
+LATTICE 14159 components 1 good 0 dims {} zerobad 0
+LATTICE 14169 components 1 good 0 dims {} zerobad 0
+LATTICE 14179 components 1 good 0 dims {} zerobad 0
+LATTICE 14189 NONREAL
+LATTICE 14199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 14209 components 1 good 0 dims {} zerobad 0
+LATTICE 14219 components 1 good 0 dims {} zerobad 0
+LATTICE 14229 components 2 good 0 dims {} zerobad 0
+LATTICE 14239 components 1 good 0 dims {} zerobad 0
+LATTICE 14249 components 2 good 0 dims {} zerobad 0
+LATTICE 14259 components 3 good 0 dims {} zerobad 0
+LATTICE 14269 components 2 good 0 dims {} zerobad 0
+LATTICE 14279 components 1 good 0 dims {} zerobad 0
+LATTICE 14289 NONREAL
+LATTICE 14299 components 2 good 0 dims {} zerobad 0
+LATTICE 14309 components 2 good 0 dims {} zerobad 0
+LATTICE 14319 components 2 good 0 dims {} zerobad 0
+LATTICE 14329 components 1 good 0 dims {} zerobad 0
+LATTICE 14339 components 1 good 0 dims {} zerobad 0
+LATTICE 14349 components 1 good 0 dims {} zerobad 0
+LATTICE 14359 components 1 good 0 dims {} zerobad 0
+LATTICE 14369 components 2 good 0 dims {} zerobad 0
+LATTICE 14379 components 1 good 0 dims {} zerobad 0
+LATTICE 14389 components 1 good 0 dims {} zerobad 0
+LATTICE 14399 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 14409 components 3 good 0 dims {} zerobad 0
+LATTICE 14419 components 1 good 0 dims {} zerobad 0
+LATTICE 14429 components 1 good 0 dims {} zerobad 0
+LATTICE 14439 components 2 good 0 dims {} zerobad 0
+LATTICE 14449 NONREAL
+LATTICE 14459 components 2 good 0 dims {} zerobad 0
+LATTICE 14469 components 2 good 0 dims {} zerobad 0
+LATTICE 14479 components 1 good 0 dims {} zerobad 0
+LATTICE 14489 components 2 good 0 dims {} zerobad 0
+LATTICE 14499 components 2 good 0 dims {} zerobad 0
+LATTICE 14509 components 1 good 0 dims {} zerobad 0
+LATTICE 14519 components 1 good 0 dims {} zerobad 0
+LATTICE 14529 components 2 good 0 dims {} zerobad 0
+LATTICE 14539 components 1 good 0 dims {} zerobad 0
+LATTICE 14549 components 3 good 0 dims {} zerobad 0
+LATTICE 14559 components 2 good 0 dims {} zerobad 0
+LATTICE 14569 components 2 good 0 dims {} zerobad 0
+LATTICE 14579 components 2 good 0 dims {} zerobad 0
+LATTICE 14589 components 2 good 0 dims {} zerobad 0
+LATTICE 14599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 14609 components 1 good 0 dims {} zerobad 0
+LATTICE 14619 components 1 good 0 dims {} zerobad 0
+LATTICE 14629 components 2 good 0 dims {} zerobad 0
+LATTICE 14639 NONREAL
+LATTICE 14649 components 2 good 0 dims {} zerobad 0
+LATTICE 14659 components 2 good 0 dims {} zerobad 0
+LATTICE 14669 NONREAL
+LATTICE 14679 components 2 good 0 dims {} zerobad 0
+LATTICE 14689 components 1 good 0 dims {} zerobad 0
+LATTICE 14699 NONREAL
+LATTICE 14709 components 1 good 0 dims {} zerobad 0
+LATTICE 14719 components 2 good 0 dims {} zerobad 0
+LATTICE 14729 components 3 good 0 dims {} zerobad 0
+LATTICE 14739 components 2 good 0 dims {} zerobad 0
+LATTICE 14749 components 3 good 0 dims {} zerobad 0
+LATTICE 14759 components 2 good 0 dims {} zerobad 0
+LATTICE 14769 components 2 good 0 dims {} zerobad 0
+LATTICE 14779 components 1 good 0 dims {} zerobad 0
+LATTICE 14789 components 2 good 0 dims {} zerobad 0
+LATTICE 14799 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 14809 components 1 good 0 dims {} zerobad 0
+LATTICE 14819 components 2 good 0 dims {} zerobad 0
+LATTICE 14829 components 1 good 0 dims {} zerobad 0
+LATTICE 14839 components 2 good 0 dims {} zerobad 0
+LATTICE 14849 components 1 good 0 dims {} zerobad 0
+LATTICE 14859 components 2 good 0 dims {} zerobad 0
+LATTICE 14869 components 1 good 0 dims {} zerobad 0
+LATTICE 14879 components 1 good 0 dims {} zerobad 0
+LATTICE 14889 components 1 good 0 dims {} zerobad 0
+LATTICE 14899 components 1 good 0 dims {} zerobad 0
+LATTICE 14909 components 2 good 0 dims {} zerobad 0
+LATTICE 14919 components 2 good 0 dims {} zerobad 0
+LATTICE 14929 components 2 good 0 dims {} zerobad 0
+LATTICE 14939 components 3 good 0 dims {} zerobad 0
+LATTICE 14949 components 3 good 0 dims {} zerobad 0
+LATTICE 14959 components 2 good 0 dims {} zerobad 0
+LATTICE 14969 NONREAL
+LATTICE 14979 components 1 good 0 dims {} zerobad 0
+LATTICE 14989 NONREAL
+LATTICE 14999 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 15009 NONREAL
+LATTICE 15019 NONREAL
+LATTICE 15029 components 1 good 0 dims {} zerobad 0
+LATTICE 15039 components 2 good 0 dims {} zerobad 0
+LATTICE 15049 components 2 good 0 dims {} zerobad 0
+LATTICE 15059 components 2 good 0 dims {} zerobad 0
+LATTICE 15069 components 1 good 0 dims {} zerobad 0
+LATTICE 15079 NONREAL
+LATTICE 15089 components 1 good 0 dims {} zerobad 0
+LATTICE 15099 components 2 good 0 dims {} zerobad 0
+LATTICE 15109 NONREAL
+LATTICE 15119 components 1 good 0 dims {} zerobad 0
+LATTICE 15129 components 1 good 0 dims {} zerobad 0
+LATTICE 15139 NONREAL
+LATTICE 15149 components 1 good 0 dims {} zerobad 0
+LATTICE 15159 components 1 good 0 dims {} zerobad 0
+LATTICE 15169 NONREAL
+LATTICE 15179 components 3 good 0 dims {} zerobad 0
+LATTICE 15189 components 2 good 0 dims {} zerobad 0
+LATTICE 15199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 15209 components 1 good 0 dims {} zerobad 0
+LATTICE 15219 components 1 good 0 dims {} zerobad 0
+LATTICE 15229 components 1 good 0 dims {} zerobad 0
+LATTICE 15239 components 2 good 0 dims {} zerobad 0
+LATTICE 15249 components 1 good 0 dims {} zerobad 0
+LATTICE 15259 components 2 good 0 dims {} zerobad 0
+LATTICE 15269 components 2 good 0 dims {} zerobad 0
+LATTICE 15279 components 3 good 0 dims {} zerobad 0
+LATTICE 15289 components 3 good 0 dims {} zerobad 0
+LATTICE 15299 components 1 good 0 dims {} zerobad 0
+LATTICE 15309 components 2 good 0 dims {} zerobad 0
+LATTICE 15319 components 2 good 0 dims {} zerobad 0
+LATTICE 15329 components 2 good 0 dims {} zerobad 0
+LATTICE 15339 components 1 good 0 dims {} zerobad 0
+LATTICE 15349 components 1 good 0 dims {} zerobad 0
+LATTICE 15359 components 1 good 0 dims {} zerobad 0
+LATTICE 15369 components 2 good 0 dims {} zerobad 0
+LATTICE 15379 components 1 good 0 dims {} zerobad 0
+LATTICE 15389 components 1 good 0 dims {} zerobad 0
+LATTICE 15399 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 15409 components 2 good 0 dims {} zerobad 0
+LATTICE 15419 NONREAL
+LATTICE 15429 NONREAL
+LATTICE 15439 NONREAL
+LATTICE 15449 components 1 good 0 dims {} zerobad 0
+LATTICE 15459 components 1 good 0 dims {} zerobad 0
+LATTICE 15469 components 2 good 0 dims {} zerobad 0
+LATTICE 15479 components 1 good 0 dims {} zerobad 0
+LATTICE 15489 components 1 good 0 dims {} zerobad 0
+LATTICE 15499 NONREAL
+LATTICE 15509 components 3 good 0 dims {} zerobad 0
+LATTICE 15519 components 2 good 0 dims {} zerobad 0
+LATTICE 15529 components 1 good 0 dims {} zerobad 0
+LATTICE 15539 components 2 good 0 dims {} zerobad 0
+LATTICE 15549 components 1 good 0 dims {} zerobad 0
+LATTICE 15559 components 1 good 0 dims {} zerobad 0
+LATTICE 15569 components 2 good 0 dims {} zerobad 0
+LATTICE 15579 components 1 good 0 dims {} zerobad 0
+LATTICE 15589 components 1 good 0 dims {} zerobad 0
+LATTICE 15599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 15609 components 2 good 0 dims {} zerobad 0
+LATTICE 15619 components 2 good 0 dims {} zerobad 0
+LATTICE 15629 components 2 good 0 dims {} zerobad 0
+LATTICE 15639 NONREAL
+LATTICE 15649 components 3 good 0 dims {} zerobad 0
+LATTICE 15659 components 2 good 0 dims {} zerobad 0
+LATTICE 15669 components 1 good 0 dims {} zerobad 0
+LATTICE 15679 components 2 good 0 dims {} zerobad 0
+LATTICE 15689 components 1 good 0 dims {} zerobad 0
+LATTICE 15699 components 1 good 0 dims {} zerobad 0
+LATTICE 15709 NONREAL
+LATTICE 15719 components 3 good 0 dims {} zerobad 0
+LATTICE 15729 NONREAL
+LATTICE 15739 NONREAL
+LATTICE 15749 components 2 good 0 dims {} zerobad 0
+LATTICE 15759 components 1 good 0 dims {} zerobad 0
+LATTICE 15769 components 1 good 0 dims {} zerobad 0
+LATTICE 15779 components 2 good 0 dims {} zerobad 0
+LATTICE 15789 components 1 good 0 dims {} zerobad 0
+LATTICE 15799 NONREAL
+DONE
+LATTICE 15809 components 1 good 0 dims {} zerobad 0
+LATTICE 15819 components 1 good 0 dims {} zerobad 0
+LATTICE 15829 NONREAL
+LATTICE 15839 components 2 good 0 dims {} zerobad 0
+LATTICE 15849 components 1 good 0 dims {} zerobad 0
+LATTICE 15859 components 1 good 0 dims {} zerobad 0
+LATTICE 15869 components 1 good 0 dims {} zerobad 0
+LATTICE 15879 components 2 good 0 dims {} zerobad 0
+LATTICE 15889 components 1 good 0 dims {} zerobad 0
+LATTICE 15899 components 2 good 0 dims {} zerobad 0
+LATTICE 15909 components 4 good 0 dims {} zerobad 0
+LATTICE 15919 NONREAL
+LATTICE 15929 components 1 good 0 dims {} zerobad 0
+LATTICE 15939 components 2 good 0 dims {} zerobad 0
+LATTICE 15949 NONREAL
+LATTICE 15959 components 1 good 0 dims {} zerobad 0
+LATTICE 15969 components 1 good 0 dims {} zerobad 0
+LATTICE 15979 components 3 good 0 dims {} zerobad 0
+LATTICE 15989 components 3 good 0 dims {} zerobad 0
+LATTICE 15999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 16009 components 1 good 0 dims {} zerobad 0
+LATTICE 16019 components 1 good 0 dims {} zerobad 0
+LATTICE 16029 components 1 good 0 dims {} zerobad 0
+LATTICE 16039 components 2 good 0 dims {} zerobad 0
+LATTICE 16049 components 1 good 0 dims {} zerobad 0
+LATTICE 16059 components 1 good 0 dims {} zerobad 0
+LATTICE 16069 components 1 good 0 dims {} zerobad 0
+LATTICE 16079 components 1 good 0 dims {} zerobad 0
+LATTICE 16089 components 2 good 0 dims {} zerobad 0
+LATTICE 16099 NONREAL
+LATTICE 16109 components 1 good 0 dims {} zerobad 0
+LATTICE 16119 components 1 good 0 dims {} zerobad 0
+LATTICE 16129 components 1 good 0 dims {} zerobad 0
+LATTICE 16139 NONREAL
+LATTICE 16149 components 1 good 0 dims {} zerobad 0
+LATTICE 16159 components 2 good 0 dims {} zerobad 0
+LATTICE 16169 components 1 good 0 dims {} zerobad 0
+LATTICE 16179 components 2 good 0 dims {} zerobad 0
+LATTICE 16189 components 1 good 0 dims {} zerobad 0
+LATTICE 16199 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 16209 components 2 good 0 dims {} zerobad 0
+LATTICE 16219 components 1 good 0 dims {} zerobad 0
+LATTICE 16229 components 1 good 0 dims {} zerobad 0
+LATTICE 16239 components 3 good 0 dims {} zerobad 0
+LATTICE 16249 NONREAL
+LATTICE 16259 components 1 good 0 dims {} zerobad 0
+LATTICE 16269 components 3 good 0 dims {} zerobad 0
+LATTICE 16279 components 1 good 0 dims {} zerobad 0
+LATTICE 16289 components 1 good 0 dims {} zerobad 0
+LATTICE 16299 NONREAL
+LATTICE 16309 components 2 good 0 dims {} zerobad 0
+LATTICE 16319 components 1 good 0 dims {} zerobad 0
+LATTICE 16329 components 2 good 0 dims {} zerobad 0
+LATTICE 16339 NONREAL
+LATTICE 16349 components 1 good 0 dims {} zerobad 0
+LATTICE 16359 NONREAL
+LATTICE 16369 components 3 good 0 dims {} zerobad 0
+LATTICE 16379 components 3 good 0 dims {} zerobad 0
+LATTICE 16389 components 2 good 0 dims {} zerobad 0
+LATTICE 16399 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 16409 components 3 good 0 dims {} zerobad 0
+LATTICE 16419 components 3 good 0 dims {} zerobad 0
+LATTICE 16429 components 3 good 0 dims {} zerobad 0
+LATTICE 16439 components 1 good 0 dims {} zerobad 0
+LATTICE 16449 components 1 good 0 dims {} zerobad 0
+LATTICE 16459 components 2 good 0 dims {} zerobad 0
+LATTICE 16469 NONREAL
+LATTICE 16479 components 1 good 0 dims {} zerobad 0
+LATTICE 16489 NONREAL
+LATTICE 16499 components 2 good 0 dims {} zerobad 0
+LATTICE 16509 components 2 good 0 dims {} zerobad 0
+LATTICE 16519 NONREAL
+LATTICE 16529 components 1 good 0 dims {} zerobad 0
+LATTICE 16539 components 1 good 0 dims {} zerobad 0
+LATTICE 16549 components 2 good 0 dims {} zerobad 0
+LATTICE 16559 components 1 good 0 dims {} zerobad 0
+LATTICE 16569 components 1 good 0 dims {} zerobad 0
+LATTICE 16579 components 2 good 0 dims {} zerobad 0
+LATTICE 16589 NONREAL
+LATTICE 16599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 16609 components 3 good 0 dims {} zerobad 0
+LATTICE 16619 components 2 good 0 dims {} zerobad 0
+LATTICE 16629 components 2 good 0 dims {} zerobad 0
+LATTICE 16639 components 1 good 0 dims {} zerobad 0
+LATTICE 16649 components 1 good 0 dims {} zerobad 0
+LATTICE 16659 components 2 good 0 dims {} zerobad 0
+LATTICE 16669 components 1 good 0 dims {} zerobad 0
+LATTICE 16679 components 2 good 0 dims {} zerobad 0
+LATTICE 16689 NONREAL
+LATTICE 16699 components 1 good 0 dims {} zerobad 0
+LATTICE 16709 components 1 good 0 dims {} zerobad 0
+LATTICE 16719 components 2 good 0 dims {} zerobad 0
+LATTICE 16729 NONREAL
+LATTICE 16739 NONREAL
+LATTICE 16749 components 1 good 0 dims {} zerobad 0
+LATTICE 16759 components 1 good 0 dims {} zerobad 0
+LATTICE 16769 NONREAL
+LATTICE 16779 components 2 good 0 dims {} zerobad 0
+LATTICE 16789 components 2 good 0 dims {} zerobad 0
+LATTICE 16799 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 16809 components 1 good 0 dims {} zerobad 0
+LATTICE 16819 components 1 good 0 dims {} zerobad 0
+LATTICE 16829 components 1 good 0 dims {} zerobad 0
+LATTICE 16839 components 1 good 0 dims {} zerobad 0
+LATTICE 16849 components 3 good 0 dims {} zerobad 0
+LATTICE 16859 components 3 good 0 dims {} zerobad 0
+LATTICE 16869 components 3 good 0 dims {} zerobad 0
+LATTICE 16879 NONREAL
+LATTICE 16889 components 2 good 0 dims {} zerobad 0
+LATTICE 16899 components 1 good 0 dims {} zerobad 0
+LATTICE 16909 components 1 good 0 dims {} zerobad 0
+LATTICE 16919 components 1 good 0 dims {} zerobad 0
+LATTICE 16929 components 2 good 0 dims {} zerobad 0
+LATTICE 16939 components 2 good 0 dims {} zerobad 0
+LATTICE 16949 NONREAL
+LATTICE 16959 components 1 good 0 dims {} zerobad 0
+LATTICE 16969 components 1 good 0 dims {} zerobad 0
+LATTICE 16979 components 2 good 0 dims {} zerobad 0
+LATTICE 16989 components 1 good 0 dims {} zerobad 0
+LATTICE 16999 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 17009 NONREAL
+LATTICE 17019 components 1 good 0 dims {} zerobad 0
+LATTICE 17029 components 1 good 0 dims {} zerobad 0
+LATTICE 17039 components 2 good 0 dims {} zerobad 0
+LATTICE 17049 components 1 good 0 dims {} zerobad 0
+LATTICE 17059 components 4 good 0 dims {} zerobad 0
+LATTICE 17069 NONREAL
+LATTICE 17079 components 1 good 0 dims {} zerobad 0
+LATTICE 17089 components 2 good 0 dims {} zerobad 0
+LATTICE 17099 NONREAL
+LATTICE 17109 components 2 good 0 dims {} zerobad 0
+LATTICE 17119 components 2 good 0 dims {} zerobad 0
+LATTICE 17129 components 1 good 0 dims {} zerobad 0
+LATTICE 17139 components 1 good 0 dims {} zerobad 0
+LATTICE 17149 components 1 good 0 dims {} zerobad 0
+LATTICE 17159 components 1 good 0 dims {} zerobad 0
+LATTICE 17169 NONREAL
+LATTICE 17179 components 1 good 0 dims {} zerobad 0
+LATTICE 17189 components 1 good 0 dims {} zerobad 0
+LATTICE 17199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 17209 components 2 good 0 dims {} zerobad 0
+LATTICE 17219 components 3 good 0 dims {} zerobad 0
+LATTICE 17229 components 1 good 0 dims {} zerobad 0
+LATTICE 17239 components 1 good 0 dims {} zerobad 0
+LATTICE 17249 components 2 good 0 dims {} zerobad 0
+LATTICE 17259 components 3 good 0 dims {} zerobad 0
+LATTICE 17269 components 1 good 0 dims {} zerobad 0
+LATTICE 17279 NONREAL
+LATTICE 17289 components 4 good 0 dims {} zerobad 0
+LATTICE 17299 components 1 good 0 dims {} zerobad 0
+LATTICE 17309 components 3 good 0 dims {} zerobad 0
+LATTICE 17319 NONREAL
+LATTICE 17329 components 1 good 0 dims {} zerobad 0
+LATTICE 17339 NONREAL
+LATTICE 17349 components 1 good 0 dims {} zerobad 0
+LATTICE 17359 components 1 good 0 dims {} zerobad 0
+LATTICE 17369 NONREAL
+LATTICE 17379 components 2 good 0 dims {} zerobad 0
+LATTICE 17389 NONREAL
+LATTICE 17399 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 17409 NONREAL
+LATTICE 17419 components 1 good 0 dims {} zerobad 0
+LATTICE 17429 components 1 good 0 dims {} zerobad 0
+LATTICE 17439 components 1 good 0 dims {} zerobad 0
+LATTICE 17449 components 1 good 0 dims {} zerobad 0
+LATTICE 17459 components 1 good 0 dims {} zerobad 0
+LATTICE 17469 components 3 good 0 dims {} zerobad 0
+LATTICE 17479 components 1 good 0 dims {} zerobad 0
+LATTICE 17489 components 1 good 0 dims {} zerobad 0
+LATTICE 17499 components 2 good 0 dims {} zerobad 0
+LATTICE 17509 components 1 good 0 dims {} zerobad 0
+LATTICE 17519 NONREAL
+LATTICE 17529 components 2 good 0 dims {} zerobad 0
+LATTICE 17539 components 3 good 0 dims {} zerobad 0
+LATTICE 17549 components 2 good 0 dims {} zerobad 0
+LATTICE 17559 components 2 good 0 dims {} zerobad 0
+LATTICE 17569 components 2 good 0 dims {} zerobad 0
+LATTICE 17579 NONREAL
+LATTICE 17589 components 2 good 0 dims {} zerobad 0
+LATTICE 17599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 17609 components 2 good 0 dims {} zerobad 0
+LATTICE 17619 components 2 good 0 dims {} zerobad 0
+LATTICE 17629 components 1 good 0 dims {} zerobad 0
+LATTICE 17639 components 1 good 0 dims {} zerobad 0
+LATTICE 17649 components 2 good 0 dims {} zerobad 0
+LATTICE 17659 components 1 good 0 dims {} zerobad 0
+LATTICE 17669 components 1 good 0 dims {} zerobad 0
+LATTICE 17679 components 2 good 0 dims {} zerobad 0
+LATTICE 17689 components 2 good 0 dims {} zerobad 0
+LATTICE 17699 components 1 good 0 dims {} zerobad 0
+LATTICE 17709 components 2 good 0 dims {} zerobad 0
+LATTICE 17719 components 1 good 0 dims {} zerobad 0
+LATTICE 17729 NONREAL
+LATTICE 17739 components 1 good 0 dims {} zerobad 0
+LATTICE 17749 components 2 good 0 dims {} zerobad 0
+LATTICE 17759 components 1 good 0 dims {} zerobad 0
+LATTICE 17769 components 1 good 0 dims {} zerobad 0
+LATTICE 17779 components 1 good 0 dims {} zerobad 0
+LATTICE 17789 NONREAL
+LATTICE 17799 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 17809 components 2 good 0 dims {} zerobad 0
+LATTICE 17819 components 2 good 0 dims {} zerobad 0
+LATTICE 17829 NONREAL
+LATTICE 17839 components 1 good 0 dims {} zerobad 0
+LATTICE 17849 NONREAL
+LATTICE 17859 components 1 good 0 dims {} zerobad 0
+LATTICE 17869 components 1 good 0 dims {} zerobad 0
+LATTICE 17879 NONREAL
+LATTICE 17889 components 2 good 0 dims {} zerobad 0
+LATTICE 17899 components 1 good 0 dims {} zerobad 0
+LATTICE 17909 components 1 good 0 dims {} zerobad 0
+LATTICE 17919 components 2 good 0 dims {} zerobad 0
+LATTICE 17929 components 2 good 0 dims {} zerobad 0
+LATTICE 17939 NONREAL
+LATTICE 17949 components 1 good 0 dims {} zerobad 0
+LATTICE 17959 components 1 good 0 dims {} zerobad 0
+LATTICE 17969 components 3 good 0 dims {} zerobad 0
+LATTICE 17979 components 1 good 0 dims {} zerobad 0
+LATTICE 17989 components 2 good 0 dims {} zerobad 0
+LATTICE 17999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 18009 components 2 good 0 dims {} zerobad 0
+LATTICE 18019 components 1 good 0 dims {} zerobad 0
+LATTICE 18029 components 1 good 0 dims {} zerobad 0
+LATTICE 18039 components 1 good 0 dims {} zerobad 0
+LATTICE 18049 components 2 good 0 dims {} zerobad 0
+LATTICE 18059 components 2 good 0 dims {} zerobad 0
+LATTICE 18069 NONREAL
+LATTICE 18079 components 1 good 0 dims {} zerobad 0
+LATTICE 18089 components 1 good 0 dims {} zerobad 0
+LATTICE 18099 NONREAL
+LATTICE 18109 components 2 good 0 dims {} zerobad 0
+LATTICE 18119 components 1 good 0 dims {} zerobad 0
+LATTICE 18129 components 1 good 0 dims {} zerobad 0
+LATTICE 18139 components 1 good 0 dims {} zerobad 0
+LATTICE 18149 components 1 good 0 dims {} zerobad 0
+LATTICE 18159 components 1 good 0 dims {} zerobad 0
+LATTICE 18169 components 1 good 0 dims {} zerobad 0
+LATTICE 18179 components 2 good 0 dims {} zerobad 0
+LATTICE 18189 components 1 good 0 dims {} zerobad 0
+LATTICE 18199 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 18209 components 2 good 0 dims {} zerobad 0
+LATTICE 18219 components 3 good 0 dims {} zerobad 0
+LATTICE 18229 components 2 good 0 dims {} zerobad 0
+LATTICE 18239 components 1 good 0 dims {} zerobad 0
+LATTICE 18249 NONREAL
+LATTICE 18259 components 2 good 0 dims {} zerobad 0
+LATTICE 18269 NONREAL
+LATTICE 18279 components 3 good 0 dims {} zerobad 0
+LATTICE 18289 components 1 good 0 dims {} zerobad 0
+LATTICE 18299 components 1 good 0 dims {} zerobad 0
+LATTICE 18309 components 1 good 0 dims {} zerobad 0
+LATTICE 18319 components 3 good 0 dims {} zerobad 0
+LATTICE 18329 components 1 good 0 dims {} zerobad 0
+LATTICE 18339 components 1 good 0 dims {} zerobad 0
+LATTICE 18349 components 2 good 0 dims {} zerobad 0
+LATTICE 18359 components 1 good 0 dims {} zerobad 0
+LATTICE 18369 components 1 good 0 dims {} zerobad 0
+LATTICE 18379 components 2 good 0 dims {} zerobad 0
+LATTICE 18389 components 2 good 0 dims {} zerobad 0
+LATTICE 18399 NONREAL
+DONE
+LATTICE 18409 components 1 good 0 dims {} zerobad 0
+LATTICE 18419 components 1 good 0 dims {} zerobad 0
+LATTICE 18429 components 3 good 0 dims {} zerobad 0
+LATTICE 18439 components 1 good 0 dims {} zerobad 0
+LATTICE 18449 components 1 good 0 dims {} zerobad 0
+LATTICE 18459 components 2 good 0 dims {} zerobad 0
+LATTICE 18469 NONREAL
+LATTICE 18479 components 1 good 0 dims {} zerobad 0
+LATTICE 18489 components 2 good 0 dims {} zerobad 0
+LATTICE 18499 NONREAL
+LATTICE 18509 components 1 good 0 dims {} zerobad 0
+LATTICE 18519 components 2 good 0 dims {} zerobad 0
+LATTICE 18529 components 2 good 0 dims {} zerobad 0
+LATTICE 18539 NONREAL
+LATTICE 18549 components 1 good 0 dims {} zerobad 0
+LATTICE 18559 components 1 good 0 dims {} zerobad 0
+LATTICE 18569 components 1 good 0 dims {} zerobad 0
+LATTICE 18579 components 1 good 0 dims {} zerobad 0
+LATTICE 18589 components 3 good 0 dims {} zerobad 0
+LATTICE 18599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 18609 components 1 good 0 dims {} zerobad 0
+LATTICE 18619 components 2 good 0 dims {} zerobad 0
+LATTICE 18629 NONREAL
+LATTICE 18639 components 1 good 0 dims {} zerobad 0
+LATTICE 18649 NONREAL
+LATTICE 18659 components 1 good 0 dims {} zerobad 0
+LATTICE 18669 components 2 good 0 dims {} zerobad 0
+LATTICE 18679 components 3 good 0 dims {} zerobad 0
+LATTICE 18689 components 1 good 0 dims {} zerobad 0
+LATTICE 18699 components 2 good 0 dims {} zerobad 0
+LATTICE 18709 components 2 good 0 dims {} zerobad 0
+LATTICE 18719 NONREAL
+LATTICE 18729 components 2 good 0 dims {} zerobad 0
+LATTICE 18739 components 1 good 0 dims {} zerobad 0
+LATTICE 18749 components 1 good 0 dims {} zerobad 0
+LATTICE 18759 components 2 good 0 dims {} zerobad 0
+LATTICE 18769 components 2 good 0 dims {} zerobad 0
+LATTICE 18779 components 2 good 0 dims {} zerobad 0
+LATTICE 18789 components 2 good 0 dims {} zerobad 0
+LATTICE 18799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 18809 components 1 good 0 dims {} zerobad 0
+LATTICE 18819 NONREAL
+LATTICE 18829 NONREAL
+LATTICE 18839 components 1 good 0 dims {} zerobad 0
+LATTICE 18849 NONREAL
+LATTICE 18859 components 1 good 0 dims {} zerobad 0
+LATTICE 18869 components 1 good 0 dims {} zerobad 0
+LATTICE 18879 components 1 good 0 dims {} zerobad 0
+LATTICE 18889 components 1 good 0 dims {} zerobad 0
+LATTICE 18899 components 1 good 0 dims {} zerobad 0
+LATTICE 18909 components 1 good 0 dims {} zerobad 0
+LATTICE 18919 components 1 good 0 dims {} zerobad 0
+LATTICE 18929 components 1 good 0 dims {} zerobad 0
+LATTICE 18939 components 1 good 0 dims {} zerobad 0
+LATTICE 18949 components 1 good 0 dims {} zerobad 0
+LATTICE 18959 components 1 good 0 dims {} zerobad 0
+LATTICE 18969 components 1 good 0 dims {} zerobad 0
+LATTICE 18979 NONREAL
+LATTICE 18989 components 1 good 0 dims {} zerobad 0
+LATTICE 18999 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 19009 components 1 good 0 dims {} zerobad 0
+LATTICE 19019 components 2 good 0 dims {} zerobad 0
+LATTICE 19029 components 2 good 0 dims {} zerobad 0
+LATTICE 19039 components 2 good 0 dims {} zerobad 0
+LATTICE 19049 components 2 good 0 dims {} zerobad 0
+LATTICE 19059 components 1 good 0 dims {} zerobad 0
+LATTICE 19069 components 1 good 0 dims {} zerobad 0
+LATTICE 19079 NONREAL
+LATTICE 19089 components 1 good 0 dims {} zerobad 0
+LATTICE 19099 components 2 good 0 dims {} zerobad 0
+LATTICE 19109 components 2 good 0 dims {} zerobad 0
+LATTICE 19119 components 2 good 0 dims {} zerobad 0
+LATTICE 19129 components 1 good 0 dims {} zerobad 0
+LATTICE 19139 components 2 good 0 dims {} zerobad 0
+LATTICE 19149 components 1 good 0 dims {} zerobad 0
+LATTICE 19159 components 1 good 0 dims {} zerobad 0
+LATTICE 19169 components 2 good 0 dims {} zerobad 0
+LATTICE 19179 components 1 good 0 dims {} zerobad 0
+LATTICE 19189 components 2 good 0 dims {} zerobad 0
+LATTICE 19199 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 19209 components 1 good 0 dims {} zerobad 0
+LATTICE 19219 components 2 good 0 dims {} zerobad 0
+LATTICE 19229 NONREAL
+LATTICE 19239 components 1 good 0 dims {} zerobad 0
+LATTICE 19249 NONREAL
+LATTICE 19259 components 2 good 0 dims {} zerobad 0
+LATTICE 19269 components 1 good 0 dims {} zerobad 0
+LATTICE 19279 components 2 good 0 dims {} zerobad 0
+LATTICE 19289 components 1 good 0 dims {} zerobad 0
+LATTICE 19299 components 1 good 0 dims {} zerobad 0
+LATTICE 19309 components 1 good 0 dims {} zerobad 0
+LATTICE 19319 components 2 good 0 dims {} zerobad 0
+LATTICE 19329 components 4 good 0 dims {} zerobad 0
+LATTICE 19339 components 2 good 0 dims {} zerobad 0
+LATTICE 19349 components 1 good 0 dims {} zerobad 0
+LATTICE 19359 components 2 good 0 dims {} zerobad 0
+LATTICE 19369 components 2 good 0 dims {} zerobad 0
+LATTICE 19379 components 1 good 0 dims {} zerobad 0
+LATTICE 19389 components 1 good 0 dims {} zerobad 0
+LATTICE 19399 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 19409 components 1 good 0 dims {} zerobad 0
+LATTICE 19419 components 3 good 0 dims {} zerobad 0
+LATTICE 19429 components 3 good 0 dims {} zerobad 0
+LATTICE 19439 NONREAL
+LATTICE 19449 components 3 good 0 dims {} zerobad 0
+LATTICE 19459 components 1 good 0 dims {} zerobad 0
+LATTICE 19469 components 1 good 0 dims {} zerobad 0
+LATTICE 19479 components 1 good 0 dims {} zerobad 0
+LATTICE 19489 NONREAL
+LATTICE 19499 components 1 good 0 dims {} zerobad 0
+LATTICE 19509 components 1 good 0 dims {} zerobad 0
+LATTICE 19519 components 1 good 0 dims {} zerobad 0
+LATTICE 19529 NONREAL
+LATTICE 19539 components 1 good 0 dims {} zerobad 0
+LATTICE 19549 components 2 good 0 dims {} zerobad 0
+LATTICE 19559 components 3 good 0 dims {} zerobad 0
+LATTICE 19569 components 2 good 0 dims {} zerobad 0
+LATTICE 19579 components 2 good 0 dims {} zerobad 0
+LATTICE 19589 components 1 good 0 dims {} zerobad 0
+LATTICE 19599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 19609 components 2 good 0 dims {} zerobad 0
+LATTICE 19619 components 2 good 0 dims {} zerobad 0
+LATTICE 19629 components 2 good 0 dims {} zerobad 0
+LATTICE 19639 components 1 good 0 dims {} zerobad 0
+LATTICE 19649 NONREAL
+LATTICE 19659 components 1 good 0 dims {} zerobad 0
+LATTICE 19669 components 3 good 0 dims {} zerobad 0
+LATTICE 19679 components 1 good 0 dims {} zerobad 0
+LATTICE 19689 NONREAL
+LATTICE 19699 components 1 good 0 dims {} zerobad 0
+LATTICE 19709 components 2 good 0 dims {} zerobad 0
+LATTICE 19719 components 2 good 0 dims {} zerobad 0
+LATTICE 19729 components 2 good 0 dims {} zerobad 0
+LATTICE 19739 components 1 good 0 dims {} zerobad 0
+LATTICE 19749 NONREAL
+LATTICE 19759 components 1 good 0 dims {} zerobad 0
+LATTICE 19769 components 1 good 0 dims {} zerobad 0
+LATTICE 19779 components 2 good 0 dims {} zerobad 0
+LATTICE 19789 components 3 good 0 dims {} zerobad 0
+LATTICE 19799 NONREAL
+DONE
+LATTICE 19809 components 1 good 0 dims {} zerobad 0
+LATTICE 19819 components 1 good 0 dims {} zerobad 0
+LATTICE 19829 NONREAL
+LATTICE 19839 components 1 good 0 dims {} zerobad 0
+LATTICE 19849 components 1 good 0 dims {} zerobad 0
+LATTICE 19859 components 2 good 0 dims {} zerobad 0
+LATTICE 19869 components 2 good 0 dims {} zerobad 0
+LATTICE 19879 components 1 good 0 dims {} zerobad 0
+LATTICE 19889 components 1 good 0 dims {} zerobad 0
+LATTICE 19899 components 1 good 0 dims {} zerobad 0
+LATTICE 19909 components 1 good 0 dims {} zerobad 0
+LATTICE 19919 components 1 good 0 dims {} zerobad 0
+LATTICE 19929 components 1 good 0 dims {} zerobad 0
+LATTICE 19939 components 1 good 0 dims {} zerobad 0
+LATTICE 19949 components 1 good 0 dims {} zerobad 0
+LATTICE 19959 components 1 good 0 dims {} zerobad 0
+LATTICE 19969 components 1 good 0 dims {} zerobad 0
+LATTICE 19979 components 2 good 0 dims {} zerobad 0
+LATTICE 19989 components 2 good 0 dims {} zerobad 0
+LATTICE 19999 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 20009 components 1 good 0 dims {} zerobad 0
+LATTICE 20019 NONREAL
+LATTICE 20029 components 1 good 0 dims {} zerobad 0
+LATTICE 20039 NONREAL
+LATTICE 20049 NONREAL
+LATTICE 20059 components 2 good 0 dims {} zerobad 0
+LATTICE 20069 NONREAL
+LATTICE 20079 components 2 good 0 dims {} zerobad 0
+LATTICE 20089 components 2 good 0 dims {} zerobad 0
+LATTICE 20099 components 2 good 0 dims {} zerobad 0
+LATTICE 20109 components 1 good 0 dims {} zerobad 0
+LATTICE 20119 components 1 good 0 dims {} zerobad 0
+LATTICE 20129 NONREAL
+LATTICE 20139 components 2 good 0 dims {} zerobad 0
+LATTICE 20149 components 2 good 0 dims {} zerobad 0
+LATTICE 20159 components 1 good 0 dims {} zerobad 0
+LATTICE 20169 components 2 good 0 dims {} zerobad 0
+LATTICE 20179 components 3 good 0 dims {} zerobad 0
+LATTICE 20189 components 3 good 0 dims {} zerobad 0
+LATTICE 20199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 20209 components 2 good 0 dims {} zerobad 0
+LATTICE 20219 components 2 good 0 dims {} zerobad 0
+LATTICE 20229 NONREAL
+LATTICE 20239 components 1 good 0 dims {} zerobad 0
+LATTICE 20249 components 1 good 0 dims {} zerobad 0
+LATTICE 20259 components 2 good 0 dims {} zerobad 0
+LATTICE 20269 components 3 good 0 dims {} zerobad 0
+LATTICE 20279 components 1 good 0 dims {} zerobad 0
+LATTICE 20289 NONREAL
+LATTICE 20299 components 2 good 0 dims {} zerobad 0
+LATTICE 20309 components 2 good 0 dims {} zerobad 0
+LATTICE 20319 components 1 good 0 dims {} zerobad 0
+LATTICE 20329 components 1 good 0 dims {} zerobad 0
+LATTICE 20339 components 2 good 0 dims {} zerobad 0
+LATTICE 20349 components 1 good 0 dims {} zerobad 0
+LATTICE 20359 components 1 good 0 dims {} zerobad 0
+LATTICE 20369 components 3 good 0 dims {} zerobad 0
+LATTICE 20379 components 1 good 0 dims {} zerobad 0
+LATTICE 20389 components 1 good 0 dims {} zerobad 0
+LATTICE 20399 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 20409 components 4 good 0 dims {} zerobad 0
+LATTICE 20419 components 3 good 0 dims {} zerobad 0
+LATTICE 20429 NONREAL
+LATTICE 20439 components 2 good 0 dims {} zerobad 0
+LATTICE 20449 components 1 good 0 dims {} zerobad 0
+LATTICE 20459 NONREAL
+LATTICE 20469 components 1 good 0 dims {} zerobad 0
+LATTICE 20479 components 1 good 0 dims {} zerobad 0
+LATTICE 20489 components 2 good 0 dims {} zerobad 0
+LATTICE 20499 components 2 good 0 dims {} zerobad 0
+LATTICE 20509 components 2 good 0 dims {} zerobad 0
+LATTICE 20519 components 1 good 0 dims {} zerobad 0
+LATTICE 20529 components 1 good 0 dims {} zerobad 0
+LATTICE 20539 NONREAL
+LATTICE 20549 components 1 good 0 dims {} zerobad 0
+LATTICE 20559 components 2 good 0 dims {} zerobad 0
+LATTICE 20569 components 3 good 0 dims {} zerobad 0
+LATTICE 20579 components 1 good 0 dims {} zerobad 0
+LATTICE 20589 components 1 good 0 dims {} zerobad 0
+LATTICE 20599 NONREAL
+DONE
+LATTICE 20609 components 2 good 0 dims {} zerobad 0
+LATTICE 20619 components 1 good 0 dims {} zerobad 0
+LATTICE 20629 components 2 good 0 dims {} zerobad 0
+LATTICE 20639 components 2 good 0 dims {} zerobad 0
+LATTICE 20649 components 1 good 0 dims {} zerobad 0
+LATTICE 20659 components 2 good 0 dims {} zerobad 0
+LATTICE 20669 components 3 good 0 dims {} zerobad 0
+LATTICE 20679 components 1 good 0 dims {} zerobad 0
+LATTICE 20689 components 2 good 0 dims {} zerobad 0
+LATTICE 20699 components 1 good 0 dims {} zerobad 0
+LATTICE 20709 components 2 good 0 dims {} zerobad 0
+LATTICE 20719 components 1 good 0 dims {} zerobad 0
+LATTICE 20729 components 1 good 0 dims {} zerobad 0
+LATTICE 20739 components 1 good 0 dims {} zerobad 0
+LATTICE 20749 components 2 good 0 dims {} zerobad 0
+LATTICE 20759 components 4 good 0 dims {} zerobad 0
+LATTICE 20769 components 2 good 0 dims {} zerobad 0
+LATTICE 20779 components 2 good 0 dims {} zerobad 0
+LATTICE 20789 components 2 good 0 dims {} zerobad 0
+LATTICE 20799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 20809 components 2 good 0 dims {} zerobad 0
+LATTICE 20819 components 1 good 0 dims {} zerobad 0
+LATTICE 20829 components 2 good 0 dims {} zerobad 0
+LATTICE 20839 components 1 good 0 dims {} zerobad 0
+LATTICE 20849 components 2 good 0 dims {} zerobad 0
+LATTICE 20859 components 3 good 0 dims {} zerobad 0
+LATTICE 20869 components 1 good 0 dims {} zerobad 0
+LATTICE 20879 components 1 good 0 dims {} zerobad 0
+LATTICE 20889 components 2 good 0 dims {} zerobad 0
+LATTICE 20899 NONREAL
+LATTICE 20909 components 1 good 0 dims {} zerobad 0
+LATTICE 20919 components 1 good 0 dims {} zerobad 0
+LATTICE 20929 NONREAL
+LATTICE 20939 components 2 good 0 dims {} zerobad 0
+LATTICE 20949 components 1 good 0 dims {} zerobad 0
+LATTICE 20959 components 1 good 0 dims {} zerobad 0
+LATTICE 20969 components 1 good 0 dims {} zerobad 0
+LATTICE 20979 components 1 good 0 dims {} zerobad 0
+LATTICE 20989 NONREAL
+LATTICE 20999 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 21009 components 2 good 0 dims {} zerobad 0
+LATTICE 21019 components 1 good 0 dims {} zerobad 0
+LATTICE 21029 components 2 good 0 dims {} zerobad 0
+LATTICE 21039 components 4 good 0 dims {} zerobad 0
+LATTICE 21049 components 1 good 0 dims {} zerobad 0
+LATTICE 21059 components 1 good 0 dims {} zerobad 0
+LATTICE 21069 components 1 good 0 dims {} zerobad 0
+LATTICE 21079 components 1 good 0 dims {} zerobad 0
+LATTICE 21089 NONREAL
+LATTICE 21099 components 1 good 0 dims {} zerobad 0
+LATTICE 21109 components 1 good 0 dims {} zerobad 0
+LATTICE 21119 components 1 good 0 dims {} zerobad 0
+LATTICE 21129 components 2 good 0 dims {} zerobad 0
+LATTICE 21139 components 3 good 0 dims {} zerobad 0
+LATTICE 21149 components 2 good 0 dims {} zerobad 0
+LATTICE 21159 components 1 good 0 dims {} zerobad 0
+LATTICE 21169 components 2 good 0 dims {} zerobad 0
+LATTICE 21179 components 3 good 0 dims {} zerobad 0
+LATTICE 21189 components 1 good 0 dims {} zerobad 0
+LATTICE 21199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 21209 components 2 good 0 dims {} zerobad 0
+LATTICE 21219 components 1 good 0 dims {} zerobad 0
+LATTICE 21229 components 2 good 0 dims {} zerobad 0
+LATTICE 21239 components 4 good 0 dims {} zerobad 0
+LATTICE 21249 components 2 good 0 dims {} zerobad 0
+LATTICE 21259 components 1 good 0 dims {} zerobad 0
+LATTICE 21269 NONREAL
+LATTICE 21279 components 2 good 0 dims {} zerobad 0
+LATTICE 21289 components 1 good 0 dims {} zerobad 0
+LATTICE 21299 NONREAL
+LATTICE 21309 NONREAL
+LATTICE 21319 NONREAL
+LATTICE 21329 components 1 good 0 dims {} zerobad 0
+LATTICE 21339 components 2 good 0 dims {} zerobad 0
+LATTICE 21349 components 1 good 0 dims {} zerobad 0
+LATTICE 21359 components 1 good 0 dims {} zerobad 0
+LATTICE 21369 components 1 good 0 dims {} zerobad 0
+LATTICE 21379 components 1 good 0 dims {} zerobad 0
+LATTICE 21389 components 2 good 0 dims {} zerobad 0
+LATTICE 21399 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 21409 components 2 good 0 dims {} zerobad 0
+LATTICE 21419 components 1 good 0 dims {} zerobad 0
+LATTICE 21429 components 1 good 0 dims {} zerobad 0
+LATTICE 21439 components 1 good 0 dims {} zerobad 0
+LATTICE 21449 components 1 good 0 dims {} zerobad 0
+LATTICE 21459 components 2 good 0 dims {} zerobad 0
+LATTICE 21469 components 1 good 0 dims {} zerobad 0
+LATTICE 21479 components 3 good 0 dims {} zerobad 0
+LATTICE 21489 components 2 good 0 dims {} zerobad 0
+LATTICE 21499 components 2 good 0 dims {} zerobad 0
+LATTICE 21509 components 1 good 0 dims {} zerobad 0
+LATTICE 21519 components 2 good 0 dims {} zerobad 0
+LATTICE 21529 components 1 good 0 dims {} zerobad 0
+LATTICE 21539 components 1 good 0 dims {} zerobad 0
+LATTICE 21549 NONREAL
+LATTICE 21559 components 2 good 0 dims {} zerobad 0
+LATTICE 21569 components 1 good 0 dims {} zerobad 0
+LATTICE 21579 components 1 good 0 dims {} zerobad 0
+LATTICE 21589 components 1 good 0 dims {} zerobad 0
+LATTICE 21599 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 21609 components 1 good 0 dims {} zerobad 0
+LATTICE 21619 components 1 good 0 dims {} zerobad 0
+LATTICE 21629 NONREAL
+LATTICE 21639 NONREAL
+LATTICE 21649 components 3 good 0 dims {} zerobad 0
+LATTICE 21659 components 3 good 0 dims {} zerobad 0
+LATTICE 21669 components 1 good 0 dims {} zerobad 0
+LATTICE 21679 components 1 good 0 dims {} zerobad 0
+LATTICE 21689 components 2 good 0 dims {} zerobad 0
+LATTICE 21699 components 1 good 0 dims {} zerobad 0
+LATTICE 21709 components 1 good 0 dims {} zerobad 0
+LATTICE 21719 components 2 good 0 dims {} zerobad 0
+LATTICE 21729 components 1 good 0 dims {} zerobad 0
+LATTICE 21739 components 1 good 0 dims {} zerobad 0
+LATTICE 21749 components 1 good 0 dims {} zerobad 0
+LATTICE 21759 components 1 good 0 dims {} zerobad 0
+LATTICE 21769 components 1 good 0 dims {} zerobad 0
+LATTICE 21779 components 1 good 0 dims {} zerobad 0
+LATTICE 21789 components 1 good 0 dims {} zerobad 0
+LATTICE 21799 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 21809 NONREAL
+LATTICE 21819 components 1 good 0 dims {} zerobad 0
+LATTICE 21829 components 2 good 0 dims {} zerobad 0
+LATTICE 21839 components 2 good 0 dims {} zerobad 0
+LATTICE 21849 components 1 good 0 dims {} zerobad 0
+LATTICE 21859 components 2 good 0 dims {} zerobad 0
+LATTICE 21869 components 1 good 0 dims {} zerobad 0
+LATTICE 21879 components 3 good 0 dims {} zerobad 0
+LATTICE 21889 components 2 good 0 dims {} zerobad 0
+LATTICE 21899 components 3 good 0 dims {} zerobad 0
+LATTICE 21909 components 2 good 0 dims {} zerobad 0
+LATTICE 21919 NONREAL
+LATTICE 21929 NONREAL
+LATTICE 21939 components 2 good 0 dims {} zerobad 0
+LATTICE 21949 NONREAL
+LATTICE 21959 NONREAL
+LATTICE 21969 components 1 good 0 dims {} zerobad 0
+LATTICE 21979 components 1 good 0 dims {} zerobad 0
+LATTICE 21989 NONREAL
+LATTICE 21999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 22009 components 1 good 0 dims {} zerobad 0
+LATTICE 22019 components 2 good 0 dims {} zerobad 0
+LATTICE 22029 components 2 good 0 dims {} zerobad 0
+LATTICE 22039 components 1 good 0 dims {} zerobad 0
+LATTICE 22049 components 2 good 0 dims {} zerobad 0
+LATTICE 22059 NONREAL
+LATTICE 22069 components 2 good 0 dims {} zerobad 0
+LATTICE 22079 NONREAL
+LATTICE 22089 components 1 good 0 dims {} zerobad 0
+LATTICE 22099 components 1 good 0 dims {} zerobad 0
+LATTICE 22109 components 2 good 0 dims {} zerobad 0
+LATTICE 22119 components 1 good 0 dims {} zerobad 0
+LATTICE 22129 components 1 good 0 dims {} zerobad 0
+LATTICE 22139 components 2 good 0 dims {} zerobad 0
+LATTICE 22149 components 1 good 0 dims {} zerobad 0
+LATTICE 22159 NONREAL
+LATTICE 22169 NONREAL
+LATTICE 22179 components 3 good 0 dims {} zerobad 0
+LATTICE 22189 components 1 good 0 dims {} zerobad 0
+LATTICE 22199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 22209 components 3 good 0 dims {} zerobad 0
+LATTICE 22219 components 2 good 0 dims {} zerobad 0
+LATTICE 22229 components 1 good 0 dims {} zerobad 0
+LATTICE 22239 components 1 good 0 dims {} zerobad 0
+LATTICE 22249 components 2 good 0 dims {} zerobad 0
+LATTICE 22259 components 1 good 0 dims {} zerobad 0
+LATTICE 22269 components 1 good 0 dims {} zerobad 0
+LATTICE 22279 components 1 good 0 dims {} zerobad 0
+LATTICE 22289 components 1 good 0 dims {} zerobad 0
+LATTICE 22299 NONREAL
+LATTICE 22309 components 3 good 0 dims {} zerobad 0
+LATTICE 22319 components 1 good 0 dims {} zerobad 0
+LATTICE 22329 components 1 good 0 dims {} zerobad 0
+LATTICE 22339 components 2 good 0 dims {} zerobad 0
+LATTICE 22349 components 1 good 0 dims {} zerobad 0
+LATTICE 22359 components 1 good 0 dims {} zerobad 0
+LATTICE 22369 NONREAL
+LATTICE 22379 components 1 good 0 dims {} zerobad 0
+LATTICE 22389 components 2 good 0 dims {} zerobad 0
+LATTICE 22399 NONREAL
+DONE
+LATTICE 22409 components 1 good 0 dims {} zerobad 0
+LATTICE 22419 components 3 good 0 dims {} zerobad 0
+LATTICE 22429 components 1 good 0 dims {} zerobad 0
+LATTICE 22439 components 2 good 0 dims {} zerobad 0
+LATTICE 22449 components 2 good 0 dims {} zerobad 0
+LATTICE 22459 NONREAL
+LATTICE 22469 components 2 good 0 dims {} zerobad 0
+LATTICE 22479 components 1 good 0 dims {} zerobad 0
+LATTICE 22489 NONREAL
+LATTICE 22499 components 1 good 0 dims {} zerobad 0
+LATTICE 22509 components 1 good 0 dims {} zerobad 0
+LATTICE 22519 components 1 good 0 dims {} zerobad 0
+LATTICE 22529 components 1 good 0 dims {} zerobad 0
+LATTICE 22539 NONREAL
+LATTICE 22549 components 1 good 0 dims {} zerobad 0
+LATTICE 22559 components 2 good 0 dims {} zerobad 0
+LATTICE 22569 components 1 good 0 dims {} zerobad 0
+LATTICE 22579 components 1 good 0 dims {} zerobad 0
+LATTICE 22589 components 2 good 0 dims {} zerobad 0
+LATTICE 22599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 22609 components 2 good 0 dims {} zerobad 0
+LATTICE 22619 components 1 good 0 dims {} zerobad 0
+LATTICE 22629 components 5 good 0 dims {} zerobad 0
+LATTICE 22639 components 1 good 0 dims {} zerobad 0
+LATTICE 22649 components 1 good 0 dims {} zerobad 0
+LATTICE 22659 NONREAL
+LATTICE 22669 NONREAL
+LATTICE 22679 components 2 good 0 dims {} zerobad 0
+LATTICE 22689 components 1 good 0 dims {} zerobad 0
+LATTICE 22699 components 1 good 0 dims {} zerobad 0
+LATTICE 22709 components 2 good 0 dims {} zerobad 0
+LATTICE 22719 components 2 good 0 dims {} zerobad 0
+LATTICE 22729 components 1 good 0 dims {} zerobad 0
+LATTICE 22739 components 2 good 0 dims {} zerobad 0
+LATTICE 22749 components 1 good 0 dims {} zerobad 0
+LATTICE 22759 components 3 good 0 dims {} zerobad 0
+LATTICE 22769 components 1 good 0 dims {} zerobad 0
+LATTICE 22779 components 2 good 0 dims {} zerobad 0
+LATTICE 22789 components 2 good 0 dims {} zerobad 0
+LATTICE 22799 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 22809 components 3 good 0 dims {} zerobad 0
+LATTICE 22819 components 1 good 0 dims {} zerobad 0
+LATTICE 22829 components 2 good 0 dims {} zerobad 0
+LATTICE 22839 NONREAL
+LATTICE 22849 components 2 good 0 dims {} zerobad 0
+LATTICE 22859 components 4 good 0 dims {} zerobad 0
+LATTICE 22869 components 1 good 0 dims {} zerobad 0
+LATTICE 22879 components 1 good 0 dims {} zerobad 0
+LATTICE 22889 components 2 good 0 dims {} zerobad 0
+LATTICE 22899 components 1 good 0 dims {} zerobad 0
+LATTICE 22909 components 2 good 0 dims {} zerobad 0
+LATTICE 22919 components 1 good 0 dims {} zerobad 0
+LATTICE 22929 components 1 good 0 dims {} zerobad 0
+LATTICE 22939 components 2 good 0 dims {} zerobad 0
+LATTICE 22949 components 1 good 0 dims {} zerobad 0
+LATTICE 22959 components 4 good 0 dims {} zerobad 0
+LATTICE 22969 components 1 good 0 dims {} zerobad 0
+LATTICE 22979 components 3 good 0 dims {} zerobad 0
+LATTICE 22989 components 2 good 0 dims {} zerobad 0
+LATTICE 22999 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 23009 components 4 good 0 dims {} zerobad 0
+LATTICE 23019 components 1 good 0 dims {} zerobad 0
+LATTICE 23029 components 1 good 0 dims {} zerobad 0
+LATTICE 23039 components 1 good 0 dims {} zerobad 0
+LATTICE 23049 components 1 good 0 dims {} zerobad 0
+LATTICE 23059 NONREAL
+LATTICE 23069 components 2 good 0 dims {} zerobad 0
+LATTICE 23079 components 2 good 0 dims {} zerobad 0
+LATTICE 23089 components 1 good 0 dims {} zerobad 0
+LATTICE 23099 components 2 good 0 dims {} zerobad 0
+LATTICE 23109 components 2 good 0 dims {} zerobad 0
+LATTICE 23119 components 1 good 0 dims {} zerobad 0
+LATTICE 23129 components 3 good 0 dims {} zerobad 0
+LATTICE 23139 components 1 good 0 dims {} zerobad 0
+LATTICE 23149 components 1 good 0 dims {} zerobad 0
+LATTICE 23159 components 1 good 0 dims {} zerobad 0
+LATTICE 23169 components 1 good 0 dims {} zerobad 0
+LATTICE 23179 components 2 good 0 dims {} zerobad 0
+LATTICE 23189 components 1 good 0 dims {} zerobad 0
+LATTICE 23199 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 23209 components 1 good 0 dims {} zerobad 0
+LATTICE 23219 components 1 good 0 dims {} zerobad 0
+LATTICE 23229 components 2 good 0 dims {} zerobad 0
+LATTICE 23239 components 3 good 0 dims {} zerobad 0
+LATTICE 23249 components 3 good 0 dims {} zerobad 0
+LATTICE 23259 components 1 good 0 dims {} zerobad 0
+LATTICE 23269 components 2 good 0 dims {} zerobad 0
+LATTICE 23279 components 2 good 0 dims {} zerobad 0
+LATTICE 23289 components 2 good 0 dims {} zerobad 0
+LATTICE 23299 components 1 good 0 dims {} zerobad 0
+LATTICE 23309 components 2 good 0 dims {} zerobad 0
+LATTICE 23319 components 2 good 0 dims {} zerobad 0
+LATTICE 23329 components 1 good 0 dims {} zerobad 0
+LATTICE 23339 components 1 good 0 dims {} zerobad 0
+LATTICE 23349 components 1 good 0 dims {} zerobad 0
+LATTICE 23359 components 3 good 0 dims {} zerobad 0
+LATTICE 23369 components 1 good 0 dims {} zerobad 0
+LATTICE 23379 components 1 good 0 dims {} zerobad 0
+LATTICE 23389 components 1 good 0 dims {} zerobad 0
+LATTICE 23399 NONREAL
+DONE
+LATTICE 23409 components 3 good 0 dims {} zerobad 0
+LATTICE 23419 components 2 good 0 dims {} zerobad 0
+LATTICE 23429 components 3 good 0 dims {} zerobad 0
+LATTICE 23439 components 1 good 0 dims {} zerobad 0
+LATTICE 23449 components 1 good 0 dims {} zerobad 0
+LATTICE 23459 NONREAL
+LATTICE 23469 components 1 good 0 dims {} zerobad 0
+LATTICE 23479 components 1 good 0 dims {} zerobad 0
+LATTICE 23489 components 1 good 0 dims {} zerobad 0
+LATTICE 23499 components 1 good 0 dims {} zerobad 0
+LATTICE 23509 components 2 good 0 dims {} zerobad 0
+LATTICE 23519 components 2 good 0 dims {} zerobad 0
+LATTICE 23529 components 2 good 0 dims {} zerobad 0
+LATTICE 23539 components 2 good 0 dims {} zerobad 0
+LATTICE 23549 components 1 good 0 dims {} zerobad 0
+LATTICE 23559 components 2 good 0 dims {} zerobad 0
+LATTICE 23569 components 2 good 0 dims {} zerobad 0
+LATTICE 23579 components 2 good 0 dims {} zerobad 0
+LATTICE 23589 components 1 good 0 dims {} zerobad 0
+LATTICE 23599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 23609 components 2 good 0 dims {} zerobad 0
+LATTICE 23619 components 1 good 0 dims {} zerobad 0
+LATTICE 23629 components 1 good 0 dims {} zerobad 0
+LATTICE 23639 components 2 good 0 dims {} zerobad 0
+LATTICE 23649 components 1 good 0 dims {} zerobad 0
+LATTICE 23659 components 1 good 0 dims {} zerobad 0
+LATTICE 23669 components 3 good 0 dims {} zerobad 0
+LATTICE 23679 components 1 good 0 dims {} zerobad 0
+LATTICE 23689 components 1 good 0 dims {} zerobad 0
+LATTICE 23699 NONREAL
+LATTICE 23709 NONREAL
+LATTICE 23719 components 1 good 0 dims {} zerobad 0
+LATTICE 23729 NONREAL
+LATTICE 23739 components 1 good 0 dims {} zerobad 0
+LATTICE 23749 NONREAL
+LATTICE 23759 components 2 good 0 dims {} zerobad 0
+LATTICE 23769 components 1 good 0 dims {} zerobad 0
+LATTICE 23779 components 2 good 0 dims {} zerobad 0
+LATTICE 23789 components 1 good 0 dims {} zerobad 0
+LATTICE 23799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 23809 components 1 good 0 dims {} zerobad 0
+LATTICE 23819 components 1 good 0 dims {} zerobad 0
+LATTICE 23829 components 1 good 0 dims {} zerobad 0
+LATTICE 23839 NONREAL
+LATTICE 23849 components 1 good 0 dims {} zerobad 0
+LATTICE 23859 components 2 good 0 dims {} zerobad 0
+LATTICE 23869 NONREAL
+LATTICE 23879 NONREAL
+LATTICE 23889 components 1 good 0 dims {} zerobad 0
+LATTICE 23899 components 1 good 0 dims {} zerobad 0
+LATTICE 23909 NONREAL
+LATTICE 23919 components 1 good 0 dims {} zerobad 0
+LATTICE 23929 components 1 good 0 dims {} zerobad 0
+LATTICE 23939 components 2 good 0 dims {} zerobad 0
+LATTICE 23949 components 2 good 0 dims {} zerobad 0
+LATTICE 23959 components 1 good 0 dims {} zerobad 0
+LATTICE 23969 components 1 good 0 dims {} zerobad 0
+LATTICE 23979 components 1 good 0 dims {} zerobad 0
+LATTICE 23989 components 3 good 0 dims {} zerobad 0
+LATTICE 23999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 24009 components 1 good 0 dims {} zerobad 0
+LATTICE 24019 components 1 good 0 dims {} zerobad 0
+LATTICE 24029 components 1 good 0 dims {} zerobad 0
+LATTICE 24039 components 2 good 0 dims {} zerobad 0
+LATTICE 24049 components 2 good 0 dims {} zerobad 0
+LATTICE 24059 NONREAL
+LATTICE 24069 NONREAL
+LATTICE 24079 components 1 good 0 dims {} zerobad 0
+LATTICE 24089 components 3 good 0 dims {} zerobad 0
+LATTICE 24099 components 1 good 0 dims {} zerobad 0
+LATTICE 24109 NONREAL
+LATTICE 24119 NONREAL
+LATTICE 24129 components 1 good 0 dims {} zerobad 0
+LATTICE 24139 NONREAL
+LATTICE 24149 components 1 good 0 dims {} zerobad 0
+LATTICE 24159 components 2 good 0 dims {} zerobad 0
+LATTICE 24169 components 2 good 0 dims {} zerobad 0
+LATTICE 24179 components 1 good 0 dims {} zerobad 0
+LATTICE 24189 components 2 good 0 dims {} zerobad 0
+LATTICE 24199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 24209 components 1 good 0 dims {} zerobad 0
+LATTICE 24219 components 2 good 0 dims {} zerobad 0
+LATTICE 24229 NONREAL
+LATTICE 24239 components 1 good 0 dims {} zerobad 0
+LATTICE 24249 components 1 good 0 dims {} zerobad 0
+LATTICE 24259 components 1 good 0 dims {} zerobad 0
+LATTICE 24269 components 2 good 0 dims {} zerobad 0
+LATTICE 24279 components 1 good 0 dims {} zerobad 0
+LATTICE 24289 components 3 good 0 dims {} zerobad 0
+LATTICE 24299 components 2 good 0 dims {} zerobad 0
+LATTICE 24309 components 2 good 0 dims {} zerobad 0
+LATTICE 24319 components 4 good 0 dims {} zerobad 0
+LATTICE 24329 components 1 good 0 dims {} zerobad 0
+LATTICE 24339 components 1 good 0 dims {} zerobad 0
+LATTICE 24349 components 1 good 0 dims {} zerobad 0
+LATTICE 24359 components 3 good 0 dims {} zerobad 0
+LATTICE 24369 components 2 good 0 dims {} zerobad 0
+LATTICE 24379 NONREAL
+LATTICE 24389 components 2 good 0 dims {} zerobad 0
+LATTICE 24399 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 24409 components 1 good 0 dims {} zerobad 0
+LATTICE 24419 components 1 good 0 dims {} zerobad 0
+LATTICE 24429 components 3 good 0 dims {} zerobad 0
+LATTICE 24439 NONREAL
+LATTICE 24449 components 2 good 0 dims {} zerobad 0
+LATTICE 24459 components 1 good 0 dims {} zerobad 0
+LATTICE 24469 components 2 good 0 dims {} zerobad 0
+LATTICE 24479 components 2 good 0 dims {} zerobad 0
+LATTICE 24489 components 1 good 0 dims {} zerobad 0
+LATTICE 24499 components 1 good 0 dims {} zerobad 0
+LATTICE 24509 components 3 good 0 dims {} zerobad 0
+LATTICE 24519 components 4 good 0 dims {} zerobad 0
+LATTICE 24529 components 1 good 0 dims {} zerobad 0
+LATTICE 24539 components 2 good 0 dims {} zerobad 0
+LATTICE 24549 components 2 good 0 dims {} zerobad 0
+LATTICE 24559 components 1 good 0 dims {} zerobad 0
+LATTICE 24569 components 1 good 0 dims {} zerobad 0
+LATTICE 24579 components 1 good 0 dims {} zerobad 0
+LATTICE 24589 components 1 good 0 dims {} zerobad 0
+LATTICE 24599 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 24609 components 3 good 0 dims {} zerobad 0
+LATTICE 24619 components 3 good 0 dims {} zerobad 0
+LATTICE 24629 components 1 good 0 dims {} zerobad 0
+LATTICE 24639 components 1 good 0 dims {} zerobad 0
+LATTICE 24649 components 3 good 0 dims {} zerobad 0
+LATTICE 24659 components 1 good 0 dims {} zerobad 0
+LATTICE 24669 components 1 good 0 dims {} zerobad 0
+LATTICE 24679 components 1 good 0 dims {} zerobad 0
+LATTICE 24689 components 2 good 0 dims {} zerobad 0
+LATTICE 24699 components 3 good 0 dims {} zerobad 0
+LATTICE 24709 components 1 good 0 dims {} zerobad 0
+LATTICE 24719 NONREAL
+LATTICE 24729 components 1 good 0 dims {} zerobad 0
+LATTICE 24739 components 3 good 0 dims {} zerobad 0
+LATTICE 24749 components 2 good 0 dims {} zerobad 0
+LATTICE 24759 components 2 good 0 dims {} zerobad 0
+LATTICE 24769 components 2 good 0 dims {} zerobad 0
+LATTICE 24779 components 3 good 0 dims {} zerobad 0
+LATTICE 24789 components 1 good 0 dims {} zerobad 0
+LATTICE 24799 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 24809 components 2 good 0 dims {} zerobad 0
+LATTICE 24819 components 1 good 0 dims {} zerobad 0
+LATTICE 24829 NONREAL
+LATTICE 24839 components 2 good 0 dims {} zerobad 0
+LATTICE 24849 components 2 good 0 dims {} zerobad 0
+LATTICE 24859 components 1 good 0 dims {} zerobad 0
+LATTICE 24869 components 1 good 0 dims {} zerobad 0
+LATTICE 24879 components 1 good 0 dims {} zerobad 0
+LATTICE 24889 components 2 good 0 dims {} zerobad 0
+LATTICE 24899 components 2 good 0 dims {} zerobad 0
+LATTICE 24909 components 1 good 0 dims {} zerobad 0
+LATTICE 24919 components 1 good 0 dims {} zerobad 0
+LATTICE 24929 components 1 good 0 dims {} zerobad 0
+LATTICE 24939 components 1 good 0 dims {} zerobad 0
+LATTICE 24949 NONREAL
+LATTICE 24959 components 1 good 0 dims {} zerobad 0
+LATTICE 24969 components 1 good 0 dims {} zerobad 0
+LATTICE 24979 components 2 good 0 dims {} zerobad 0
+LATTICE 24989 components 1 good 0 dims {} zerobad 0
+LATTICE 24999 components 4 good 0 dims {} zerobad 0
+DONE
+LATTICE 25009 components 2 good 0 dims {} zerobad 0
+LATTICE 25019 NONREAL
+LATTICE 25029 components 2 good 0 dims {} zerobad 0
+LATTICE 25039 components 1 good 0 dims {} zerobad 0
+LATTICE 25049 components 2 good 0 dims {} zerobad 0
+LATTICE 25059 components 3 good 0 dims {} zerobad 0
+LATTICE 25069 components 1 good 0 dims {} zerobad 0
+LATTICE 25079 components 2 good 0 dims {} zerobad 0
+LATTICE 25089 components 2 good 0 dims {} zerobad 0
+LATTICE 25099 components 1 good 0 dims {} zerobad 0
+LATTICE 25109 components 3 good 0 dims {} zerobad 0
+LATTICE 25119 NONREAL
+LATTICE 25129 components 1 good 0 dims {} zerobad 0
+LATTICE 25139 components 1 good 0 dims {} zerobad 0
+LATTICE 25149 components 1 good 0 dims {} zerobad 0
+LATTICE 25159 components 1 good 0 dims {} zerobad 0
+LATTICE 25169 components 2 good 0 dims {} zerobad 0
+LATTICE 25179 components 2 good 0 dims {} zerobad 0
+LATTICE 25189 components 1 good 0 dims {} zerobad 0
+LATTICE 25199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 25209 components 1 good 0 dims {} zerobad 0
+LATTICE 25219 components 1 good 0 dims {} zerobad 0
+LATTICE 25229 components 1 good 0 dims {} zerobad 0
+LATTICE 25239 components 2 good 0 dims {} zerobad 0
+LATTICE 25249 components 1 good 0 dims {} zerobad 0
+LATTICE 25259 NONREAL
+LATTICE 25269 components 1 good 0 dims {} zerobad 0
+LATTICE 25279 components 3 good 0 dims {} zerobad 0
+LATTICE 25289 components 1 good 0 dims {} zerobad 0
+LATTICE 25299 components 1 good 0 dims {} zerobad 0
+LATTICE 25309 components 1 good 0 dims {} zerobad 0
+LATTICE 25319 components 1 good 0 dims {} zerobad 0
+LATTICE 25329 components 1 good 0 dims {} zerobad 0
+LATTICE 25339 components 3 good 0 dims {} zerobad 0
+LATTICE 25349 NONREAL
+LATTICE 25359 components 2 good 0 dims {} zerobad 0
+LATTICE 25369 components 2 good 0 dims {} zerobad 0
+LATTICE 25379 components 1 good 0 dims {} zerobad 0
+LATTICE 25389 components 2 good 0 dims {} zerobad 0
+LATTICE 25399 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 25409 components 1 good 0 dims {} zerobad 0
+LATTICE 25419 NONREAL
+LATTICE 25429 components 1 good 0 dims {} zerobad 0
+LATTICE 25439 NONREAL
+LATTICE 25449 components 2 good 0 dims {} zerobad 0
+LATTICE 25459 NONREAL
+LATTICE 25469 components 1 good 0 dims {} zerobad 0
+LATTICE 25479 NONREAL
+LATTICE 25489 components 1 good 0 dims {} zerobad 0
+LATTICE 25499 components 1 good 0 dims {} zerobad 0
+LATTICE 25509 components 1 good 0 dims {} zerobad 0
+LATTICE 25519 NONREAL
+LATTICE 25529 components 1 good 0 dims {} zerobad 0
+LATTICE 25539 components 2 good 0 dims {} zerobad 0
+LATTICE 25549 NONREAL
+LATTICE 25559 NONREAL
+LATTICE 25569 NONREAL
+LATTICE 25579 components 1 good 0 dims {} zerobad 0
+LATTICE 25589 components 1 good 0 dims {} zerobad 0
+LATTICE 25599 NONREAL
+DONE
+LATTICE 25609 components 4 good 0 dims {} zerobad 0
+LATTICE 25619 components 2 good 0 dims {} zerobad 0
+LATTICE 25629 components 1 good 0 dims {} zerobad 0
+LATTICE 25639 components 3 good 0 dims {} zerobad 0
+LATTICE 25649 components 1 good 0 dims {} zerobad 0
+LATTICE 25659 components 1 good 0 dims {} zerobad 0
+LATTICE 25669 NONREAL
+LATTICE 25679 components 2 good 0 dims {} zerobad 0
+LATTICE 25689 components 1 good 0 dims {} zerobad 0
+LATTICE 25699 components 1 good 0 dims {} zerobad 0
+LATTICE 25709 components 1 good 0 dims {} zerobad 0
+LATTICE 25719 components 3 good 0 dims {} zerobad 0
+LATTICE 25729 components 2 good 0 dims {} zerobad 0
+LATTICE 25739 components 2 good 0 dims {} zerobad 0
+LATTICE 25749 components 3 good 0 dims {} zerobad 0
+LATTICE 25759 components 1 good 0 dims {} zerobad 0
+LATTICE 25769 components 2 good 0 dims {} zerobad 0
+LATTICE 25779 components 3 good 0 dims {} zerobad 0
+LATTICE 25789 components 1 good 0 dims {} zerobad 0
+LATTICE 25799 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 25809 NONREAL
+LATTICE 25819 components 3 good 0 dims {} zerobad 0
+LATTICE 25829 components 1 good 0 dims {} zerobad 0
+LATTICE 25839 NONREAL
+LATTICE 25849 components 2 good 0 dims {} zerobad 0
+LATTICE 25859 components 1 good 0 dims {} zerobad 0
+LATTICE 25869 NONREAL
+LATTICE 25879 NONREAL
+LATTICE 25889 components 3 good 0 dims {} zerobad 0
+LATTICE 25899 components 1 good 0 dims {} zerobad 0
+LATTICE 25909 components 2 good 0 dims {} zerobad 0
+LATTICE 25919 components 1 good 0 dims {} zerobad 0
+LATTICE 25929 components 3 good 0 dims {} zerobad 0
+LATTICE 25939 components 2 good 0 dims {} zerobad 0
+LATTICE 25949 components 4 good 0 dims {} zerobad 0
+LATTICE 25959 components 2 good 0 dims {} zerobad 0
+LATTICE 25969 components 2 good 0 dims {} zerobad 0
+LATTICE 25979 components 3 good 0 dims {} zerobad 0
+LATTICE 25989 components 2 good 0 dims {} zerobad 0
+LATTICE 25999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 26009 components 1 good 0 dims {} zerobad 0
+LATTICE 26019 components 2 good 0 dims {} zerobad 0
+LATTICE 26029 components 2 good 0 dims {} zerobad 0
+LATTICE 26039 components 3 good 0 dims {} zerobad 0
+LATTICE 26049 components 2 good 0 dims {} zerobad 0
+LATTICE 26059 components 1 good 0 dims {} zerobad 0
+LATTICE 26069 components 2 good 0 dims {} zerobad 0
+LATTICE 26079 components 3 good 0 dims {} zerobad 0
+LATTICE 26089 components 2 good 0 dims {} zerobad 0
+LATTICE 26099 components 2 good 0 dims {} zerobad 0
+LATTICE 26109 components 3 good 0 dims {} zerobad 0
+LATTICE 26119 components 1 good 0 dims {} zerobad 0
+LATTICE 26129 components 2 good 0 dims {} zerobad 0
+LATTICE 26139 components 2 good 0 dims {} zerobad 0
+LATTICE 26149 components 2 good 0 dims {} zerobad 0
+LATTICE 26159 NONREAL
+LATTICE 26169 components 2 good 0 dims {} zerobad 0
+LATTICE 26179 components 1 good 0 dims {} zerobad 0
+LATTICE 26189 components 2 good 0 dims {} zerobad 0
+LATTICE 26199 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 26209 components 1 good 0 dims {} zerobad 0
+LATTICE 26219 NONREAL
+LATTICE 26229 components 1 good 0 dims {} zerobad 0
+LATTICE 26239 NONREAL
+LATTICE 26249 components 3 good 0 dims {} zerobad 0
+LATTICE 26259 components 1 good 0 dims {} zerobad 0
+LATTICE 26269 components 1 good 0 dims {} zerobad 0
+LATTICE 26279 components 1 good 0 dims {} zerobad 0
+LATTICE 26289 components 3 good 0 dims {} zerobad 0
+LATTICE 26299 NONREAL
+LATTICE 26309 components 1 good 0 dims {} zerobad 0
+LATTICE 26319 NONREAL
+LATTICE 26329 components 1 good 0 dims {} zerobad 0
+LATTICE 26339 components 3 good 0 dims {} zerobad 0
+LATTICE 26349 components 2 good 0 dims {} zerobad 0
+LATTICE 26359 components 1 good 0 dims {} zerobad 0
+LATTICE 26369 components 3 good 0 dims {} zerobad 0
+LATTICE 26379 components 1 good 0 dims {} zerobad 0
+LATTICE 26389 components 1 good 0 dims {} zerobad 0
+LATTICE 26399 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 26409 components 1 good 0 dims {} zerobad 0
+LATTICE 26419 components 2 good 0 dims {} zerobad 0
+LATTICE 26429 components 1 good 0 dims {} zerobad 0
+LATTICE 26439 components 1 good 0 dims {} zerobad 0
+LATTICE 26449 components 2 good 0 dims {} zerobad 0
+LATTICE 26459 components 2 good 0 dims {} zerobad 0
+LATTICE 26469 components 2 good 0 dims {} zerobad 0
+LATTICE 26479 components 4 good 0 dims {} zerobad 0
+LATTICE 26489 NONREAL
+LATTICE 26499 components 1 good 0 dims {} zerobad 0
+LATTICE 26509 components 2 good 0 dims {} zerobad 0
+LATTICE 26519 components 1 good 0 dims {} zerobad 0
+LATTICE 26529 NONREAL
+LATTICE 26539 NONREAL
+LATTICE 26549 components 1 good 0 dims {} zerobad 0
+LATTICE 26559 components 2 good 0 dims {} zerobad 0
+LATTICE 26569 components 1 good 0 dims {} zerobad 0
+LATTICE 26579 components 2 good 0 dims {} zerobad 0
+LATTICE 26589 components 2 good 0 dims {} zerobad 0
+LATTICE 26599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 26609 components 1 good 0 dims {} zerobad 0
+LATTICE 26619 components 1 good 0 dims {} zerobad 0
+LATTICE 26629 components 1 good 0 dims {} zerobad 0
+LATTICE 26639 NONREAL
+LATTICE 26649 components 3 good 0 dims {} zerobad 0
+LATTICE 26659 components 1 good 0 dims {} zerobad 0
+LATTICE 26669 components 4 good 0 dims {} zerobad 0
+LATTICE 26679 components 1 good 0 dims {} zerobad 0
+LATTICE 26689 components 2 good 0 dims {} zerobad 0
+LATTICE 26699 components 4 good 0 dims {} zerobad 0
+LATTICE 26709 components 3 good 0 dims {} zerobad 0
+LATTICE 26719 components 1 good 0 dims {} zerobad 0
+LATTICE 26729 components 2 good 0 dims {} zerobad 0
+LATTICE 26739 components 1 good 0 dims {} zerobad 0
+LATTICE 26749 components 3 good 0 dims {} zerobad 0
+LATTICE 26759 NONREAL
+LATTICE 26769 NONREAL
+LATTICE 26779 components 2 good 0 dims {} zerobad 0
+LATTICE 26789 NONREAL
+LATTICE 26799 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 26809 components 1 good 0 dims {} zerobad 0
+LATTICE 26819 components 2 good 0 dims {} zerobad 0
+LATTICE 26829 components 1 good 0 dims {} zerobad 0
+LATTICE 26839 components 2 good 0 dims {} zerobad 0
+LATTICE 26849 components 1 good 0 dims {} zerobad 0
+LATTICE 26859 components 2 good 0 dims {} zerobad 0
+LATTICE 26869 NONREAL
+LATTICE 26879 components 1 good 0 dims {} zerobad 0
+LATTICE 26889 components 3 good 0 dims {} zerobad 0
+LATTICE 26899 components 2 good 0 dims {} zerobad 0
+LATTICE 26909 components 1 good 0 dims {} zerobad 0
+LATTICE 26919 components 2 good 0 dims {} zerobad 0
+LATTICE 26929 components 1 good 0 dims {} zerobad 0
+LATTICE 26939 components 1 good 0 dims {} zerobad 0
+LATTICE 26949 components 2 good 0 dims {} zerobad 0
+LATTICE 26959 components 1 good 0 dims {} zerobad 0
+LATTICE 26969 components 2 good 0 dims {} zerobad 0
+LATTICE 26979 components 1 good 0 dims {} zerobad 0
+LATTICE 26989 components 3 good 0 dims {} zerobad 0
+LATTICE 26999 components 2 good 0 dims {} zerobad 0
+DONE
+LATTICE 27009 NONREAL
+LATTICE 27019 components 2 good 0 dims {} zerobad 0
+LATTICE 27029 components 2 good 0 dims {} zerobad 0
+LATTICE 27039 NONREAL
+LATTICE 27049 components 1 good 0 dims {} zerobad 0
+LATTICE 27059 components 3 good 0 dims {} zerobad 0
+LATTICE 27069 components 2 good 0 dims {} zerobad 0
+LATTICE 27079 components 1 good 0 dims {} zerobad 0
+LATTICE 27089 components 2 good 0 dims {} zerobad 0
+LATTICE 27099 NONREAL
+LATTICE 27109 components 2 good 0 dims {} zerobad 0
+LATTICE 27119 components 2 good 0 dims {} zerobad 0
+LATTICE 27129 components 2 good 0 dims {} zerobad 0
+LATTICE 27139 components 1 good 0 dims {} zerobad 0
+LATTICE 27149 components 2 good 0 dims {} zerobad 0
+LATTICE 27159 components 3 good 0 dims {} zerobad 0
+LATTICE 27169 components 3 good 0 dims {} zerobad 0
+LATTICE 27179 components 1 good 0 dims {} zerobad 0
+LATTICE 27189 components 3 good 0 dims {} zerobad 0
+LATTICE 27199 components 3 good 0 dims {} zerobad 0
+DONE
+LATTICE 27209 components 1 good 0 dims {} zerobad 0
+LATTICE 27219 components 1 good 0 dims {} zerobad 0
+LATTICE 27229 components 1 good 0 dims {} zerobad 0
+LATTICE 27239 components 1 good 0 dims {} zerobad 0
+LATTICE 27249 components 1 good 0 dims {} zerobad 0
+LATTICE 27259 components 1 good 0 dims {} zerobad 0
+LATTICE 27269 components 2 good 0 dims {} zerobad 0
+LATTICE 27279 components 1 good 0 dims {} zerobad 0
+LATTICE 27289 components 3 good 0 dims {} zerobad 0
+LATTICE 27299 components 1 good 0 dims {} zerobad 0
+LATTICE 27309 components 3 good 0 dims {} zerobad 0
+LATTICE 27319 components 1 good 0 dims {} zerobad 0
+LATTICE 27329 components 1 good 0 dims {} zerobad 0
+LATTICE 27339 components 1 good 0 dims {} zerobad 0
+LATTICE 27349 components 2 good 0 dims {} zerobad 0
+LATTICE 27359 components 1 good 0 dims {} zerobad 0
+LATTICE 27369 components 1 good 0 dims {} zerobad 0
+LATTICE 27379 components 2 good 0 dims {} zerobad 0
+LATTICE 27389 components 2 good 0 dims {} zerobad 0
+LATTICE 27399 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 27409 NONREAL
+LATTICE 27419 components 2 good 0 dims {} zerobad 0
+LATTICE 27429 components 1 good 0 dims {} zerobad 0
+LATTICE 27439 components 1 good 0 dims {} zerobad 0
+LATTICE 27449 components 2 good 0 dims {} zerobad 0
+LATTICE 27459 NONREAL
+LATTICE 27469 components 1 good 0 dims {} zerobad 0
+LATTICE 27479 NONREAL
+LATTICE 27489 components 2 good 0 dims {} zerobad 0
+LATTICE 27499 components 1 good 0 dims {} zerobad 0
+LATTICE 27509 components 1 good 0 dims {} zerobad 0
+LATTICE 27519 components 1 good 0 dims {} zerobad 0
+LATTICE 27529 components 2 good 0 dims {} zerobad 0
+LATTICE 27539 NONREAL
+LATTICE 27549 components 2 good 0 dims {} zerobad 0
+LATTICE 27559 components 3 good 0 dims {} zerobad 0
+LATTICE 27569 components 1 good 0 dims {} zerobad 0
+LATTICE 27579 components 3 good 0 dims {} zerobad 0
+LATTICE 27589 components 1 good 0 dims {} zerobad 0
+LATTICE 27599 components 1 good 0 dims {} zerobad 0
+DONE
+LATTICE 27609 NONREAL
+LATTICE 27619 components 1 good 0 dims {} zerobad 0
+LATTICE 27629 NONREAL
+LATTICE 27639 components 1 good 0 dims {} zerobad 0
+LATTICE 27649 components 1 good 0 dims {} zerobad 0
+LATTICE 27659 components 1 good 0 dims {} zerobad 0
+LATTICE 27669 components 1 good 0 dims {} zerobad 0
+LATTICE 27679 components 1 good 0 dims {} zerobad 0
+DONE
+ALLDONE

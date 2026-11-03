@@ -1,0 +1,6 @@
+{"idx": "b50:1553/198", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 5, "phipruned": 2, "memo hits": 1}, "found": [], "src": "core", "cap": 3, "wall": 0.03}
+{"idx": "b50:1553/648", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 1}, "found": [], "src": "core", "cap": 3, "wall": 0.01}
+{"idx": "b50:1553/783", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 1}, "found": [], "src": "core", "cap": 3, "wall": 0.01}
+{"idx": "b50:1553/818", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 6, "phipruned": 2, "memo hits": 2}, "found": [], "src": "core", "cap": 3, "wall": 0.05}
+{"idx": "b51:41078/2123", "comp": 0, "kind": "rigid", "n": 14, "status": "OK", "stats": {"nodes": 4, "phipruned": 3}, "found": [], "src": "core", "cap": 2, "wall": 0.01}
+{"ALLDONE": "part_at"}

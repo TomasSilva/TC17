@@ -1,0 +1,15 @@
+{'cost>1': 2692, 'empty-family-degenerate': 5978, 'family': 7203, 'empty': 70080, 'points': 13788, 'empty-degenerate': 259} 92s
+{'cost>1': 2821, 'empty-family-degenerate': 7034, 'family': 8167, 'empty': 165422, 'points': 16038, 'empty-degenerate': 518} 149s
+{'cost>1': 3157, 'empty-family-degenerate': 7514, 'family': 8702, 'empty': 262342, 'points': 17565, 'empty-degenerate': 720} 208s
+{'cost>1': 3157, 'empty-family-degenerate': 7615, 'family': 8825, 'empty': 361735, 'points': 17736, 'empty-degenerate': 932} 257s
+{'cost>1': 3168, 'empty-family-degenerate': 7759, 'family': 8955, 'empty': 460889, 'points': 18002, 'empty-degenerate': 1227} 308s
+{'cost>1': 3247, 'empty-family-degenerate': 8078, 'family': 9180, 'empty': 559459, 'points': 18484, 'empty-degenerate': 1552} 357s
+{'cost>1': 3247, 'empty-family-degenerate': 8088, 'family': 9209, 'empty': 659185, 'points': 18534, 'empty-degenerate': 1737} 405s
+{'cost>1': 3247, 'empty-family-degenerate': 8102, 'family': 9227, 'empty': 758927, 'points': 18578, 'empty-degenerate': 1919} 453s
+{'cost>1': 3252, 'empty-family-degenerate': 8124, 'family': 9280, 'empty': 858446, 'points': 18716, 'empty-degenerate': 2182} 512s
+{'cost>1': 3279, 'empty-family-degenerate': 8125, 'family': 9292, 'empty': 958191, 'points': 18772, 'empty-degenerate': 2341} 573s
+{'cost>1': 3279, 'empty-family-degenerate': 8125, 'family': 9301, 'empty': 1057960, 'points': 18790, 'empty-degenerate': 2545} 629s
+{'cost>1': 3288, 'empty-family-degenerate': 8159, 'family': 9338, 'empty': 1157625, 'points': 18831, 'empty-degenerate': 2759} 683s
+{'cost>1': 3288, 'empty-family-degenerate': 8160, 'family': 9339, 'empty': 1257420, 'points': 18837, 'empty-degenerate': 2956} 738s
+{'cost>1': 3288, 'empty-family-degenerate': 8162, 'family': 9340, 'empty': 1357272, 'points': 18844, 'empty-degenerate': 3094} 794s
+FINAL {'cost>1': 3290, 'empty-family-degenerate': 8162, 'family': 9342, 'empty': 1415368, 'points': 18848, 'empty-degenerate': 3156} 830s

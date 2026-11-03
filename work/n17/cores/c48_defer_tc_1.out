@@ -1,0 +1,31 @@
+LATTICE 1 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 11 components 2 good 0 dims {} zerobad 0
+LATTICE 21 components 2 good 0 dims {} zerobad 0
+LATTICE 31 components 2 good 0 dims {} zerobad 0
+LATTICE 41 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 51 components 3 good 0 dims {} zerobad 0
+LATTICE 61 components 4 good 1 dims {1} zerobad 0
+  COMP dim 1 generic FREE; non-free locus inside degeneracy locus: true
+LATTICE 71 components 2 good 0 dims {} zerobad 0
+LATTICE 81 components 2 good 0 dims {} zerobad 0
+LATTICE 91 components 1 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 101 components 3 good 0 dims {} zerobad 0
+LATTICE 111 components 2 good 1 dims {1} zerobad 0
+  COMP dim 1 generic FREE; non-free locus inside degeneracy locus: true
+LATTICE 121 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 131 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 141 components 3 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 1 rank 12/12 FREE
+LATTICE 151 components 3 good 0 dims {} zerobad 0
+LATTICE 161 components 2 good 0 dims {} zerobad 0
+LATTICE 171 components 2 good 1 dims {0} zerobad 0
+  COMP dim 0 degree 2 rank 12/12 FREE
+LATTICE 181 components 2 good 0 dims {} zerobad 0
+LATTICE 191 components 2 good 0 dims {} zerobad 0
+DONE
+ALLDONE

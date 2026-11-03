@@ -1,0 +1,9 @@
+FINAL {'empty-family-degenerate': 5, 'family': 23, 'empty': 10499, 'points': 25, 'cost>1': 1, 'empty-degenerate': 29} 4s
+FINAL {'empty-family-degenerate': 7, 'empty': 10495, 'points': 18, 'family': 18, 'empty-degenerate': 43, 'cost>1': 1} 4s
+FINAL {'family': 254, 'cost>1': 92, 'empty-family-degenerate': 142, 'empty': 76097, 'points': 289, 'empty-degenerate': 212} 29s
+FINAL {'empty-family-degenerate': 163, 'family': 288, 'points': 282, 'empty': 76021, 'cost>1': 89, 'empty-degenerate': 243} 29s
+FINAL {'cost>1': 519, 'family': 1840, 'empty-family-degenerate': 1549, 'empty': 361666, 'points': 2549, 'empty-degenerate': 889} 162s
+FINAL {'cost>1': 487, 'family': 1911, 'empty-family-degenerate': 1565, 'empty': 361585, 'points': 2606, 'empty-degenerate': 857} 158s
+FINAL {'cost>1': 3238, 'family': 9360, 'empty-family-degenerate': 8167, 'points': 18976, 'empty': 1415348, 'empty-degenerate': 3077} 820s
+FINAL {'cost>1': 3290, 'empty-family-degenerate': 8162, 'family': 9342, 'empty': 1415368, 'points': 18848, 'empty-degenerate': 3156} 830s
+ALL DONE Thu Oct 22 00:08:58 -03 2026

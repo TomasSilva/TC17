@@ -1,0 +1,19 @@
+7 1s LATTICE 7 components 2 good 0 dims {} zerobad 0
+17 0s LATTICE 17 components 2 good 0 dims {} zerobad 0
+27 1s LATTICE 27 components 3 good 0 dims {} zerobad 0
+37 1s LATTICE 37 components 3 good 1 dims {0} zerobad 0
+47 1s LATTICE 47 components 2 good 0 dims {} zerobad 0
+57 1s LATTICE 57 components 2 good 0 dims {} zerobad 0
+67 1s LATTICE 67 components 1 good 1 dims {0} zerobad 0
+77 300s LATTICE 77 TIMEOUT 300s
+87 1s LATTICE 87 components 3 good 1 dims {0} zerobad 0
+97 0s LATTICE 97 components 2 good 0 dims {} zerobad 0
+107 1s LATTICE 107 components 2 good 1 dims {0} zerobad 0
+117 1s LATTICE 117 components 2 good 1 dims {0} zerobad 0
+127 2s LATTICE 127 components 3 good 0 dims {} zerobad 0
+137 0s LATTICE 137 NONREAL
+147 1s LATTICE 147 components 2 good 0 dims {} zerobad 0
+157 1s LATTICE 157 components 6 good 0 dims {} zerobad 0
+167 1s LATTICE 167 components 3 good 0 dims {} zerobad 0
+177 1s LATTICE 177 components 2 good 0 dims {} zerobad 0
+187 1s LATTICE 187 components 3 good 0 dims {} zerobad 0

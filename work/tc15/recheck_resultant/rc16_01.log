@@ -1,0 +1,7 @@
+20000 {'NONREAL res': 19973, 'DEFER res-nonconst | pass2: NONREAL nf': 25, 'DEFER res-nonconst | pass2: NONREAL res2': 2} (89s)
+40000 {'NONREAL res': 39938, 'DEFER res-nonconst | pass2: NONREAL nf': 57, 'DEFER res-nonconst | pass2: NONREAL res2': 5} (175s)
+60000 {'NONREAL res': 59913, 'DEFER res-nonconst | pass2: NONREAL nf': 77, 'DEFER res-nonconst | pass2: NONREAL res2': 10} (256s)
+80000 {'NONREAL res': 79895, 'DEFER res-nonconst | pass2: NONREAL nf': 94, 'DEFER res-nonconst | pass2: NONREAL res2': 11} (319s)
+100000 {'NONREAL res': 99874, 'DEFER res-nonconst | pass2: NONREAL nf': 113, 'DEFER res-nonconst | pass2: NONREAL res2': 13} (383s)
+120000 {'NONREAL res': 119834, 'DEFER res-nonconst | pass2: NONREAL nf': 151, 'DEFER res-nonconst | pass2: NONREAL res2': 15} (442s)
+DONE 121811 {'NONREAL res': 121640, 'DEFER res-nonconst | pass2: NONREAL nf': 156, 'DEFER res-nonconst | pass2: NONREAL res2': 15} (448s)
